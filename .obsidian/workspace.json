@@ -93,14 +93,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Work/Code of Conduct/Anleitungen/Sitzplatzbuchung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "689eb62527d4227e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Code of Conduct/Anleitungen/FIORI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b06dae217341d4e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Code of Conduct/Anleitungen/Mail Signatur.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfeaef95a8cb9059",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Code of Conduct/Anleitungen/MS Teams.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5ed97c3fa7ffddc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Code of Conduct/Anleitungen/Einsatzplanung.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -166,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Work/Code of Conduct/Anleitungen/Einsatzplanung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Work/Code of Conduct/Anleitungen/Einsatzplanung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Work/Code of Conduct/Anleitungen/Einsatzplanung.md"
               }
             }
           },
@@ -235,10 +283,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8f1cb952648b9a8a",
+  "active": "c5ed97c3fa7ffddc",
   "lastOpenFiles": [
+    "Work/Code of Conduct/Anleitungen/MS Teams.md",
+    "Work/Code of Conduct/Anleitungen/Einsatzplanung.md",
+    "Teams Kanal, Einsatzplanung.pptx",
+    "Microsoft Teams.pptx",
+    "Work/Code of Conduct/Anleitungen/Mail Signatur.md",
+    "Mail Signatur.pptx",
+    "Work/Code of Conduct/Anleitungen/FIORI.md",
+    "FIORI.pptx",
+    "Work/Code of Conduct/Anleitungen/Sitzplatzbuchung.md",
     "Work/Code of Conduct/Anleitungen/Pflegen des Stundenzettels.md",
-    "Untitled.md",
+    "Anleitung Sitzplatzbuchung.pptx",
     "Anleitung Pflegen des Stundenzettels.pptx",
     "Work/Code of Conduct/Anleitungen/Outlook.md",
     "Work/Code of Conduct/Anleitungen/Anleitung Pflegen des Stundenzettels.pptx",
@@ -247,13 +304,8 @@
     "Work/Code of Conduct/Anleitungen/Abwesenheitsnotiz.md",
     "Anleitung Aufrufen des Ausbildungs- und Studienguide auf dem Teams Kanal.pptx",
     "Anleitung Abwesenheitsnotiz.pptx",
-    "Work/Code of Conduct/Anleitungen",
     "School/LF5/HA - LF5/HA - LF5 - Overview.md",
-    "Work/Code of Conduct",
     "School/LF5/HA - LF5/HW 04.09.23.md",
-    "School/DeKo/Notizen - DeKo",
-    "School/EnKo/Notizen - EnKo",
-    "School/LF1/Notizen - LF1",
     "Stundenplan.md",
     "HA - Link.md",
     "Overview.md",
