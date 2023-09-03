@@ -8,147 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "95b37938602cdb1d",
+            "id": "079a17e120ce63f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/LF5/HA - LF5/HA - LF5 - Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55ab9c2d3d96cfed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a52971ed0c215bfe",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "3fe5447186dd68eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Code of Conduct/Anleitungen/Abwesenheitsnotiz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "653d1984aad6bb6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Code of Conduct/Anleitungen/Aufrufen des Ausbildungsguides auf dem Teams Kanal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00f30bc141451748",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Code of Conduct/Anleitungen/Outlook.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cdab6ec07869a6ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Code of Conduct/Anleitungen/Pflegen des Stundenzettels.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f1cb952648b9a8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Code of Conduct/Anleitungen/Sitzplatzbuchung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "689eb62527d4227e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Code of Conduct/Anleitungen/FIORI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b06dae217341d4e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Code of Conduct/Anleitungen/Mail Signatur.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bfeaef95a8cb9059",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Code of Conduct/Anleitungen/MS Teams.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5ed97c3fa7ffddc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Code of Conduct/Anleitungen/Einsatzplanung.md",
+                "file": "Work/Code of Conduct/Dokumente/Unterweisungen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Code of Conduct/Anleitungen/Einsatzplanung.md",
+                "file": "Work/Code of Conduct/Dokumente/Unterweisungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Code of Conduct/Anleitungen/Einsatzplanung.md",
+                "file": "Work/Code of Conduct/Dokumente/Unterweisungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Code of Conduct/Anleitungen/Einsatzplanung.md"
+                "file": "Work/Code of Conduct/Dokumente/Unterweisungen.md"
               }
             }
           },
@@ -283,27 +154,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c5ed97c3fa7ffddc",
+  "active": "edbfeeb5d889d086",
   "lastOpenFiles": [
+    "Dokumentation Unterweisungen.pdf",
+    "Work/Code of Conduct/Dokumente/Unterweisungen.md",
+    "Work/Code of Conduct/Anleitungen/FIORI.md",
     "Work/Code of Conduct/Anleitungen/MS Teams.md",
+    "Work/Code of Conduct/Anleitungen/Mail Signatur.md",
+    "Work/Code of Conduct/Anleitungen/Sitzplatzbuchung.md",
+    "Work/Code of Conduct/Anleitungen/Pflegen des Stundenzettels.md",
+    "Work/Code of Conduct/Anleitungen/Outlook.md",
+    "Work/Code of Conduct/Anleitungen/Aufrufen des Ausbildungsguides auf dem Teams Kanal.md",
+    "Work/Code of Conduct/Anleitungen/Abwesenheitsnotiz.md",
+    "Work/Code of Conduct/Dokumente",
     "Work/Code of Conduct/Anleitungen/Einsatzplanung.md",
     "Teams Kanal, Einsatzplanung.pptx",
     "Microsoft Teams.pptx",
-    "Work/Code of Conduct/Anleitungen/Mail Signatur.md",
     "Mail Signatur.pptx",
-    "Work/Code of Conduct/Anleitungen/FIORI.md",
     "FIORI.pptx",
-    "Work/Code of Conduct/Anleitungen/Sitzplatzbuchung.md",
-    "Work/Code of Conduct/Anleitungen/Pflegen des Stundenzettels.md",
     "Anleitung Sitzplatzbuchung.pptx",
     "Anleitung Pflegen des Stundenzettels.pptx",
-    "Work/Code of Conduct/Anleitungen/Outlook.md",
     "Work/Code of Conduct/Anleitungen/Anleitung Pflegen des Stundenzettels.pptx",
     "Anleitung Outlook.pptx",
-    "Work/Code of Conduct/Anleitungen/Aufrufen des Ausbildungsguides auf dem Teams Kanal.md",
-    "Work/Code of Conduct/Anleitungen/Abwesenheitsnotiz.md",
-    "Anleitung Aufrufen des Ausbildungs- und Studienguide auf dem Teams Kanal.pptx",
-    "Anleitung Abwesenheitsnotiz.pptx",
     "School/LF5/HA - LF5/HA - LF5 - Overview.md",
     "School/LF5/HA - LF5/HW 04.09.23.md",
     "Stundenplan.md",
