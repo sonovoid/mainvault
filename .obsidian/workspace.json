@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d37ec25604fd94e2",
+        "id": "e03391f7de00a608",
         "type": "tabs",
         "children": [
           {
-            "id": "079a17e120ce63f6",
+            "id": "ca9f2b868b096202",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Code of Conduct/Dokumente/Unterweisungen.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Code of Conduct/Dokumente/Unterweisungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Code of Conduct/Dokumente/Unterweisungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Work/Code of Conduct/Dokumente/Unterweisungen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -136,8 +128,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "d12a96c5ccb85eb7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -154,17 +155,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "edbfeeb5d889d086",
+  "active": "d12a96c5ccb85eb7",
   "lastOpenFiles": [
-    "Dokumentation Unterweisungen.pdf",
+    "Work/Code of Conduct/Anleitungen/Aufrufen des Ausbildungsguides auf dem Teams Kanal.md",
+    "Work/Code of Conduct/Dokumente/Ausbildungsguide.md",
+    "Dein Ausbildungs-und Studienguide_Überarbeitungsstand_30.06.23.pdf",
+    "Work/Code of Conduct/Dokumente/Ausbildungsnachweis - Weekly.md",
+    "Work/Code of Conduct/Dokumente/Ausbildungsnachweis - Daily.md",
+    "Ausbildungsnachweis woechentlich.pdf",
+    "Ausbildungsnachweis woechentlich_IHK_L-Wob.doc",
     "Work/Code of Conduct/Dokumente/Unterweisungen.md",
+    "Ausbildungsnachweis taeglich_IHK_L-WOB.pdf",
+    "Dokumentation Unterweisungen.pdf",
     "Work/Code of Conduct/Anleitungen/FIORI.md",
     "Work/Code of Conduct/Anleitungen/MS Teams.md",
     "Work/Code of Conduct/Anleitungen/Mail Signatur.md",
     "Work/Code of Conduct/Anleitungen/Sitzplatzbuchung.md",
     "Work/Code of Conduct/Anleitungen/Pflegen des Stundenzettels.md",
     "Work/Code of Conduct/Anleitungen/Outlook.md",
-    "Work/Code of Conduct/Anleitungen/Aufrufen des Ausbildungsguides auf dem Teams Kanal.md",
     "Work/Code of Conduct/Anleitungen/Abwesenheitsnotiz.md",
     "Work/Code of Conduct/Dokumente",
     "Work/Code of Conduct/Anleitungen/Einsatzplanung.md",
@@ -172,10 +180,6 @@
     "Microsoft Teams.pptx",
     "Mail Signatur.pptx",
     "FIORI.pptx",
-    "Anleitung Sitzplatzbuchung.pptx",
-    "Anleitung Pflegen des Stundenzettels.pptx",
-    "Work/Code of Conduct/Anleitungen/Anleitung Pflegen des Stundenzettels.pptx",
-    "Anleitung Outlook.pptx",
     "School/LF5/HA - LF5/HA - LF5 - Overview.md",
     "School/LF5/HA - LF5/HW 04.09.23.md",
     "Stundenplan.md",
@@ -191,7 +195,6 @@
     "Stundenplan.png",
     "Lernfelder.png",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "2023-09-02.md"
+    "Untitled.canvas"
   ]
 }

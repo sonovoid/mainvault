@@ -1,0 +1,1 @@
+![[Dein Ausbildungs-und Studienguide_Überarbeitungsstand_30.06.23.pdf]]

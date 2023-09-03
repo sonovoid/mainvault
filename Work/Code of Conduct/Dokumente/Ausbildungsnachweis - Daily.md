@@ -1,0 +1,1 @@
+![[Ausbildungsnachweis taeglich_IHK_L-WOB.pdf]]
