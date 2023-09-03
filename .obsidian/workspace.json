@@ -8,15 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e23ccaa6fb306a6",
+            "id": "95b37938602cdb1d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "School/LF5/HA - LF5/HA - LF5 - Overview.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "95b37938602cdb1d",
+            "id": "55ab9c2d3d96cfed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stundenplan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a52971ed0c215bfe",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -43,7 +59,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -90,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Stundenplan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Stundenplan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,6 +145,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Stundenplan.md"
+              }
+            }
+          },
+          {
+            "id": "d455c18d2b9f08b2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
@@ -134,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,15 +171,38 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "95b37938602cdb1d",
+  "active": "55ab9c2d3d96cfed",
   "lastOpenFiles": [
-    "2023-09-02.md",
-    "Untitled.canvas",
+    "School/LF5/HA - LF5/HW 04.09.23.md",
+    "School/LF5/HA - LF5/HA - LF5 - Overview.md",
+    "HA - Link.md",
     "Overview.md",
+    "School/DeKo/HA - DeKo/HA - DeKo - Overview.md",
+    "School/LF3/HA - LF3",
+    "School/LF2/HA - LF2",
+    "School/LF1/HA - LF1",
+    "School/EnKo/HA - EnKo",
+    "School/DeKo/HA - DeKo",
+    "School/LF4/HA - LF4",
+    "School/EnKo/HA - EnKo/HA - EnKo - Overview.md",
+    "School/LF1/HA - LF1/HA - LF1 - Overview.md",
+    "School/LF2/HA - LF2/HA - LF2 - Overview.md",
+    "School/LF3/HA - LF3/HA - LF3 - Overview.md",
+    "School/LF4/HA - LF4/HA - LF4 - Overview.md",
+    "School/LF5/HA - LF5",
+    "Stundenplan.md",
+    "Work/Fachbereiche",
+    "Work/Fachbereiche/Individual Software Solutions",
+    "Work",
     "README.md",
-    "New Text Document.txt"
+    "Stundenplan.png",
+    "Lernfelder.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2023-09-02.md"
   ]
 }
