@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stundenplan.md",
+                "file": "School/LF5/HA - LF5/HA - LF5 - Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stundenplan.md",
+                "file": "School/LF5/HA - LF5/HA - LF5 - Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stundenplan.md",
+                "file": "School/LF5/HA - LF5/HA - LF5 - Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stundenplan.md"
+                "file": "School/LF5/HA - LF5/HA - LF5 - Overview.md"
               }
             }
           },
@@ -175,8 +175,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "55ab9c2d3d96cfed",
+  "active": "edbfeeb5d889d086",
   "lastOpenFiles": [
+    "Untitled",
+    "School/LF1/Notizen - LF1",
+    "School/LF2/Notizen - LF2",
+    "School/LF3/Notizen - LF3",
+    "School/LF4/Notizen - LF4",
+    "School/LF5/Notizen - LF5",
+    "Stundenplan.md",
     "School/LF5/HA - LF5/HW 04.09.23.md",
     "School/LF5/HA - LF5/HA - LF5 - Overview.md",
     "HA - Link.md",
@@ -187,17 +194,11 @@
     "School/LF1/HA - LF1",
     "School/EnKo/HA - EnKo",
     "School/DeKo/HA - DeKo",
-    "School/LF4/HA - LF4",
     "School/EnKo/HA - EnKo/HA - EnKo - Overview.md",
     "School/LF1/HA - LF1/HA - LF1 - Overview.md",
     "School/LF2/HA - LF2/HA - LF2 - Overview.md",
     "School/LF3/HA - LF3/HA - LF3 - Overview.md",
     "School/LF4/HA - LF4/HA - LF4 - Overview.md",
-    "School/LF5/HA - LF5",
-    "Stundenplan.md",
-    "Work/Fachbereiche",
-    "Work/Fachbereiche/Individual Software Solutions",
-    "Work",
     "README.md",
     "Stundenplan.png",
     "Lernfelder.png",
