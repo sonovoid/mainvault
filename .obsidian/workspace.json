@@ -45,14 +45,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Code of Conduct/Untitled.md",
+                "file": "Work/Code of Conduct/Anleitungen/Abwesenheitsnotiz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "653d1984aad6bb6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Code of Conduct/Anleitungen/Aufrufen des Ausbildungsguides auf dem Teams Kanal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00f30bc141451748",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Code of Conduct/Anleitungen/Outlook.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdab6ec07869a6ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Code of Conduct/Anleitungen/Pflegen des Stundenzettels.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f1cb952648b9a8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -118,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Code of Conduct/Untitled.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Code of Conduct/Untitled.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Code of Conduct/Untitled.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -187,25 +235,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "edbfeeb5d889d086",
+  "active": "8f1cb952648b9a8a",
   "lastOpenFiles": [
+    "Work/Code of Conduct/Anleitungen/Pflegen des Stundenzettels.md",
+    "Untitled.md",
+    "Anleitung Pflegen des Stundenzettels.pptx",
+    "Work/Code of Conduct/Anleitungen/Outlook.md",
+    "Work/Code of Conduct/Anleitungen/Anleitung Pflegen des Stundenzettels.pptx",
+    "Anleitung Outlook.pptx",
+    "Work/Code of Conduct/Anleitungen/Aufrufen des Ausbildungsguides auf dem Teams Kanal.md",
+    "Work/Code of Conduct/Anleitungen/Abwesenheitsnotiz.md",
+    "Anleitung Aufrufen des Ausbildungs- und Studienguide auf dem Teams Kanal.pptx",
+    "Anleitung Abwesenheitsnotiz.pptx",
+    "Work/Code of Conduct/Anleitungen",
     "School/LF5/HA - LF5/HA - LF5 - Overview.md",
-    "Work/Code of Conduct/Untitled.md",
     "Work/Code of Conduct",
     "School/LF5/HA - LF5/HW 04.09.23.md",
     "School/DeKo/Notizen - DeKo",
     "School/EnKo/Notizen - EnKo",
     "School/LF1/Notizen - LF1",
-    "School/LF2/Notizen - LF2",
-    "School/LF3/Notizen - LF3",
-    "School/LF4/Notizen - LF4",
-    "School/LF5/Notizen - LF5",
     "Stundenplan.md",
     "HA - Link.md",
     "Overview.md",
     "School/DeKo/HA - DeKo/HA - DeKo - Overview.md",
-    "School/LF3/HA - LF3",
-    "School/LF2/HA - LF2",
     "School/EnKo/HA - EnKo/HA - EnKo - Overview.md",
     "School/LF1/HA - LF1/HA - LF1 - Overview.md",
     "School/LF2/HA - LF2/HA - LF2 - Overview.md",
