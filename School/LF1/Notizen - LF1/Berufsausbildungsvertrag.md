@@ -10,3 +10,4 @@
 9. Hinweis auf Tarifverträge, Betriebs- oder Dienstvereinbarungen
 
 **Rechte und Pflichten des Auszubildenden und Ausbildenden**
+|

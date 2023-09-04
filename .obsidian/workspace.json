@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stundenplan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74381332fd734354",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "School/LF1/Notizen - LF1/Berufsausbildungsvertrag.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,11 +162,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "74381332fd734354",
+  "active": "469d9a1afb763738",
   "lastOpenFiles": [
     "School/LF5/HA - LF5/HW 04.09.23.md",
-    "School/LF1/Notizen - LF1/Berufsausbildungsvertrag.md",
     "Stundenplan.md",
+    "School/LF1/Notizen - LF1/Berufsausbildungsvertrag.md",
     "Work/Code of Conduct/Code of Conduct.md",
     "Overview.md",
     "Work/Code of Conduct/Dokumente/Ausbildungsguide.md",

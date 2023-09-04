@@ -4,6 +4,10 @@ Bestandteil
 Bearbeiten
 BQ
 Bj
+Berufsausbildungsvertrag
+Berufsausbildung
+Beginn
+Betriebs
 Aufgabe
 Aussagen
 Aufgabenbereiche
@@ -15,6 +19,12 @@ ANrw
 Adobe
 Acrobat
 Anleitungen
+Art
+Ausbildungsmaßnahmen
+Ausbildungsstätte
+Ausbildungszeit
+Ausbildungsvergütung
+Ausbildenden
 Welche
 Wählen
 Wissen
@@ -37,11 +47,14 @@ sGS
 software
 sn
 startxref
+sachliche
+sowie
 richtig
 respektvoller
 rGeoTrust
 rAdobe
 rc
+regelmäßigen
 falsch
 fundierten
 fachlichen
@@ -108,6 +121,7 @@ man
 mI
 mO
 mF
+mindestens
 dem
 drei
 due
@@ -120,6 +134,7 @@ die
 dass
 dbO
 dh
+des
 Programmieren
 Python
 Programmiersprachen
@@ -131,6 +146,8 @@ PDF
 PE
 Product
 Prev
+Probezeit
+Pflichten
 von
 vielfältig
 verfasst
@@ -140,6 +157,7 @@ vermitteln
 vh
 vI
 vOCdD
+vom
 Die
 Debuggen
 Da
@@ -147,6 +165,8 @@ DBNOW
 DK
 Dke
 Dokumente
+Dauer
+Dienstvereinbarungen
 Neben
 NZo
 Nl
@@ -160,6 +180,7 @@ Kunden
 Kollege
 Kd
 KR
+Kündigungsvoraussetzungen
 auch
 andere
 aus
@@ -177,6 +198,8 @@ are
 as
 agreement
 accompanying
+außerhalb
+auf
 Java
 JRd
 JX
@@ -185,6 +208,7 @@ Jf
 JYM
 Jx
 JQ
+Jahre
 und
 until
 um
@@ -195,6 +219,7 @@ hilft
 hierbei
 hat
 hH
+höchstens
 wichtige
 werden
 welche
@@ -242,11 +267,14 @@ TS
 Tb
 TQ
 Trust
+Tarifverträge
 Heutzutage
 Herausforderungen
 Hindernisse
 HOzz
 Hd
+Höhe
+Hinweis
 teamfähig
 todo
 technisches
@@ -256,6 +284,7 @@ to
 this
 ted
 the
+täglichen
 erscheinen
 einem
 ein
@@ -311,6 +340,9 @@ Man
 Mensch
 MQfQ
 MV
+Mindestangaben
+Monat
+Monate
 logisch
 lZD
 lfq
@@ -330,6 +362,7 @@ zu
 zusammen
 zxn
 zX
+zeitliche
 geht
 gutes
 gh
@@ -338,10 +371,12 @@ Gleichzeitig
 GN
 Gp
 GA
+Gliederung
 Umgang
 Umfeld
 US
 UeJk
+Urlaubs
 ObjStm
 jE
 jZ
@@ -370,5 +405,9 @@ ZxY
 ZG
 Zn
 ZW
+Ziel
+Zahlungstermine
 Rih
 Root
+Regel
+Rechte
