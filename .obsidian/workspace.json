@@ -23,8 +23,12 @@
             "id": "8c4a0bf63591c66e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "School/LF4/Notizen - LF4/04.09.23 - LF4 - IT-Sicherheitsrichtlinie.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School/LF4/Notizen - LF4/04.09.23 - LF4 - IT-Sicherheitsrichtlinie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School/LF4/Notizen - LF4/04.09.23 - LF4 - IT-Sicherheitsrichtlinie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School/LF4/Notizen - LF4/04.09.23 - LF4 - IT-Sicherheitsrichtlinie.md"
+              }
             }
           },
           {
@@ -170,16 +178,19 @@
   },
   "active": "8c4a0bf63591c66e",
   "lastOpenFiles": [
+    "School/LF1/Notizen - LF1/04.09.23 - LF1 - Berufsausbildungsvertrag.md",
+    "School/LF4/Notizen - LF4/04.09.23 - LF4 - IT-Sicherheitsrichtlinie.md",
+    "School/LF1/HA - LF1/HA - LF1 - Overview.md",
+    "Work/Code of Conduct/Anleitungen/Einsatzplanung.md",
+    "Work/Code of Conduct/Anleitungen/MS Teams.md",
+    "Work/Code of Conduct/Code of Conduct.md",
+    "Overview.md",
+    "Work/Code of Conduct/Anleitungen/Abwesenheitsnotiz.md",
     "School/LF5/HA - LF5/HW 04.09.23.md",
     "School/LF5/HA - LF5/HA - LF5 - Overview.md",
     "HA - Link.md",
-    "Overview.md",
-    "School/LF4/Notizen - LF4/04.09.23 - LF4 - IT-Sicherheitsrichtlinie.md",
-    "School/LF1/Notizen - LF1/04.09.23 - LF1 - Berufsausbildungsvertrag.md",
     "Stundenplan.md",
-    "Work/Code of Conduct/Code of Conduct.md",
     "Work/Code of Conduct/Dokumente/Ausbildungsguide.md",
-    "Work/Code of Conduct/Anleitungen/Abwesenheitsnotiz.md",
     "Work/Code of Conduct/Anleitungen/Aufrufen des Ausbildungsguides auf dem Teams Kanal.md",
     "Dein Ausbildungs-und Studienguide_Überarbeitungsstand_30.06.23.pdf",
     "Work/Code of Conduct/Dokumente/Ausbildungsnachweis - Weekly.md",
@@ -190,20 +201,17 @@
     "Ausbildungsnachweis taeglich_IHK_L-WOB.pdf",
     "Dokumentation Unterweisungen.pdf",
     "Work/Code of Conduct/Anleitungen/FIORI.md",
-    "Work/Code of Conduct/Anleitungen/MS Teams.md",
     "Work/Code of Conduct/Anleitungen/Mail Signatur.md",
     "Work/Code of Conduct/Anleitungen/Sitzplatzbuchung.md",
     "Work/Code of Conduct/Anleitungen/Pflegen des Stundenzettels.md",
     "Work/Code of Conduct/Anleitungen/Outlook.md",
     "Work/Code of Conduct/Dokumente",
-    "Work/Code of Conduct/Anleitungen/Einsatzplanung.md",
     "Teams Kanal, Einsatzplanung.pptx",
     "Microsoft Teams.pptx",
     "Mail Signatur.pptx",
     "FIORI.pptx",
     "School/DeKo/HA - DeKo/HA - DeKo - Overview.md",
     "School/EnKo/HA - EnKo/HA - EnKo - Overview.md",
-    "School/LF1/HA - LF1/HA - LF1 - Overview.md",
     "School/LF2/HA - LF2/HA - LF2 - Overview.md",
     "School/LF3/HA - LF3/HA - LF3 - Overview.md",
     "Stundenplan.png",
