@@ -40,7 +40,11 @@ Jeder Mitarbeiter trägt selbst Verantwortung zur Sicherheit der gesamten IT-Sys
 
 Jeder, der auf die IT-Systeme zugreift, verpflichtet sich, die IT-Sicherheitsrichtlinie durchgelesen zu haben und zu befolgen.
 
-Unter dem Begriff IT-Systeme, versteht man 
+Unter dem Begriff IT-Systeme, versteht man alle Hardware- und Software-Ressourcen, die für jegliche Geschäftszwecke verwendet werden.
+
+Ein Begriff vorweg: Schadprogramme sind Software, die versuchen Informationen zu stehlen, interne Schäden zu verursachen oder die verfügbaren IT-Systeme zu beeinträchtigen.
+
+
 
 
 
