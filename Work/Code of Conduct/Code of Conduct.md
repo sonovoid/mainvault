@@ -1,6 +1,6 @@
 
 ___
-#### [[Anleitungen]]
+#### Anleitungen
 
 ___
 [[Abwesenheitsnotiz]]
@@ -13,7 +13,7 @@ ___
 [[MS Teams]]
 [[Einsatzplanung]]
 ___
-#### [[Dokumente]]
+#### Dokumente
 
 ___
 [[Unterweisungen]]
