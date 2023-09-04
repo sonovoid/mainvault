@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "469d9a1afb763738",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stundenplan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c4a0bf63591c66e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/LF4/Notizen - LF4/04.09.23 - LF4 - IT-Sicherheitsrichtlinie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c98cbf5a9f8589d0",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +163,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "edbfeeb5d889d086",
+  "active": "c98cbf5a9f8589d0",
   "lastOpenFiles": [
     "School/LF4/Notizen - LF4/04.09.23 - LF4 - IT-Sicherheitsrichtlinie.md",
     "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md",

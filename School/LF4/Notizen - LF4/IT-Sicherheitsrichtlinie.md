@@ -33,3 +33,7 @@ Mitarbeiter sind verpflichtet, bei der Untersuchung von Sicherheitsvorfällen ko
 Diese IT-Sicherheitsrichtlinie ist verbindlich und wird regelmäßig überprüft und aktualisiert, um sicherzustellen, dass sie den aktuellen Bedrohungen und Best Practices entspricht.  
 
 Jeder Mitarbeiter ist verantwortlich für die Einhaltung dieser Richtlinie, um die Sicherheit unserer IT-Systeme zu gewährleisten.
+
+___
+Eine IT-Sicherheitsrichtlinie ist von Vorteil, da diese sicherstellt, dass die Integrität, Vertraulichkeit und 24/7 Verfügbarkeit der vorhandenen Informationen und IT-Systeme des Unternehmens gewährleistet werden. 
+
