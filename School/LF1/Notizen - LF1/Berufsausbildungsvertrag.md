@@ -9,5 +9,14 @@
 8. Kündigungsvoraussetzungen
 9. Hinweis auf Tarifverträge, Betriebs- oder Dienstvereinbarungen
 
-**Rechte und Pflichten des Auszubildenden und Ausbildenden**
-|
+#### **Rechte und Pflichten des Auszubildenden und Ausbildenden**
+##### Pflichten des Ausbildenden
+- **Ausbildungspflicht** - Vermittlung von Kenntnissen, Fertigkeiten & beruflicher Handlungsfähigkeit
+- kostenlose **Bereitstellung der Ausbildungsmittel**
+- Freistellung zum **Berufsschulbesuch**
+- Zahlung der **Ausbildungsvergütung**. 2023 beträgt die **Mindestvergütung** 620€
+- **Fürsorgepflicht** - Zahlung der Beiträge der Sozialversicherung
+- Ausbilder darf nur **Arbeiten anordnen**, die zum Ausbildungsberuf gehören.
+- Pflicht zur **Zeugnisausstellung**
+##### Pflichten des Auszubildenden
+- **Lernpflicht**
