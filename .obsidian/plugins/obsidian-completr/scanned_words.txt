@@ -373,6 +373,7 @@ Nutzung
 Nicht
 Nummern
 Namen
+Nr
 Kenntnissen
 Kompetenzen
 Kenntnisse
