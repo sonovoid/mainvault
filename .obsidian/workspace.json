@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Code of Conduct/Code of Conduct.md",
+                "file": "Stundenplan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74381332fd734354",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/LF1/Notizen - LF1/Berufsausbildungsvertrag.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Code of Conduct/Code of Conduct.md",
+                "file": "School/LF1/Notizen - LF1/Berufsausbildungsvertrag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Code of Conduct/Code of Conduct.md",
+                "file": "School/LF1/Notizen - LF1/Berufsausbildungsvertrag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Code of Conduct/Code of Conduct.md"
+                "file": "School/LF1/Notizen - LF1/Berufsausbildungsvertrag.md"
               }
             }
           },
@@ -175,11 +187,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "469d9a1afb763738",
+  "active": "74381332fd734354",
   "lastOpenFiles": [
-    "Overview.md",
     "School/LF5/HA - LF5/HW 04.09.23.md",
+    "School/LF1/Notizen - LF1/Berufsausbildungsvertrag.md",
+    "Stundenplan.md",
     "Work/Code of Conduct/Code of Conduct.md",
+    "Overview.md",
     "Work/Code of Conduct/Dokumente/Ausbildungsguide.md",
     "Work/Code of Conduct/Anleitungen/Abwesenheitsnotiz.md",
     "Work/Code of Conduct/Anleitungen/Aufrufen des Ausbildungsguides auf dem Teams Kanal.md",
@@ -204,7 +218,6 @@
     "Mail Signatur.pptx",
     "FIORI.pptx",
     "School/LF5/HA - LF5/HA - LF5 - Overview.md",
-    "Stundenplan.md",
     "HA - Link.md",
     "School/DeKo/HA - DeKo/HA - DeKo - Overview.md",
     "School/EnKo/HA - EnKo/HA - EnKo - Overview.md",
@@ -212,7 +225,6 @@
     "School/LF2/HA - LF2/HA - LF2 - Overview.md",
     "School/LF3/HA - LF3/HA - LF3 - Overview.md",
     "School/LF4/HA - LF4/HA - LF4 - Overview.md",
-    "README.md",
     "Stundenplan.png",
     "Lernfelder.png",
     "Untitled 1.canvas",
