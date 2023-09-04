@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b9aa05a58478a383",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/LF5/Notizen - LF5/04.09.23 - LF5 - PHP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/LF5/HA - LF5/HA - LF5 - Overview.md",
+                "file": "School/LF5/Notizen - LF5/04.09.23 - LF5 - PHP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/LF5/HA - LF5/HA - LF5 - Overview.md",
+                "file": "School/LF5/Notizen - LF5/04.09.23 - LF5 - PHP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/LF5/HA - LF5/HA - LF5 - Overview.md"
+                "file": "School/LF5/Notizen - LF5/04.09.23 - LF5 - PHP.md"
               }
             }
           },
@@ -176,11 +188,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e13f12cdc3ecadf7",
+  "active": "edbfeeb5d889d086",
   "lastOpenFiles": [
+    "School/LF5/HA - LF5/HA - LF5 - Overview.md",
+    "School/LF5/Notizen - LF5/04.09.23 - LF5 - PHP.md",
     "School/LF5/HA - LF5/HW 11.09.23.md",
     "School/LF5/HA - LF5/HW 04.09.23.md",
-    "School/LF5/HA - LF5/HA - LF5 - Overview.md",
     "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md",
     "Stundenplan.md",
     "Overview.md",
@@ -214,7 +227,6 @@
     "Mail Signatur.pptx",
     "FIORI.pptx",
     "School/DeKo/HA - DeKo/HA - DeKo - Overview.md",
-    "School/EnKo/HA - EnKo/HA - EnKo - Overview.md",
     "Stundenplan.png",
     "Lernfelder.png",
     "Untitled 1.canvas",
