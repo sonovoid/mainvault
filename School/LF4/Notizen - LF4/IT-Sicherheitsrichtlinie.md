@@ -50,9 +50,12 @@ Weitergabe der internen Informationen, sowie Daten oder Zugriff auf IT-Systeme a
 
 Mitarbeiter sollen keine unbekannte und keine inoffizielle Software auf Unternehmenseigene IT-Systeme installieren.
 
-Schadprogramme können üblicherweise über E-Mail-Anhänge, infizierte Websites oder externe Speichermedien wie bspw. 
+Schadprogramme können üblicherweise über E-Mail-Anhänge, infizierte Websites oder externe Speichermedien wie bspw. USB-Sticks. 
 
+Man bemerkt ein infiziertes System üblicherweise an unüblichen Systemverlangsamungen, abstürze, ungewollte Datenverluste oder Datenmanipulationen, verdächtige Warnmeldungen sowie Pop-ups. 
 
+Sollte ein Verdacht bestehen, sollte dem IT-Sicherheitsteam so schnell wie möglich bescheid gegeben werden. 
+Betroffene IT-Systeme dürfen nicht weitergenutzt werden, bis diese vom IT-S
 
 
 
