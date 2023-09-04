@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT-Sicherheitsrichtlinie.md",
+                "file": "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 200
   },
   "right": {
     "id": "80c809b1326bad8f",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT-Sicherheitsrichtlinie.md",
+                "file": "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT-Sicherheitsrichtlinie.md",
+                "file": "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT-Sicherheitsrichtlinie.md"
+                "file": "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md"
               }
             }
           },
@@ -188,10 +188,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c98cbf5a9f8589d0",
+  "active": "edbfeeb5d889d086",
   "lastOpenFiles": [
     "School/LF4/Notizen - LF4/04.09.23 - LF4 - IT-Sicherheitsrichtlinie.md",
-    "IT-Sicherheitsrichtlinie.md",
+    "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md",
     "School/LF1/Notizen - LF1/04.09.23 - LF1 - Berufsausbildungsvertrag.md",
     "School/LF1/HA - LF1/HA - LF1 - Overview.md",
     "Work/Code of Conduct/Anleitungen/Einsatzplanung.md",
