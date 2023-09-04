@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stundenplan.md",
+                "file": "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stundenplan.md",
+                "file": "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stundenplan.md",
+                "file": "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stundenplan.md"
+                "file": "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "c98cbf5a9f8589d0",
   "lastOpenFiles": [
+    "Stundenplan.md",
     "Overview.md",
     "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md",
     "School/LF4/Notizen - LF4/04.09.23 - LF4 - IT-Sicherheitsrichtlinie.md",
@@ -178,7 +179,6 @@
     "School/LF5/HA - LF5/HW 04.09.23.md",
     "School/LF5/HA - LF5/HA - LF5 - Overview.md",
     "HA - Link.md",
-    "Stundenplan.md",
     "Work/Code of Conduct/Dokumente/Ausbildungsguide.md",
     "Work/Code of Conduct/Anleitungen/Aufrufen des Ausbildungsguides auf dem Teams Kanal.md",
     "Dein Ausbildungs-und Studienguide_Überarbeitungsstand_30.06.23.pdf",
