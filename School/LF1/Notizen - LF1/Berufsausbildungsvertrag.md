@@ -4,4 +4,9 @@
 3. Ausbildungsmaßnahmen außerhalb der Ausbildungsstätte
 4. Dauer der regelmäßigen täglichen Ausbildungszeit
 5. Dauer der Probezeit - mindestens 1 Monat, höchstens 4 Monate
-6. Zahlungsterm
+6. Zahlungstermine und Höhe der Ausbildungsvergütung
+7. Dauer des Urlaubs
+8. Kündigungsvoraussetzungen
+9. Hinweis auf Tarifverträge, Betriebs- oder Dienstvereinbarungen
+
+**Rechte und Pflichten des Auszubildenden und Ausbildenden**
