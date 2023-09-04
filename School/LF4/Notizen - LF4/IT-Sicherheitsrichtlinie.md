@@ -44,8 +44,13 @@ Unter dem Begriff IT-Systeme, versteht man alle Hardware- und Software-Ressource
 
 Ein Begriff vorweg: Schadprogramme sind Software, die versuchen Informationen zu stehlen, interne Schäden zu verursachen oder die verfügbaren IT-Systeme zu beeinträchtigen.
 
+Passwörter sollen mehrere Zeichen, Groß- und Kleinschreibung, Nummern und Sonderzeichen beinhalten, sowie alle 6 Monate geändert werden. Passwörter sollen am besten keinen eigenen Namen, Vornamen und Geburtstag enthalten.
 
+Weitergabe der internen Informationen, sowie Daten oder Zugriff auf IT-Systeme an Dritte ist verboten.
 
+Mitarbeiter sollen keine unbekannte und keine inoffizielle Software auf Unternehmenseigene IT-Systeme installieren.
+
+Schadprogramme können üblicherweise über E-Mail-Anhänge, infizierte Websites oder externe Speichermedien wie bspw. 
 
 
 
