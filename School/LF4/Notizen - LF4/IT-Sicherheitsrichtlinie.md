@@ -38,7 +38,9 @@ Eine IT-Sicherheitsrichtlinie ist von Vorteil, da diese sicherstellt, dass die I
 
 Jeder Mitarbeiter trägt selbst Verantwortung zur Sicherheit der gesamten IT-Systeme und soll zur allgemeinen Sicherheit beitragen.
 
-Jed
+Jeder, der auf die IT-Systeme zugreift, verpflichtet sich, die IT-Sicherheitsrichtlinie durchgelesen zu haben und zu befolgen.
+
+Unter dem Begriff IT-Systeme, versteht man 
 
 
 
