@@ -260,6 +260,7 @@ bemerkt
 bestehen
 bescheid
 beat
+befragen
 nur
 noch
 nicht
@@ -324,6 +325,7 @@ darauf
 dürfen
 dieser
 durchgelesen
+dokumentieren
 Programmieren
 Python
 Programmiersprachen
@@ -443,6 +445,7 @@ Kaffeebecher
 Kaffeepad
 Kontrolle
 Kriterien
+Kwitt
 auch
 andere
 aus
@@ -476,6 +479,8 @@ aktualisiert
 aktuellen
 allgemeinen
 annotation
+ausgefüllten
+abgeben
 Java
 JRd
 JX
@@ -600,6 +605,7 @@ Formulars
 Für
 Frist
 Funktion
+Fragebogen
 Testen
 Tellerrand
 Teammitgliedern
@@ -630,6 +636,7 @@ Hans
 Handwerksordnung
 Hardware
 HDD
+Herrn
 teamfähig
 todo
 technisches
@@ -677,6 +684,7 @@ essbar
 ealistisch
 erminiert
 entwickeln
+erstellen
 kurz
 können
 kommunizieren
