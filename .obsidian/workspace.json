@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/EnKo/Notizen - EnKo/08.09.23 - EnKo.md",
+                "file": "Stundenplan.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/EnKo/Notizen - EnKo/08.09.23 - EnKo.md",
+                "file": "Stundenplan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/EnKo/Notizen - EnKo/08.09.23 - EnKo.md",
+                "file": "Stundenplan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/EnKo/Notizen - EnKo/08.09.23 - EnKo.md"
+                "file": "Stundenplan.md"
               }
             }
           },
@@ -262,8 +262,15 @@
   },
   "active": "a6139d6d0c1feb54",
   "lastOpenFiles": [
-    "School/EnKo/Notizen - EnKo/01.09.23 - EnKo.md",
+    "School/LF5/HA - LF5/HW 04.09.23.md",
+    "School/LF5/HA - LF5/HA - LF5 - Overview.md",
+    "School/LF5/Notizen - LF5/04.09.23 - LF5 - PHP.md",
+    "School/LF4/Notizen - LF4/04.09.23 - LF4 - IT-Sicherheitsrichtlinie.md",
+    "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md",
+    "Stundenplan.md",
+    "School/LF1/Notizen - LF1/04.09.23 - LF1 - Berufsausbildungsvertrag.md",
     "School/EnKo/Notizen - EnKo/08.09.23 - EnKo.md",
+    "School/EnKo/Notizen - EnKo/01.09.23 - EnKo.md",
     "Legal status 2.pdf",
     "mcdonaldsenglish.png",
     "Legal Status 1.pdf",
@@ -272,14 +279,10 @@
     "Dokumentation Unterweisungen.pdf",
     "Glossar.pdf",
     "School/LF3/HA - LF3/HA - LF3 - Overview.md",
-    "School/LF4/Notizen - LF4/04.09.23 - LF4 - IT-Sicherheitsrichtlinie.md",
-    "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md",
-    "School/LF5/Notizen - LF5/04.09.23 - LF5 - PHP.md",
     "School/LF2/Notizen - LF2/08.09.23 - Fragenkatalog.md",
     "Work/Code of Conduct/Dokumente/Ausbildungsnachweis - Weekly.md",
     "ZNOwcnwkeb 1.png",
     "ZNOwcnwkeb.png",
-    "Stundenplan.md",
     "School/LF2/Notizen - LF2/08.09.23 - LF2.md",
     "Work/Code of Conduct/Dokumente/Ausbildungsguide.md",
     "Work/Code of Conduct/Code of Conduct.md",
@@ -289,12 +292,9 @@
     "School/DeKo/Notizen - DeKo/08.09.2023 - DeKo - Overview.md",
     "Müll_deutsch.pdf",
     "School/DeKo/HA - DeKo/HA - DeKo - Overview.md",
-    "School/LF5/HA - LF5/HA - LF5 - Overview.md",
     "School/LF5/HA - LF5/HW 11.09.23.md",
-    "School/LF5/HA - LF5/HW 04.09.23.md",
     "Overview.md",
     "IT-Notfallkarte.jpg",
-    "School/LF1/Notizen - LF1/04.09.23 - LF1 - Berufsausbildungsvertrag.md",
     "School/LF1/HA - LF1/HA - LF1 - Overview.md",
     "Work/Code of Conduct/Anleitungen/Einsatzplanung.md",
     "Work/Code of Conduct/Anleitungen/MS Teams.md",
