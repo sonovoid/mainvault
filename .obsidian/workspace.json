@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/DeKo/Notizen - DeKo/08.09.2023 - DeKo - Overview.md",
+                "file": "School/LF2/HA - LF2/HA - LF2 - Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0033ed5d0f668c3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/LF2/Notizen - LF2/08.09.23 - LF2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/DeKo/Notizen - DeKo/08.09.2023 - DeKo - Overview.md",
+                "file": "School/LF2/Notizen - LF2/08.09.23 - LF2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/DeKo/Notizen - DeKo/08.09.2023 - DeKo - Overview.md",
+                "file": "School/LF2/Notizen - LF2/08.09.23 - LF2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/DeKo/Notizen - DeKo/08.09.2023 - DeKo - Overview.md"
+                "file": "School/LF2/Notizen - LF2/08.09.23 - LF2.md"
               }
             }
           },
@@ -200,17 +212,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "999e7a448fedf879",
+  "active": "0033ed5d0f668c3e",
   "lastOpenFiles": [
+    "School/LF2/HA - LF2/HA - LF2 - Overview.md",
+    "School/LF2/Notizen - LF2/08.09.23 - LF2.md",
+    "Stundenplan.md",
+    "School/DeKo/Notizen - DeKo/08.09.2023 - DeKo - Overview.md",
     "Müll_deutsch.pdf",
     "School/DeKo/HA - DeKo/HA - DeKo - Overview.md",
-    "School/DeKo/Notizen - DeKo/08.09.2023 - DeKo - Overview.md",
     "School/LF5/Notizen - LF5/04.09.23 - LF5 - PHP.md",
     "School/LF5/HA - LF5/HA - LF5 - Overview.md",
     "School/LF5/HA - LF5/HW 11.09.23.md",
     "School/LF5/HA - LF5/HW 04.09.23.md",
     "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md",
-    "Stundenplan.md",
     "Overview.md",
     "School/LF4/Notizen - LF4/04.09.23 - LF4 - IT-Sicherheitsrichtlinie.md",
     "IT-Notfallkarte.jpg",
@@ -233,12 +247,10 @@
     "Dokumentation Unterweisungen.pdf",
     "Work/Code of Conduct/Anleitungen/FIORI.md",
     "Work/Code of Conduct/Anleitungen/Mail Signatur.md",
-    "Work/Code of Conduct/Anleitungen/Sitzplatzbuchung.md",
     "Work/Code of Conduct/Dokumente",
     "Teams Kanal, Einsatzplanung.pptx",
     "Microsoft Teams.pptx",
     "Mail Signatur.pptx",
-    "FIORI.pptx",
     "Stundenplan.png",
     "Lernfelder.png",
     "Untitled 1.canvas",
