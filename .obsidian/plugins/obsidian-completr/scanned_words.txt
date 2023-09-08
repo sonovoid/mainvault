@@ -28,6 +28,7 @@ Best
 Begriff
 Beliebig
 Blechdose
+Bildschirmarbeitsplätze
 Aufgabe
 Aussagen
 Aufgabenbereiche
@@ -435,6 +436,7 @@ Konkatenator
 Kaffeebecher
 Kaffeepad
 Kontrolle
+Kriterien
 auch
 andere
 aus
@@ -908,5 +910,6 @@ Reflektion
 RTX
 Ryzen
 RAM
+Rechtsvorschriften
 ändern
 Öffnen
