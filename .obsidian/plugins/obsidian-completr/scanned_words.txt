@@ -26,6 +26,7 @@ Betroffene
 Bedrohungen
 Best
 Begriff
+Beliebig
 Aufgabe
 Aussagen
 Aufgabenbereiche
@@ -71,6 +72,7 @@ Auftragnehmer
 Alle
 Anhänge
 Anhängen
+Anweisung
 Welche
 Wählen
 Wissen
@@ -194,6 +196,7 @@ Sonderzeichen
 Sticks
 System
 Sollte
+Sensitive
 beschäftigen
 benötigen
 besitzen
@@ -315,6 +318,7 @@ Parteien
 Passwörter
 Pop
 Practices
+PHP
 von
 vielfältig
 verfasst
@@ -345,6 +349,7 @@ verwendet
 vorweg
 versuchen
 verfügbaren
+viele
 Die
 Debuggen
 Da
@@ -374,6 +379,7 @@ Nicht
 Nummern
 Namen
 Nr
+Nach
 Kenntnissen
 Kompetenzen
 Kenntnisse
@@ -388,6 +394,7 @@ Kündigung
 Kraftfahrzeugmechatronikerin
 Kündigungen
 Kleinschreibung
+Konkatenator
 auch
 andere
 aus
@@ -511,6 +518,7 @@ Verantwortung
 Verdächtige
 Verdacht
 Vornamen
+Variablen
 Entwicklerdokumentationen
 Entscheidung
 Es
@@ -664,6 +672,7 @@ Certificate
 CA
 CRL
 Chef
+Case
 Man
 Mensch
 MQfQ
@@ -698,6 +707,7 @@ LH
 License
 Lernpflicht
 Lehre
+Leerzeichen
 zu
 zusammen
 zxn
@@ -773,6 +783,7 @@ jZ
 jM
 jährige
 jegliche
+jeder
 Xg
 XU
 XR
@@ -808,11 +819,13 @@ Zugriff
 Zwecke
 Zugriffsversuche
 Zeichen
+Zuweisungsoperator
 Rih
 Root
 Regel
 Rechte
 Richtlinie
 Ressourcen
+Regeln
 ändern
 Öffnen
