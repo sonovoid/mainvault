@@ -1,1 +1,11 @@
-{}
+{
+  "obsidian-annotator:toggle-annotation-mode": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ]
+}

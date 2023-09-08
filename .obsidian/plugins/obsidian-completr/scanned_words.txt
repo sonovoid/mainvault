@@ -76,6 +76,10 @@ Anhängen
 Anweisung
 Angelschnur
 Auswertung
+AMD
+ASRock
+Auftrag
+Anforderungsermittlung
 Welche
 Wählen
 Wissen
@@ -210,6 +214,9 @@ Sensitive
 Spitze
 Südostasien
 Styroporbecher
+Steel
+Speicher
+SSD
 beschäftigen
 benötigen
 besitzen
@@ -344,6 +351,7 @@ Projektprinzip
 Phasen
 Phase
 Planung
+Phanteks
 von
 vielfältig
 verfasst
@@ -393,6 +401,7 @@ Das
 Datenverluste
 Datenmanipulationen
 Deutschland
+DDR
 Neben
 NZo
 Nl
@@ -407,6 +416,7 @@ Namen
 Nr
 Nach
 Nur
+Notizen
 Kenntnissen
 Kompetenzen
 Kenntnisse
@@ -457,6 +467,7 @@ abstürze
 aktualisiert
 aktuellen
 allgemeinen
+annotation
 Java
 JRd
 JX
@@ -564,6 +575,7 @@ Einleitung
 Externe
 Eine
 Ein
+Eclipse
 Fachkenntnisse
 Falle
 Filter
@@ -595,6 +607,8 @@ Tarifverträge
 Tätigkeit
 Tätlichkeiten
 Treibhausgas
+Trident
+TB
 Heutzutage
 Herausforderungen
 Hindernisse
@@ -607,6 +621,7 @@ Handwerkskammer
 Hans
 Handwerksordnung
 Hardware
+HDD
 teamfähig
 todo
 technisches
@@ -620,6 +635,7 @@ täglichen
 trägt
 tief
 ttraktiv
+target
 erscheinen
 einem
 ein
@@ -700,6 +716,7 @@ prüfen
 persönlicher
 persönliche
 pezifisch
+pdf
 Code
 Chance
 Cd
@@ -712,6 +729,7 @@ CA
 CRL
 Chef
 Case
+CPU
 Man
 Mensch
 MQfQ
@@ -727,6 +745,8 @@ Mitarbeiter
 Mail
 Müll
 Methan
+Mhz
+Mainboard
 logisch
 lZD
 lfq
@@ -752,6 +772,8 @@ Lernpflicht
 Lehre
 Leerzeichen
 Lückentext
+Legend
+LF
 zu
 zusammen
 zxn
@@ -808,6 +830,8 @@ Geburtstag
 Great
 Garbage
 Getränkehalter
+GPU
+GB
 Umgang
 Umfeld
 US
@@ -881,5 +905,8 @@ Ressourcen
 Regeln
 Raum
 Reflektion
+RTX
+Ryzen
+RAM
 ändern
 Öffnen
