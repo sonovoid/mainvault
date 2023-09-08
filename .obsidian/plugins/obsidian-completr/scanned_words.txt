@@ -164,6 +164,7 @@ Area
 Adresse
 Ansichten
 Anschlusseinheit
+Alleinverkaufsrecht
 Welche
 Wählen
 Wissen
@@ -304,6 +305,8 @@ sF
 sA
 sX
 sB
+sales
+spread
 richtig
 respektvoller
 rGeoTrust
@@ -347,6 +350,8 @@ rt
 rT
 rm
 räumlich
+real
+revenue
 falsch
 fundierten
 fachlichen
@@ -389,6 +394,9 @@ fmu
 fi
 fK
 fF
+funktionieren
+franchise
+franchisee
 Softwareentwickler
 Software
 Softwareentwicklern
@@ -550,6 +558,8 @@ bH
 bf
 bV
 begrenzt
+business
+bedienen
 nur
 noch
 nicht
@@ -651,6 +661,7 @@ mJ
 mWQ
 mv
 mvdc
+maintaining
 dem
 drei
 due
@@ -718,6 +729,7 @@ dZ
 dQ
 definiert
 def
+disposable
 Programmieren
 Python
 Programmiersprachen
@@ -843,6 +855,7 @@ vx
 vhV
 vv
 vm
+verbreiten
 Die
 Debuggen
 Da
@@ -1073,6 +1086,8 @@ aj
 aX
 aQ
 apN
+assembly
+ausweiten
 Java
 JRd
 JX
@@ -1306,6 +1321,8 @@ ise
 iq
 ii
 iY
+income
+international
 Vorteil
 Vmo
 VzPe
@@ -1357,6 +1374,7 @@ Vka
 VJ
 Verbindung
 Verteilerschrank
+Vertriebsf
 Entwicklerdokumentationen
 Entscheidung
 Es
@@ -1402,6 +1420,10 @@ EJ
 EZcd
 Ethernet
 Einstellung
+Einkommen
+Ertrag
+Einwegverpackung
+Einkommensquelle
 Fachkenntnisse
 Falle
 Filter
@@ -1446,6 +1468,8 @@ FXiaw
 FS
 FP
 Feld
+Fertigungsstraße
+Franchisenehmer
 Testen
 Tellerrand
 Teammitgliedern
@@ -1652,6 +1676,10 @@ eIT
 eigenes
 errichtet
 elektrische
+estate
+empire
+expand
+erweitern
 kurz
 können
 kommunizieren
@@ -1742,6 +1770,10 @@ Internetfähigen
 IP
 Innenansicht
 Infrastruktur
+Immobilienhandel
+Imperium
+Ideas
+Ideen
 Überlegungen
 Überarbeitung
 organize
@@ -1779,6 +1811,7 @@ oh
 oTE
 oM
 optische
+operate
 pending
 pho
 permitted
@@ -1822,6 +1855,8 @@ pD
 pZ
 pQ
 phill
+proceeds
+packaging
 Code
 Chance
 Cd
@@ -1984,6 +2019,8 @@ lYP
 lL
 lokal
 lokalen
+line
+länderübergreifend
 über
 üblicherweise
 überprüft
@@ -2050,6 +2087,7 @@ Lasse
 LAN
 Local
 Leitung
+Lizenznehmer
 zu
 zusammen
 zxn
@@ -2268,6 +2306,7 @@ UC
 Ud
 USV
 User
+Umsatzerlöse
 ObjStm
 Obwohl
 Ob
@@ -2433,6 +2472,8 @@ cv
 cvC
 coI
 cO
+cross
+country
 qX
 qj
 qR
@@ -2466,6 +2507,7 @@ qVU
 qUc
 qD
 qJU
+quality
 Yj
 YU
 You
@@ -2529,6 +2571,7 @@ QPS
 QL
 QJ
 QW
+Qualität
 xLb
 xZ
 xPR
@@ -2649,6 +2692,7 @@ Rotate
 Rack
 Router
 Rechnerzentrum
+Reich
 ändern
 Öffnen
 Örtliche
