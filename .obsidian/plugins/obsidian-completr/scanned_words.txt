@@ -66,6 +66,8 @@ Bc
 BBS
 Bereich
 Benutzer
+Brille
+Beleuchtung
 Aufgabe
 Aussagen
 Aufgabenbereiche
@@ -166,6 +168,9 @@ Ansichten
 Anschlusseinheit
 Alleinverkaufsrecht
 Albedo
+Anzahl
+Arbeitsplätze
+Arbeitsplatz
 Welche
 Wählen
 Wissen
@@ -239,6 +244,7 @@ Weu
 Wj
 WaLa
 WOB
+Wieviel
 sind
 sich
 sehr
@@ -615,6 +621,7 @@ nyH
 nK
 normale
 notwendige
+niedriger
 mit
 mehreren
 müssen
@@ -980,6 +987,7 @@ Network
 Netzwerkadapterkonfiguration
 Netzwerkdose
 Netzwerke
+Name
 Kenntnissen
 Kompetenzen
 Kenntnisse
@@ -1030,6 +1038,8 @@ KU
 Kids
 Kühlung
 Kabelverbindung
+Kopfhörer
+Klimaanlage
 auch
 andere
 aus
@@ -1095,6 +1105,7 @@ aQ
 apN
 assembly
 ausweiten
+ausreichende
 Java
 JRd
 JX
@@ -1482,6 +1493,9 @@ Feld
 Fertigungsstraße
 Franchisenehmer
 Film
+Firma
+Falls
+Fläche
 Testen
 Tellerrand
 Teammitgliedern
@@ -1536,6 +1550,9 @@ To
 Title
 Technik
 Treibgas
+Tablet
+Tastatur
+Tisch
 Heutzutage
 Herausforderungen
 Hindernisse
@@ -1579,6 +1596,9 @@ Hostanteils
 Host
 Höheneinheiten
 Hard
+Handy
+Höhenverstellbarer
+Heizung
 teamfähig
 todo
 technisches
@@ -1979,6 +1999,8 @@ MediaBox
 ModDate
 Microsoft
 MAC
+Monitor
+Maus
 logisch
 lZD
 lfq
@@ -2102,6 +2124,8 @@ LAN
 Local
 Leitung
 Lizenznehmer
+Laptop
+Lärmpegel
 zu
 zusammen
 zxn
@@ -2353,6 +2377,7 @@ OI
 Osm
 OneNote
 Online
+Ort
 jE
 jZ
 jM
@@ -2386,6 +2411,7 @@ jHm
 jBH
 jR
 jBQ
+ja
 Xg
 XU
 XR
