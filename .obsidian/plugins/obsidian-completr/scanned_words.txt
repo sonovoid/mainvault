@@ -308,6 +308,7 @@ sX
 sB
 sales
 spread
+steigt
 richtig
 respektvoller
 rGeoTrust
@@ -353,6 +354,7 @@ rm
 räumlich
 real
 revenue
+reflektiert
 falsch
 fundierten
 fachlichen
@@ -493,6 +495,7 @@ Seiten
 Server
 Serverräumen
 Sonnenstrahlungsintensität
+Sonnenstrahlen
 beschäftigen
 benötigen
 besitzen
@@ -562,6 +565,7 @@ bV
 begrenzt
 business
 bedienen
+bleibt
 nur
 noch
 nicht
@@ -732,6 +736,7 @@ dQ
 definiert
 def
 disposable
+davon
 Programmieren
 Python
 Programmiersprachen
@@ -1132,6 +1137,7 @@ JL
 JS
 JvU
 JY
+Jahr
 und
 until
 um
@@ -1266,6 +1272,7 @@ wS
 wn
 wz
 wartet
+wieder
 in
 im
 individuell
@@ -1426,6 +1433,8 @@ Einkommen
 Ertrag
 Einwegverpackung
 Einkommensquelle
+Erde
+Erdoberfläche
 Fachkenntnisse
 Falle
 Filter
@@ -1526,6 +1535,7 @@ Ts
 To
 Title
 Technik
+Treibgas
 Heutzutage
 Herausforderungen
 Hindernisse
@@ -1860,6 +1870,7 @@ pQ
 phill
 proceeds
 packaging
+pro
 Code
 Chance
 Cd
@@ -2142,6 +2153,7 @@ zR
 zF
 zfq
 zeb
+zurück
 geht
 gutes
 gh
