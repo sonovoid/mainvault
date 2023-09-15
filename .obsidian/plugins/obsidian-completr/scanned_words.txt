@@ -502,6 +502,7 @@ Server
 Serverräumen
 Sonnenstrahlungsintensität
 Sonnenstrahlen
+Stuhl
 beschäftigen
 benötigen
 besitzen
@@ -2057,6 +2058,7 @@ lokal
 lokalen
 line
 länderübergreifend
+luftfeuchtigkeit
 über
 üblicherweise
 überprüft
