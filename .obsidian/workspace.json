@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "cf1a079ade27b974",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
+          },
+          {
             "id": "b9aa05a58478a383",
             "type": "leaf",
             "state": {
@@ -128,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -253,6 +263,16 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "a42b10f91f136f44",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -272,7 +292,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e13f12cdc3ecadf7",
+  "active": "cf1a079ade27b974",
   "lastOpenFiles": [
     "Stundenplan.md",
     "School/DeKo/Notizen - DeKo/15.09.23 - Klimawandel.md",
