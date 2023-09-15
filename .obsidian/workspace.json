@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c98cbf5a9f8589d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/LF5/HA - LF5/HA - LF5 - Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e13f12cdc3ecadf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/DeKo/Notizen - DeKo/15.09.23 - Klimawandel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cf1a079ade27b974",
             "type": "leaf",
             "state": {
@@ -42,117 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ca528d6600bba9d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/LF2/Notizen - LF2/15.09.23 - Kriterien.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9aa05a58478a383",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/DeKo/HA - DeKo/HA - DeKo - Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "999e7a448fedf879",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/LF2/HA - LF2/HA - LF2 - Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0033ed5d0f668c3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/LF2/Notizen - LF2/08.09.23 - LF2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0736befa390d347b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/LF3/HA - LF3/HA - LF3 - Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ed6dd9ea71f7750",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f1c2f3b4b7e3f8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/EnKo/Notizen - EnKo/01.09.23 - EnKo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6139d6d0c1feb54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/DeKo/Notizen - DeKo/08.09.2023 - Müll.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8d142e7f1209147",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/DeKo/Notizen - DeKo/15.09.23 - Klimawandel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/LF2/Notizen - LF2/15.09.23 - Kriterien.md",
+                "file": "School/LF2/Notizen - LF2/08.09.23 - Fragenkatalog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/LF2/Notizen - LF2/15.09.23 - Kriterien.md",
+                "file": "School/LF2/Notizen - LF2/08.09.23 - Fragenkatalog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/LF2/Notizen - LF2/15.09.23 - Kriterien.md"
+                "file": "School/LF2/Notizen - LF2/08.09.23 - Fragenkatalog.md"
               }
             }
           },
@@ -306,12 +173,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ca528d6600bba9d2",
+  "active": "cf1a079ade27b974",
   "lastOpenFiles": [
-    "Stundenplan.md",
     "School/LF2/Notizen - LF2/15.09.23 - Kriterien.md",
-    "fragebogen_checkliste_ergonomischer_arbeitsplatz.pdf",
     "School/LF2/Notizen - LF2/08.09.23 - Fragenkatalog.md",
+    "School/DeKo/HA - DeKo/HA - DeKo - Overview.md",
+    "Stundenplan.md",
+    "fragebogen_checkliste_ergonomischer_arbeitsplatz.pdf",
     "School/DeKo/Notizen - DeKo/15.09.23 - Klimawandel.md",
     "School/LF5/HA - LF5/HA - LF5 - Overview.md",
     "School/DeKo/Notizen - DeKo/08.09.2023 - Müll.md",
@@ -321,7 +189,6 @@
     "School/LF2/Notizen - LF2/08.09.23 - LF2.md",
     "School/LF2/HA - LF2/HA - LF2 - Overview.md",
     "Overview.md",
-    "School/DeKo/HA - DeKo/HA - DeKo - Overview.md",
     "School/LF5/Notizen - LF5/04.09.23 - LF5 - PHP.md",
     "School/LF5/HA - LF5/HW 04.09.23.md",
     "School/LF5/HA - LF5/HW 11.09.23.md",
