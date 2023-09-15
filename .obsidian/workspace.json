@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/LF5/HA - LF5/HA - LF5 - Overview.md",
+                "file": "School/DeKo/Notizen - DeKo/15.09.23 - Klimawandel.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,14 +121,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/DeKo/Notizen - DeKo/15.09.23.md",
+                "file": "School/DeKo/Notizen - DeKo/15.09.23 - Klimawandel.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/DeKo/Notizen - DeKo/15.09.23.md",
+                "file": "School/DeKo/Notizen - DeKo/15.09.23 - Klimawandel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/DeKo/Notizen - DeKo/15.09.23.md",
+                "file": "School/DeKo/Notizen - DeKo/15.09.23 - Klimawandel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/DeKo/Notizen - DeKo/15.09.23.md"
+                "file": "School/DeKo/Notizen - DeKo/15.09.23 - Klimawandel.md"
               }
             }
           },
@@ -272,10 +272,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d8d142e7f1209147",
+  "active": "e13f12cdc3ecadf7",
   "lastOpenFiles": [
+    "School/LF5/HA - LF5/HA - LF5 - Overview.md",
+    "School/DeKo/Notizen - DeKo/15.09.23 - Klimawandel.md",
     "School/DeKo/Notizen - DeKo/08.09.2023 - Müll.md",
-    "School/DeKo/Notizen - DeKo/15.09.23.md",
     "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
     "4 Klimawandel.pdf",
     "School/EnKo/Notizen - EnKo/08.09.23 - EnKo.md",
@@ -288,7 +289,6 @@
     "School/LF5/Notizen - LF5/04.09.23 - LF5 - PHP.md",
     "School/LF5/HA - LF5/HW 04.09.23.md",
     "School/LF5/HA - LF5/HW 11.09.23.md",
-    "School/LF5/HA - LF5/HA - LF5 - Overview.md",
     "School/LF4/Notizen - LF4/04.09.23 - LF4 - IT-Sicherheitsrichtlinie.md",
     "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md",
     "School/LF1/Notizen - LF1/04.09.23 - LF1 - Berufsausbildungsvertrag.md",

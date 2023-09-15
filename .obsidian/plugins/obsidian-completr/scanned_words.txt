@@ -165,6 +165,7 @@ Adresse
 Ansichten
 Anschlusseinheit
 Alleinverkaufsrecht
+Albedo
 Welche
 Wählen
 Wissen
@@ -491,6 +492,7 @@ Switch
 Seiten
 Server
 Serverräumen
+Sonnenstrahlungsintensität
 beschäftigen
 benötigen
 besitzen
@@ -1470,6 +1472,7 @@ FP
 Feld
 Fertigungsstraße
 Franchisenehmer
+Film
 Testen
 Tellerrand
 Teammitgliedern
@@ -2196,6 +2199,7 @@ gYyp
 gg
 gPE
 gp
+gibt
 Gleichzeitig
 GN
 Gp
