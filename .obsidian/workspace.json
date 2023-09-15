@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/LF2/Notizen - LF2/15.09.23 - Kriterien.md",
+                "file": "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6004339feb272e6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/LF2/Notizen - LF2/15.09.23 - Kriterien.md",
+                "file": "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/LF2/Notizen - LF2/15.09.23 - Kriterien.md",
+                "file": "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/LF2/Notizen - LF2/15.09.23 - Kriterien.md"
+                "file": "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md"
               }
             }
           },
@@ -173,17 +186,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cf1a079ade27b974",
+  "active": "edbfeeb5d889d086",
   "lastOpenFiles": [
-    "School/LF2/Notizen - LF2/08.09.23 - Fragenkatalog.md",
+    "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
+    "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
     "School/LF2/Notizen - LF2/15.09.23 - Kriterien.md",
+    "School/LF2/Notizen - LF2/08.09.23 - Fragenkatalog.md",
     "School/DeKo/HA - DeKo/HA - DeKo - Overview.md",
     "Stundenplan.md",
     "fragebogen_checkliste_ergonomischer_arbeitsplatz.pdf",
     "School/DeKo/Notizen - DeKo/15.09.23 - Klimawandel.md",
     "School/LF5/HA - LF5/HA - LF5 - Overview.md",
     "School/DeKo/Notizen - DeKo/08.09.2023 - Müll.md",
-    "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
     "4 Klimawandel.pdf",
     "School/EnKo/Notizen - EnKo/08.09.23 - EnKo.md",
     "School/LF2/Notizen - LF2/08.09.23 - LF2.md",
