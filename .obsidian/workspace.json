@@ -35,9 +35,23 @@
             "id": "cf1a079ade27b974",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.12"
+                "file": "School/LF2/Notizen - LF2/08.09.23 - Fragenkatalog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca528d6600bba9d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/LF2/Notizen - LF2/15.09.23 -.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -138,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/DeKo/Notizen - DeKo/15.09.23 - Klimawandel.md",
+                "file": "School/LF2/Notizen - LF2/15.09.23 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/DeKo/Notizen - DeKo/15.09.23 - Klimawandel.md",
+                "file": "School/LF2/Notizen - LF2/15.09.23 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/DeKo/Notizen - DeKo/15.09.23 - Klimawandel.md"
+                "file": "School/LF2/Notizen - LF2/15.09.23 -.md"
               }
             }
           },
@@ -292,8 +306,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cf1a079ade27b974",
+  "active": "ca528d6600bba9d2",
   "lastOpenFiles": [
+    "School/LF2/Notizen - LF2/08.09.23 - Fragenkatalog.md",
+    "School/LF2/Notizen - LF2/15.09.23 -.md",
     "Stundenplan.md",
     "School/DeKo/Notizen - DeKo/15.09.23 - Klimawandel.md",
     "School/LF5/HA - LF5/HA - LF5 - Overview.md",
@@ -301,7 +317,6 @@
     "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
     "4 Klimawandel.pdf",
     "School/EnKo/Notizen - EnKo/08.09.23 - EnKo.md",
-    "School/LF2/Notizen - LF2/08.09.23 - Fragenkatalog.md",
     "School/LF2/Notizen - LF2/08.09.23 - LF2.md",
     "School/LF2/HA - LF2/HA - LF2 - Overview.md",
     "Overview.md",
