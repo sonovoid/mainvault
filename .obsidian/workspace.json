@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
+                "file": "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ada541d8c0db40e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/LF1/Notizen - LF1/04.09.23 - LF1 - Berufsausbildungsvertrag.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30cb504c7e2f5945",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/LF1/Notizen - LF1/18.09.23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
+                "file": "School/LF1/Notizen - LF1/18.09.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
+                "file": "School/LF1/Notizen - LF1/18.09.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md"
+                "file": "School/LF1/Notizen - LF1/18.09.23.md"
               }
             }
           },
@@ -186,14 +210,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6004339feb272e6f",
+  "active": "30cb504c7e2f5945",
   "lastOpenFiles": [
-    "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
+    "School/LF1/Notizen - LF1/04.09.23 - LF1 - Berufsausbildungsvertrag.md",
+    "School/LF1/Notizen - LF1/18.09.23.md",
+    "School/LF4/Notizen - LF4/18.09.2023 Sicherheitsvorfälle.md",
+    "Unautorisierter Zutritt.pdf",
+    "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md",
+    "Stundenplan.md",
     "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
+    "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
     "School/LF2/Notizen - LF2/15.09.23 - Kriterien.md",
     "School/LF2/Notizen - LF2/08.09.23 - Fragenkatalog.md",
     "School/DeKo/HA - DeKo/HA - DeKo - Overview.md",
-    "Stundenplan.md",
     "fragebogen_checkliste_ergonomischer_arbeitsplatz.pdf",
     "School/DeKo/Notizen - DeKo/15.09.23 - Klimawandel.md",
     "School/LF5/HA - LF5/HA - LF5 - Overview.md",
@@ -207,8 +236,6 @@
     "School/LF5/HA - LF5/HW 04.09.23.md",
     "School/LF5/HA - LF5/HW 11.09.23.md",
     "School/LF4/Notizen - LF4/04.09.23 - LF4 - IT-Sicherheitsrichtlinie.md",
-    "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md",
-    "School/LF1/Notizen - LF1/04.09.23 - LF1 - Berufsausbildungsvertrag.md",
     "School/EnKo/Notizen - EnKo/01.09.23 - EnKo.md",
     "Legal status 2.pdf",
     "mcdonaldsenglish.png",
@@ -224,10 +251,7 @@
     "Work/Code of Conduct/Code of Conduct.md",
     "1_Auftrag_Anforderungsermittlung 1.pdf",
     "1_Auftrag_Anforderungsermittlung.pdf",
-    "Müll_deutsch.pdf",
     "IT-Notfallkarte.jpg",
-    "School/LF1/HA - LF1/HA - LF1 - Overview.md",
-    "Work/Code of Conduct/Anleitungen/Einsatzplanung.md",
     "Stundenplan.png",
     "Lernfelder.png",
     "Untitled 1.canvas",
