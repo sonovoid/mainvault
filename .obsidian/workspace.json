@@ -59,9 +59,11 @@
             "id": "b9ce9fffa63d5a83",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "School/LF4/Notizen - LF4/18.09.2023 Sicherheitsvorfälle.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/LF1/Notizen - LF1/18.09.23 - Arbeitsleistung.md",
+                "file": "School/LF4/Notizen - LF4/18.09.2023 Sicherheitsvorfälle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/LF1/Notizen - LF1/18.09.23 - Arbeitsleistung.md",
+                "file": "School/LF4/Notizen - LF4/18.09.2023 Sicherheitsvorfälle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/LF1/Notizen - LF1/18.09.23 - Arbeitsleistung.md"
+                "file": "School/LF4/Notizen - LF4/18.09.2023 Sicherheitsvorfälle.md"
               }
             }
           },
