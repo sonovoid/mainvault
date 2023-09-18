@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6019e43111d5dda0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/LF5/Notizen - LF5/04.09.23 - LF5 - PHP.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/LF5/Notizen - LF5/04.09.23 - LF5 - PHP.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/LF5/Notizen - LF5/04.09.23 - LF5 - PHP.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -222,8 +234,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b9ce9fffa63d5a83",
+  "active": "6019e43111d5dda0",
   "lastOpenFiles": [
+    "School/LF5/Notizen - LF5/04.09.23 - LF5 - PHP.md",
+    "Untitled.md",
     "School/LF4/Notizen - LF4/18.09.2023 Sicherheitsvorfälle.md",
     "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md",
     "Stundenplan.md",
@@ -244,7 +258,6 @@
     "School/LF2/Notizen - LF2/08.09.23 - LF2.md",
     "School/LF2/HA - LF2/HA - LF2 - Overview.md",
     "Overview.md",
-    "School/LF5/Notizen - LF5/04.09.23 - LF5 - PHP.md",
     "School/LF5/HA - LF5/HW 04.09.23.md",
     "School/LF5/HA - LF5/HW 11.09.23.md",
     "School/LF4/Notizen - LF4/04.09.23 - LF4 - IT-Sicherheitsrichtlinie.md",
@@ -260,7 +273,6 @@
     "ZNOwcnwkeb 1.png",
     "ZNOwcnwkeb.png",
     "Work/Code of Conduct/Dokumente/Ausbildungsguide.md",
-    "Work/Code of Conduct/Code of Conduct.md",
     "1_Auftrag_Anforderungsermittlung 1.pdf",
     "1_Auftrag_Anforderungsermittlung.pdf",
     "IT-Notfallkarte.jpg",
