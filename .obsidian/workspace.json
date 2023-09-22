@@ -73,14 +73,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/LF5/Notizen - LF5/18.09.23 - Erde Mond.md",
+                "file": "School/DeKo/Notizen - DeKo/15.09.23 - Klimawandel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d57751ea1309c4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/LF5/Notizen - LF5/18.09.23 - Erde Mond.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/LF5/Notizen - LF5/18.09.23 - Erde Mond.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/LF5/Notizen - LF5/18.09.23 - Erde Mond.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -234,8 +246,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "edbfeeb5d889d086",
+  "active": "4d57751ea1309c4b",
   "lastOpenFiles": [
+    "School/DeKo/Notizen - DeKo/15.09.23 - Klimawandel.md",
+    "Untitled.md",
+    "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
     "School/LF5/Notizen - LF5/04.09.23 - LF5 - PHP.md",
     "School/LF5/Notizen - LF5/18.09.23 - Erde Mond.md",
     "School/LF4/Notizen - LF4/18.09.2023 Sicherheitsvorfälle.md",
@@ -244,13 +259,11 @@
     "School/LF1/Notizen - LF1/04.09.23 - LF1 - Berufsausbildungsvertrag.md",
     "School/LF1/Notizen - LF1/18.09.23 - Arbeitsleistung.md",
     "Unautorisierter Zutritt.pdf",
-    "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
     "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
     "School/LF2/Notizen - LF2/15.09.23 - Kriterien.md",
     "School/LF2/Notizen - LF2/08.09.23 - Fragenkatalog.md",
     "School/DeKo/HA - DeKo/HA - DeKo - Overview.md",
     "fragebogen_checkliste_ergonomischer_arbeitsplatz.pdf",
-    "School/DeKo/Notizen - DeKo/15.09.23 - Klimawandel.md",
     "School/LF5/HA - LF5/HA - LF5 - Overview.md",
     "School/DeKo/Notizen - DeKo/08.09.2023 - Müll.md",
     "4 Klimawandel.pdf",
@@ -272,7 +285,6 @@
     "Work/Code of Conduct/Dokumente/Ausbildungsnachweis - Weekly.md",
     "ZNOwcnwkeb 1.png",
     "ZNOwcnwkeb.png",
-    "Work/Code of Conduct/Dokumente/Ausbildungsguide.md",
     "1_Auftrag_Anforderungsermittlung 1.pdf",
     "1_Auftrag_Anforderungsermittlung.pdf",
     "IT-Notfallkarte.jpg",

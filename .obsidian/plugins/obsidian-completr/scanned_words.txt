@@ -171,6 +171,8 @@ Albedo
 Anzahl
 Arbeitsplätze
 Arbeitsplatz
+Arten
+Atmosphäre
 Welche
 Wählen
 Wissen
@@ -245,6 +247,9 @@ Wj
 WaLa
 WOB
 Wieviel
+Welt
+Wälder
+Wärmelampe
 sind
 sich
 sehr
@@ -315,6 +320,9 @@ sB
 sales
 spread
 steigt
+schmilzt
+sterben
+sollten
 richtig
 respektvoller
 rGeoTrust
@@ -406,6 +414,8 @@ fF
 funktionieren
 franchise
 franchisee
+freigesetzt
+führt
 Softwareentwickler
 Software
 Softwareentwicklern
@@ -503,6 +513,7 @@ Serverräumen
 Sonnenstrahlungsintensität
 Sonnenstrahlen
 Stuhl
+Schulfächer
 beschäftigen
 benötigen
 besitzen
@@ -573,6 +584,8 @@ begrenzt
 business
 bedienen
 bleibt
+brennen
+beteiligt
 nur
 noch
 nicht
@@ -623,6 +636,7 @@ nK
 normale
 notwendige
 niedriger
+nimmt
 mit
 mehreren
 müssen
@@ -745,6 +759,9 @@ definiert
 def
 disposable
 davon
+dunkel
+daran
+damit
 Programmieren
 Python
 Programmiersprachen
@@ -871,6 +888,9 @@ vhV
 vv
 vm
 verbreiten
+verstärkt
+verliert
+verändert
 Die
 Debuggen
 Da
@@ -989,6 +1009,8 @@ Netzwerkadapterkonfiguration
 Netzwerkdose
 Netzwerke
 Name
+Nahrungsmittelknappheit
+Naturkatastrophen
 Kenntnissen
 Kompetenzen
 Kenntnisse
@@ -1041,6 +1063,7 @@ Kühlung
 Kabelverbindung
 Kopfhörer
 Klimaanlage
+Klimawandel
 auch
 andere
 aus
@@ -1200,6 +1223,7 @@ uWcI
 uH
 uF
 unzugänglich
+umfasst
 heutzutage
 hilft
 hierbei
@@ -1285,6 +1309,11 @@ wn
 wz
 wartet
 wieder
+welches
+weiße
+weniger
+wärme
+wir
 in
 im
 individuell
@@ -1447,6 +1476,8 @@ Einwegverpackung
 Einkommensquelle
 Erde
 Erdoberfläche
+Eis
+Energie
 Fachkenntnisse
 Falle
 Filter
@@ -1497,6 +1528,7 @@ Film
 Firma
 Falls
 Fläche
+Festlandseis
 Testen
 Tellerrand
 Teammitgliedern
@@ -1554,6 +1586,8 @@ Treibgas
 Tablet
 Tastatur
 Tisch
+Treibhauseffekt
+Themen
 Heutzutage
 Herausforderungen
 Hindernisse
@@ -1714,6 +1748,7 @@ estate
 empire
 expand
 erweitern
+erhöhtem
 kurz
 können
 kommunizieren
@@ -2002,6 +2037,8 @@ Microsoft
 MAC
 Monitor
 Maus
+Meeresspiegel
+Meter
 logisch
 lZD
 lfq
@@ -2180,6 +2217,7 @@ zF
 zfq
 zeb
 zurück
+zwischen
 geht
 gutes
 gh
@@ -2238,6 +2276,8 @@ gg
 gPE
 gp
 gibt
+genannten
+gehen
 Gleichzeitig
 GN
 Gp
@@ -2380,6 +2420,7 @@ Osm
 OneNote
 Online
 Ort
+Orte
 jE
 jZ
 jM
@@ -2737,6 +2778,7 @@ Rack
 Router
 Rechnerzentrum
 Reich
+Religion
 ändern
 Öffnen
 Örtliche
