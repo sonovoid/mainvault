@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ed2bb2f32dddcd17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/LF1/Notizen - LF1/25.09.23 - Schutzvorschriften Arbeitswelt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/LF1/Notizen - LF1/18.09.23 - Arbeitsleistung.md",
+                "file": "School/LF1/Notizen - LF1/25.09.23 - Schutzvorschriften Arbeitswelt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/LF1/Notizen - LF1/18.09.23 - Arbeitsleistung.md",
+                "file": "School/LF1/Notizen - LF1/25.09.23 - Schutzvorschriften Arbeitswelt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/LF1/Notizen - LF1/18.09.23 - Arbeitsleistung.md"
+                "file": "School/LF1/Notizen - LF1/25.09.23 - Schutzvorschriften Arbeitswelt.md"
               }
             }
           },
@@ -246,9 +258,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4d57751ea1309c4b",
+  "active": "ed2bb2f32dddcd17",
   "lastOpenFiles": [
     "School/LF1/Notizen - LF1/18.09.23 - Arbeitsleistung.md",
+    "School/LF1/Notizen - LF1/25.09.23 - Schutzvorschriften Arbeitswelt.md",
     "School/EnKo/Notizen - EnKo/08.09.23 - EnKo.md",
     "School/LF2/Notizen - LF2/15.09.23 - Kriterien.md",
     "Stundenplan.md",
@@ -282,7 +295,6 @@
     "Dokumentation Unterweisungen.pdf",
     "Glossar.pdf",
     "School/LF3/HA - LF3/HA - LF3 - Overview.md",
-    "Work/Code of Conduct/Dokumente/Ausbildungsnachweis - Weekly.md",
     "ZNOwcnwkeb 1.png",
     "ZNOwcnwkeb.png",
     "1_Auftrag_Anforderungsermittlung 1.pdf",
