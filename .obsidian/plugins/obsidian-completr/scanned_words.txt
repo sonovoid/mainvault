@@ -70,6 +70,12 @@ Brille
 Beleuchtung
 Berlinerischer
 Bleibt
+Betriebe
+Beschäftigte
+Betriebsklima
+Beziehungen
+Balance
+Belohnen
 Aufgabe
 Aussagen
 Aufgabenbereiche
@@ -178,6 +184,17 @@ Atmosphäre
 Arbeit
 Aushilfe
 Aufbau
+Aufg
+Arbeitnehmers
+Arbeitnehmer
+Andere
+Auf
+Arbeitsbedingungen
+Arbeitszeit
+Arbeitsmoral
+Arbeitszeiten
+Abwechslung
+Arbeitsumfeld
 Welche
 Wählen
 Wissen
@@ -259,6 +276,11 @@ Witze
 Wort
 Witzen
 Witz
+Wovon
+Wann
+Weise
+Was
+Weiterbildung
 sind
 sich
 sehr
@@ -334,6 +356,10 @@ sterben
 sollten
 sprechen
 stark
+stellen
+suchen
+schlechten
+setzen
 richtig
 respektvoller
 rGeoTrust
@@ -428,6 +454,10 @@ franchise
 franchisee
 freigesetzt
 führt
+flexibler
+frisch
+fordern
+fördern
 Softwareentwickler
 Software
 Softwareentwicklern
@@ -528,6 +558,11 @@ Stuhl
 Schulfächer
 Semesterferien
 Student
+Stressmanagement
+Sektor
+Seminare
+Solidarität
+Schulungen
 beschäftigen
 benötigen
 besitzen
@@ -602,6 +637,11 @@ brennen
 beteiligt
 bereits
 bzw
+beide
+beachtlichen
+berücksichtigen
+bessere
+bewältigen
 nur
 noch
 nicht
@@ -653,6 +693,8 @@ normale
 notwendige
 niedriger
 nimmt
+neuen
+nehmen
 mit
 mehreren
 müssen
@@ -708,6 +750,7 @@ mvdc
 maintaining
 macht
 meiner
+mitbringen
 dem
 drei
 due
@@ -781,6 +824,8 @@ dunkel
 daran
 damit
 dabei
+dagegen
+down
 Programmieren
 Python
 Programmiersprachen
@@ -855,6 +900,7 @@ Plant
 Punchline
 Pointe
 Performance
+Pausen
 von
 vielfältig
 verfasst
@@ -915,6 +961,9 @@ verliert
 verändert
 verschiedenen
 vergangene
+verbessern
+vorwiegend
+vieler
 Die
 Debuggen
 Da
@@ -973,6 +1022,9 @@ DN
 DMP
 Diensten
 Dialekt
+Der
+Donnerstag
+Diskriminierung
 Neben
 NZo
 Nl
@@ -1090,6 +1142,9 @@ Kabelverbindung
 Kopfhörer
 Klimaanlage
 Klimawandel
+Kollegen
+Kommunikation
+Konflikte
 auch
 andere
 aus
@@ -1158,6 +1213,8 @@ ausweiten
 ausreichende
 angefangen
 alles
+arbeitende
+auslösen
 Java
 JRd
 JX
@@ -1201,6 +1258,7 @@ JS
 JvU
 JY
 Jahr
+Jüngere
 und
 until
 um
@@ -1252,6 +1310,9 @@ uH
 uF
 unzugänglich
 umfasst
+unterliegt
+unter
+uns
 heutzutage
 hilft
 hierbei
@@ -1290,6 +1351,9 @@ hNQ
 hNe
 hT
 hatten
+hängt
+halten
+hingegen
 wichtige
 werden
 welche
@@ -1345,6 +1409,8 @@ wärme
 wir
 wobei
 weiter
+wöchentliche
+wöchentlich
 in
 im
 individuell
@@ -1404,6 +1470,8 @@ ii
 iY
 income
 international
+individuellen
+ihrer
 Vorteil
 Vmo
 VzPe
@@ -1457,6 +1525,8 @@ Verbindung
 Verteilerschrank
 Vertriebsf
 Viele
+Vorbildlich
+Verhalten
 Entwicklerdokumentationen
 Entscheidung
 Es
@@ -1512,6 +1582,8 @@ Eis
 Energie
 Erfahrungen
 Erste
+Entscheidungen
+Erfahrung
 Fachkenntnisse
 Falle
 Filter
@@ -1565,6 +1637,9 @@ Fläche
 Festlandseis
 Felix
 Flow
+Führen
+Führung
+Flexible
 Testen
 Tellerrand
 Teammitgliedern
@@ -1625,6 +1700,8 @@ Tisch
 Treibhauseffekt
 Themen
 Titel
+Tägliche
+Transparent
 Heutzutage
 Herausforderungen
 Hindernisse
@@ -1673,6 +1750,7 @@ Höhenverstellbarer
 Heizung
 Hälfte
 Hat
+Höchstleistung
 teamfähig
 todo
 technisches
@@ -1720,6 +1798,7 @@ tm
 trailer
 transportiert
 trotzdem
+tägliche
 erscheinen
 einem
 ein
@@ -1793,6 +1872,9 @@ einziges
 einwirkt
 ernst
 erst
+erreicht
+erhöhen
+eigene
 kurz
 können
 kommunizieren
@@ -1834,6 +1916,7 @@ kU
 kX
 kY
 kH
+könnte
 Ihre
 In
 IY
@@ -1888,6 +1971,7 @@ Imperium
 Ideas
 Ideen
 Inhalt
+Ihrer
 Überlegungen
 Überarbeitung
 organize
@@ -1927,6 +2011,7 @@ oM
 optische
 operate
 one
+oftmals
 pending
 pho
 permitted
@@ -2088,6 +2173,10 @@ Meter
 Menschen
 Monoton
 Meinung
+Mobbing
+Motivation
+Mittwoch
+Machtungleichgewicht
 logisch
 lZD
 lfq
@@ -2149,6 +2238,9 @@ liner
 leicht
 langsam
 lachenden
+leistungsfähiger
+leiden
+liegen
 über
 üblicherweise
 überprüft
@@ -2221,6 +2313,11 @@ Lärmpegel
 Lobrecht
 Leute
 Lachen
+Leistungsfähigkeit
+Leistungsschwankungen
+Leistungsbereitschaft
+Lebensweise
+Life
 zu
 zusammen
 zxn
@@ -2274,6 +2371,9 @@ zfq
 zeb
 zurück
 zwischen
+zugrunde
+zuverlässiger
+zeigen
 geht
 gutes
 gh
@@ -2339,6 +2439,12 @@ gebracht
 gehalten
 gesprochen
 gemerkt
+gerade
+getan
+gesunde
+genug
+gute
+gesundes
 Gleichzeitig
 GN
 Gp
@@ -2395,6 +2501,9 @@ Größe
 Geräten
 Gebäude
 Gebäudeteil
+Gründe
+Gesundheit
+Gleitzeit
 Umgang
 Umfeld
 US
@@ -2450,6 +2559,9 @@ Ud
 USV
 User
 Umsatzerlöse
+Ursachen
+Unternehmensleitung
+Uhr
 ObjStm
 Obwohl
 Ob
@@ -2516,6 +2628,8 @@ jBH
 jR
 jBQ
 ja
+jüngere
+jede
 Xg
 XU
 XR
@@ -2620,6 +2734,7 @@ coI
 cO
 cross
 country
+cool
 qX
 qj
 qR
@@ -2718,6 +2833,7 @@ QL
 QJ
 QW
 Qualität
+Qualifikationen
 xLb
 xZ
 xPR
@@ -2792,6 +2908,9 @@ Zy
 Zx
 ZQC
 Zweite
+Zeitmanagement
+Zeit
+Ziele
 Rih
 Root
 Regel
@@ -2842,7 +2961,9 @@ Rechnerzentrum
 Reich
 Religion
 ändern
+ältere
 Öffnen
 Örtliche
 ÄV
+Ältere
 öT
