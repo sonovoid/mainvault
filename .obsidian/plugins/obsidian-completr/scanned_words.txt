@@ -95,6 +95,9 @@ Bundesdatenschutzgesetz
 BDSG
 Bearbeitung
 BSI
+Behörden
+Beziehung
+Bußgelder
 Aufgabe
 Aussagen
 Aufgabenbereiche
@@ -229,6 +232,15 @@ Aspekten
 Aufgrund
 Als
 Arbeitsergebnisse
+Anbietern
+Ausnahmen
+Aspekte
+Abkommen
+Aktuelle
+Auswirkungen
+Anforderungen
+Abschnitte
+Auge
 Welche
 Wählen
 Wissen
@@ -644,6 +656,11 @@ Stromnetze
 Schutzes
 Schritt
 Sicherheitsgesetz
+Streitschlichtung
+Strafen
+Sanktionen
+Schadensersatzansprüche
+Struktur
 beschäftigen
 benötigen
 besitzen
@@ -733,6 +750,8 @@ betonen
 betreffen
 befassen
 bearbeitet
+besonderem
+behalten
 nur
 noch
 nicht
@@ -1011,6 +1030,7 @@ Produktsicherheitsgesetz
 Prävention
 Personen
 Privatsphäre
+Prinzip
 von
 vielfältig
 verfasst
@@ -1083,6 +1103,7 @@ verknüpfte
 verlässlicher
 variieren
 verschaffen
+vertiefen
 Die
 Debuggen
 Da
@@ -1156,6 +1177,10 @@ Datenschutz
 DSGVO
 Dazu
 Dokumentation
+Definitionen
+Datenschutzbestimmungen
+Diskriminierungsverbot
+Denken
 Neben
 NZo
 Nl
@@ -1221,6 +1246,8 @@ Nahrungsmittelknappheit
 Naturkatastrophen
 Notizbuch
 NIS
+Nutzer
+Netzneutralität
 Kenntnissen
 Kompetenzen
 Kenntnisse
@@ -1284,6 +1311,7 @@ Konzepte
 Konsequenzen
 KRITIS
 Klassengröße
+Kündigungsrecht
 auch
 andere
 aus
@@ -1367,6 +1395,8 @@ anschließend
 aber
 abgesprochen
 abgelegt
+ausländischen
+aktuelle
 Java
 JRd
 JX
@@ -1524,6 +1554,7 @@ heute
 handelt
 hochsensible
 hier
+hervorheben
 wichtige
 werden
 welche
@@ -1648,6 +1679,7 @@ individuellen
 ihrer
 insbesondere
 ihre
+internationale
 Vorteil
 Vmo
 VzPe
@@ -1717,6 +1749,10 @@ Verschaffen
 Vorordnungen
 Verschiedene
 Verordnung
+Verbraucherschutz
+Vertragsbedingungen
+Verordnungen
+Verstößen
 Entwicklerdokumentationen
 Entscheidung
 Es
@@ -1781,6 +1817,9 @@ Europäischen
 Einzel
 Einzelarbeit
 EULA
+Einschränkungen
+EU
+Erforschung
 Fachkenntnisse
 Falle
 Filter
@@ -1844,6 +1883,8 @@ Freizeitausgleich
 Fokus
 Firewalls
 Fortschritt
+Frequenzvergabe
+Forschung
 Testen
 Tellerrand
 Teammitgliedern
@@ -1918,6 +1959,14 @@ Telekommunikationsgesetz
 Telekommunikation
 Telemedien
 TTDSG
+TKG
+Telekommunikationsdienste
+Telekommunikationsnetze
+Telekommunikationsdiensten
+Telekommunikationsnetzen
+Telekommunikationsüberwachung
+TKÜ
+Telekommunikationsgesetzes
 Heutzutage
 Herausforderungen
 Hindernisse
@@ -2108,6 +2157,7 @@ einzelnen
 ersten
 einer
 ePrivacy
+einzelne
 kurz
 können
 kommunizieren
@@ -2219,10 +2269,13 @@ Informationstechnologie
 Infrastrukturen
 Insgesamt
 Informationsfreiheit
+Internationale
+Interesse
 Überlegungen
 Überarbeitung
 Überstunden
 Überblick
+Überwachung
 organize
 oft
 oder
@@ -2446,6 +2499,7 @@ Maßnahmen
 Missbrauch
 Mindmap
 Markenrecht
+Meldepflicht
 logisch
 lZD
 lfq
@@ -2593,6 +2647,7 @@ Lärmschwerhörigkeit
 Leichtsinn
 Lebensbereichen
 Lizenzrecht
+Lizenzierung
 zu
 zusammen
 zxn
@@ -2740,6 +2795,7 @@ geführt
 großen
 gewählt
 gruppenübergreifend
+grundlegende
 Gleichzeitig
 GN
 Gp
@@ -2817,6 +2873,9 @@ Gesetz
 Gruppe
 Grundgesetz
 Gruppenordner
+Gesetzestitel
+Gesetzes
+Gesetzen
 Umgang
 Umfeld
 US
@@ -3243,6 +3302,10 @@ Zerstörung
 Zugriffskontrollen
 Zum
 Zusammenhänge
+Zuständige
+Zweck
+Zugang
+Zusammenarbeit
 Rih
 Root
 Regel
@@ -3300,10 +3363,15 @@ Rahmenbedingungen
 Region
 Relation
 Recherchearbeit
+Regulierung
+Recht
+Reformen
+Reformvorschläge
 ändern
 ältere
 Öffnen
 Örtliche
 ÄV
 Ältere
+Änderungen
 öT
