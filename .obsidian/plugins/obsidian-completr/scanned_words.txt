@@ -424,6 +424,12 @@ sicherer
 sowohl
 steht
 strukturieren
+something
+sell
+shares
+sometimes
+said
+screen
 richtig
 respektvoller
 rGeoTrust
@@ -477,6 +483,7 @@ rechtlichen
 rechtliche
 rasante
 rechtfertigt
+read
 falsch
 fundierten
 fachlichen
@@ -533,6 +540,8 @@ folgendem
 fehlende
 ff
 fortschreitende
+follow
+form
 Softwareentwickler
 Software
 Softwareentwicklern
@@ -752,6 +761,7 @@ befassen
 bearbeitet
 besonderem
 behalten
+big
 nur
 noch
 nicht
@@ -806,6 +816,9 @@ nimmt
 neuen
 nehmen
 nahezu
+nice
+new
+number
 mit
 mehreren
 müssen
@@ -950,6 +963,8 @@ denn
 detaillierter
 digitalen
 definieren
+design
+different
 Programmieren
 Python
 Programmiersprachen
@@ -1397,6 +1412,8 @@ abgesprochen
 abgelegt
 ausländischen
 aktuelle
+and
+audience
 Java
 JRd
 JX
@@ -1616,6 +1633,9 @@ wirkt
 werdende
 wichtig
 während
+with
+what
+was
 in
 im
 individuell
@@ -1885,6 +1905,7 @@ Firewalls
 Fortschritt
 Frequenzvergabe
 Forschung
+Form
 Testen
 Tellerrand
 Teammitgliedern
@@ -2071,6 +2092,7 @@ technischer
 täglich
 technologischen
 technologische
+text
 erscheinen
 einem
 ein
@@ -2158,6 +2180,9 @@ ersten
 einer
 ePrivacy
 einzelne
+easy
+eye
+explanation
 kurz
 können
 kommunizieren
@@ -2314,6 +2339,7 @@ optische
 operate
 one
 oftmals
+on
 pending
 pho
 permitted
@@ -2365,6 +2391,7 @@ potenzielle
 personenbezogener
 persönlichen
 passend
+pace
 Code
 Chance
 Cd
@@ -2565,6 +2592,8 @@ leistungsfähiger
 leiden
 liegen
 letzten
+legal
+learned
 über
 üblicherweise
 überprüft
@@ -2796,6 +2825,7 @@ großen
 gewählt
 gruppenübergreifend
 grundlegende
+good
 Gleichzeitig
 GN
 Gp
@@ -3091,6 +3121,7 @@ yw
 yF
 ys
 yQW
+you
 ceK
 cX
 co
@@ -3121,6 +3152,8 @@ cO
 cross
 country
 cool
+contact
+con
 qX
 qj
 qR
