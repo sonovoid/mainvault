@@ -229,9 +229,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Feedback.md"
-              }
+              "state": {}
             }
           },
           {
@@ -278,7 +276,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "edbfeeb5d889d086",
+  "active": "64fd1dfbe22cef6a",
   "lastOpenFiles": [
     "Feedback.md",
     "School/LF1/Notizen - LF1/25.09.23 - Schutzvorschriften Arbeitswelt.md",
