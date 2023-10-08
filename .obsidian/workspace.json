@@ -192,6 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,6 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +231,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md"
+              }
             }
           },
           {
