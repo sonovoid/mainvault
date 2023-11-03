@@ -98,6 +98,10 @@ BSI
 Behörden
 Beziehung
 Bußgelder
+Bereiche
+Bus
+Bluetooth
+Basics
 Aufgabe
 Aussagen
 Aufgabenbereiche
@@ -241,6 +245,7 @@ Auswirkungen
 Anforderungen
 Abschnitte
 Auge
+Anordnung
 Welche
 Wählen
 Wissen
@@ -333,6 +338,9 @@ Warn
 Wegeunfälle
 Welten
 Wir
+WAN
+Wide
+WLAN
 sind
 sich
 sehr
@@ -434,6 +442,7 @@ screen
 schüler
 stattdessen
 schwer
+strukturierte
 richtig
 respektvoller
 rGeoTrust
@@ -491,6 +500,7 @@ read
 raum
 reichen
 reif
+reduzieren
 falsch
 fundierten
 fachlichen
@@ -687,6 +697,9 @@ Stimmen
 Seite
 Schlacht
 Spiel
+Stern
+Schleife
+Stromversorgung
 beschäftigen
 benötigen
 besitzen
@@ -782,6 +795,9 @@ big
 besseren
 blüht
 begleite
+beschreibt
+bezeichnet
+befasst
 nur
 noch
 nicht
@@ -840,6 +856,7 @@ nice
 new
 number
 neu
+nutzt
 mit
 mehreren
 müssen
@@ -987,6 +1004,8 @@ definieren
 design
 different
 dunkelheit
+direkt
+drahtlose
 Programmieren
 Python
 Programmiersprachen
@@ -1070,6 +1089,8 @@ Privatsphäre
 Prinzip
 Pläsier
 Poesie
+PAN
+Personal
 von
 vielfältig
 verfasst
@@ -1148,6 +1169,9 @@ vertreibt
 vereint
 vertreiben
 verändern
+verschiedene
+verbindet
+verknüpft
 Die
 Debuggen
 Da
@@ -1226,6 +1250,7 @@ Datenschutzbestimmungen
 Diskriminierungsverbot
 Denken
 Dunkelheit
+Dosen
 Neben
 NZo
 Nl
@@ -1294,6 +1319,10 @@ NIS
 Nutzer
 Netzneutralität
 Not
+Netzausdehnung
+Netzwerks
+Netzwerktopologie
+Netze
 Kenntnissen
 Kompetenzen
 Kenntnisse
@@ -1359,6 +1388,7 @@ KRITIS
 Klassengröße
 Kündigungsrecht
 Kraft
+Kabels
 auch
 andere
 aus
@@ -1447,6 +1477,7 @@ aktuelle
 and
 audience
 angst
+autonome
 Java
 JRd
 JX
@@ -1559,6 +1590,7 @@ unerlässlich
 untersuchen
 unten
 unser
+umweltfreundlichen
 heutzutage
 hilft
 hierbei
@@ -1813,6 +1845,10 @@ Verbraucherschutz
 Vertragsbedingungen
 Verordnungen
 Verstößen
+Verbindungen
+Verbindungsnabe
+Verkabelung
+Verteilern
 Entwicklerdokumentationen
 Entscheidung
 Es
@@ -1880,6 +1916,8 @@ EULA
 Einschränkungen
 EU
 Erforschung
+Erweiterung
+Ebenen
 Fachkenntnisse
 Falle
 Filter
@@ -2233,6 +2271,9 @@ eye
 explanation
 erheben
 erhellt
+einschließlich
+ermöglichen
+entlang
 kurz
 können
 kommunizieren
@@ -2282,6 +2323,8 @@ kreide
 klaren
 kriege
 kämpfen
+kabelbasierte
+kabellose
 Ihre
 In
 IY
@@ -2582,6 +2625,9 @@ Mindmap
 Markenrecht
 Meldepflicht
 Mut
+MAN
+Metropolitan
+Masche
 logisch
 lZD
 lfq
@@ -2650,6 +2696,7 @@ letzten
 legal
 learned
 liebe
+leitungsgeführte
 über
 üblicherweise
 überprüft
@@ -2736,6 +2783,7 @@ Lizenzierung
 Lasst
 Lot
 Leben
+Leitungen
 zu
 zusammen
 zxn
@@ -2799,6 +2847,7 @@ zunehmende
 zentraler
 zuerst
 zorn
+zentrale
 geht
 gutes
 gh
@@ -2891,6 +2940,9 @@ geben
 ganz
 gerechtigkeit
 großes
+geografischen
+gemeinsamen
+geschlossenen
 Gleichzeitig
 GN
 Gp
@@ -2975,6 +3027,11 @@ Gerechtigkeit
 Genuss
 Gemeinsam
 Gute
+GAN
+Global
+Gerät
+Gruppen
+Green
 Umgang
 Umfeld
 US
@@ -3040,6 +3097,8 @@ Unfälle
 Union
 Umfang
 Urheberrecht
+Unterteilung
+Umweltauswirkungen
 ObjStm
 Obwohl
 Ob
@@ -3074,6 +3133,7 @@ Ort
 Orte
 Offenlegung
 Orientierung
+Organisation
 jE
 jZ
 jM
@@ -3115,6 +3175,7 @@ je
 jeweils
 jeweilige
 jeweiligen
+jedes
 Xg
 XU
 XR
@@ -3408,6 +3469,7 @@ Zuständige
 Zweck
 Zugang
 Zusammenarbeit
+Zelle
 Rih
 Root
 Regel
@@ -3469,6 +3531,9 @@ Regulierung
 Recht
 Reformen
 Reformvorschläge
+Regionen
+Reichweite
+Ring
 ändern
 ältere
 Öffnen
