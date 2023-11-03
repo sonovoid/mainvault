@@ -10,3 +10,13 @@ S. 9 2a)
 9 d
 10 h
 11 b 
+
+
+
+1 CEO
+2 CTO Technology
+3 CDO Digital
+4 Head of Software Engineering
+5 Head of IT Operations
+6 Project Managers
+7 Quality Assurance Managers 
