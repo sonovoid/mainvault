@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
+                "file": "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
+                "file": "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
+                "file": "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md"
+                "file": "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md"
               }
             }
           },
@@ -307,6 +307,8 @@
   },
   "active": "f5265c6cbd0ca88e",
   "lastOpenFiles": [
+    "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
+    "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
     "IMG-20231103-WA0007.jpg",
     "IMG-20231103-WA0005.jpg",
     "IMG_20231103_074009.jpg",
@@ -314,8 +316,6 @@
     "IMG_20231103_073937.jpg",
     "IMG_20231103_074035.jpg",
     "IMG_20231103_074023.jpg",
-    "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
-    "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
     "School/LF4/Notizen - LF4/04.09.23 - LF4 - IT-Sicherheitsrichtlinie.md",
     "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md",
     "School/LF4/Notizen - LF4/18.09.2023 Sicherheitsvorfälle.md",
@@ -352,7 +352,6 @@
     "ZNOwcnwkeb.png",
     "1_Auftrag_Anforderungsermittlung 1.pdf",
     "1_Auftrag_Anforderungsermittlung.pdf",
-    "IT-Notfallkarte.jpg",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
