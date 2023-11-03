@@ -246,6 +246,8 @@ Anforderungen
 Abschnitte
 Auge
 Anordnung
+Adressen
+ARP
 Welche
 Wählen
 Wissen
@@ -443,6 +445,7 @@ schüler
 stattdessen
 schwer
 strukturierte
+steuert
 richtig
 respektvoller
 rGeoTrust
@@ -501,6 +504,7 @@ raum
 reichen
 reif
 reduzieren
+routen
 falsch
 fundierten
 fachlichen
@@ -700,6 +704,8 @@ Spiel
 Stern
 Schleife
 Stromversorgung
+Sicherungsschicht
+Schichtenmodelle
 beschäftigen
 benötigen
 besitzen
@@ -798,6 +804,8 @@ begleite
 beschreibt
 bezeichnet
 befasst
+bildet
+bestimmter
 nur
 noch
 nicht
@@ -857,6 +865,7 @@ new
 number
 neu
 nutzt
+numerische
 mit
 mehreren
 müssen
@@ -1006,6 +1015,7 @@ different
 dunkelheit
 direkt
 drahtlose
+dienen
 Programmieren
 Python
 Programmiersprachen
@@ -1091,6 +1101,8 @@ Pläsier
 Poesie
 PAN
 Personal
+Protokolle
+Ports
 von
 vielfältig
 verfasst
@@ -1251,6 +1263,12 @@ Diskriminierungsverbot
 Denken
 Dunkelheit
 Dosen
+DHCP
+DNS
+Dienste
+Data
+Datenverbindungsschicht
+Datenverkehr
 Neben
 NZo
 Nl
@@ -1323,6 +1341,9 @@ Netzausdehnung
 Netzwerks
 Netzwerktopologie
 Netze
+Namensauflösung
+Netzwerken
+Netzwerkschicht
 Kenntnissen
 Kompetenzen
 Kenntnisse
@@ -1389,6 +1410,8 @@ Klassengröße
 Kündigungsrecht
 Kraft
 Kabels
+Kommunikationszielen
+Kennungen
 auch
 andere
 aus
@@ -1478,6 +1501,8 @@ and
 audience
 angst
 autonome
+automatische
+auflöst
 Java
 JRd
 JX
@@ -1772,6 +1797,7 @@ ihrer
 insbesondere
 ihre
 internationale
+identifizieren
 Vorteil
 Vmo
 VzPe
@@ -1849,6 +1875,7 @@ Verbindungen
 Verbindungsnabe
 Verkabelung
 Verteilern
+Verwaltung
 Entwicklerdokumentationen
 Entscheidung
 Es
@@ -1918,6 +1945,8 @@ EU
 Erforschung
 Erweiterung
 Ebenen
+Einzelnen
+Ebene
 Fachkenntnisse
 Falle
 Filter
@@ -2072,6 +2101,7 @@ Telekommunikationsgesetzes
 Tinte
 Takt
 Träumen
+TCP
 Heutzutage
 Herausforderungen
 Hindernisse
@@ -2274,6 +2304,8 @@ erhellt
 einschließlich
 ermöglichen
 entlang
+ermöglicht
+eindeutig
 kurz
 können
 kommunizieren
@@ -2325,6 +2357,7 @@ kriege
 kämpfen
 kabelbasierte
 kabellose
+kennzeichnen
 Ihre
 In
 IY
@@ -2393,6 +2426,9 @@ Insgesamt
 Informationsfreiheit
 Internationale
 Interesse
+Internetprotokoll
+Identifikation
+ISO
 Überlegungen
 Überarbeitung
 Überstunden
@@ -2548,6 +2584,7 @@ Cyberangriff
 Copyright
 Creative
 Common
+Computern
 Man
 Mensch
 MQfQ
@@ -2628,6 +2665,7 @@ Mut
 MAN
 Metropolitan
 Masche
+Modell
 logisch
 lZD
 lfq
@@ -2697,6 +2735,7 @@ legal
 learned
 liebe
 leitungsgeführte
+lokaler
 über
 üblicherweise
 überprüft
@@ -2784,6 +2823,8 @@ Lasst
 Lot
 Leben
 Leitungen
+Link
+Layer
 zu
 zusammen
 zxn
@@ -3032,6 +3073,7 @@ Global
 Gerät
 Gruppen
 Green
+Grundlage
 Umgang
 Umfeld
 US
@@ -3134,6 +3176,7 @@ Orte
 Offenlegung
 Orientierung
 Organisation
+OSI
 jE
 jZ
 jM
@@ -3470,6 +3513,7 @@ Zweck
 Zugang
 Zusammenarbeit
 Zelle
+Zuweisung
 Rih
 Root
 Regel

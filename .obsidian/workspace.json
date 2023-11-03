@@ -218,7 +218,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +234,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,9 +255,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -288,7 +284,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -305,10 +302,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f5265c6cbd0ca88e",
+  "active": "d12a96c5ccb85eb7",
   "lastOpenFiles": [
-    "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
     "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
+    "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
     "IMG-20231103-WA0007.jpg",
     "IMG-20231103-WA0005.jpg",
     "IMG_20231103_074009.jpg",
