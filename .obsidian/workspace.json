@@ -145,14 +145,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
+                "file": "School/EnKo/Notizen - EnKo/08.09.23 - EnKo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6501b1409ae71e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -293,7 +305,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -306,8 +319,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d12a96c5ccb85eb7",
+  "active": "f6501b1409ae71e7",
   "lastOpenFiles": [
+    "School/EnKo/Notizen - EnKo/08.09.23 - EnKo.md",
+    "Untitled.md",
     "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
     "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
     "IMG-20231103-WA0007.jpg",
@@ -334,7 +349,6 @@
     "Feedback.md",
     "School/LF5/Notizen - LF5/04.09.23 - LF5 - PHP.md",
     "School/LF5/Notizen - LF5/18.09.23 - Erde Mond.md",
-    "School/EnKo/Notizen - EnKo/08.09.23 - EnKo.md",
     "School/DeKo/Notizen - DeKo/15.09.23 - Klimawandel.md",
     "Unautorisierter Zutritt.pdf",
     "School/DeKo/HA - DeKo/HA - DeKo - Overview.md",
