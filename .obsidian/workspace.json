@@ -143,9 +143,11 @@
             "id": "f5265c6cbd0ca88e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -216,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/DeKo/Notizen - DeKo/06.10.23 - Poetry Slam Text.md",
+                "file": "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/DeKo/Notizen - DeKo/06.10.23 - Poetry Slam Text.md",
+                "file": "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/DeKo/Notizen - DeKo/06.10.23 - Poetry Slam Text.md"
+                "file": "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md"
               }
             }
           },
@@ -305,6 +307,18 @@
   },
   "active": "f5265c6cbd0ca88e",
   "lastOpenFiles": [
+    "IMG-20231103-WA0007.jpg",
+    "IMG-20231103-WA0005.jpg",
+    "IMG_20231103_074009.jpg",
+    "IMG_20231103_073950.jpg",
+    "IMG_20231103_073937.jpg",
+    "IMG_20231103_074035.jpg",
+    "IMG_20231103_074023.jpg",
+    "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
+    "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
+    "School/LF4/Notizen - LF4/04.09.23 - LF4 - IT-Sicherheitsrichtlinie.md",
+    "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md",
+    "School/LF4/Notizen - LF4/18.09.2023 Sicherheitsvorfälle.md",
     "School/LF2/HA - LF2/HA - LF2 - Overview.md",
     "School/LF2/Notizen - LF2/15.09.23 - Kriterien.md",
     "School/LF2/Notizen - LF2/08.09.23 - Fragenkatalog.md",
@@ -319,21 +333,15 @@
     "Feedback.md",
     "School/LF5/Notizen - LF5/04.09.23 - LF5 - PHP.md",
     "School/LF5/Notizen - LF5/18.09.23 - Erde Mond.md",
-    "School/LF4/Notizen - LF4/18.09.2023 Sicherheitsvorfälle.md",
     "School/EnKo/Notizen - EnKo/08.09.23 - EnKo.md",
-    "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
     "School/DeKo/Notizen - DeKo/15.09.23 - Klimawandel.md",
-    "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md",
     "Unautorisierter Zutritt.pdf",
-    "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
     "School/DeKo/HA - DeKo/HA - DeKo - Overview.md",
     "fragebogen_checkliste_ergonomischer_arbeitsplatz.pdf",
     "School/LF5/HA - LF5/HA - LF5 - Overview.md",
     "School/DeKo/Notizen - DeKo/08.09.2023 - Müll.md",
     "4 Klimawandel.pdf",
     "Overview.md",
-    "School/LF5/HA - LF5/HW 04.09.23.md",
-    "School/LF5/HA - LF5/HW 11.09.23.md",
     "Legal status 2.pdf",
     "mcdonaldsenglish.png",
     "Legal Status 1.pdf",
@@ -345,8 +353,6 @@
     "1_Auftrag_Anforderungsermittlung 1.pdf",
     "1_Auftrag_Anforderungsermittlung.pdf",
     "IT-Notfallkarte.jpg",
-    "Stundenplan.png",
-    "Lernfelder.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
