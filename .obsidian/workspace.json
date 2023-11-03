@@ -138,9 +138,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f5265c6cbd0ca88e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -293,7 +303,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "28d8b56fac9f185f",
+  "active": "f5265c6cbd0ca88e",
   "lastOpenFiles": [
     "School/LF2/HA - LF2/HA - LF2 - Overview.md",
     "School/LF2/Notizen - LF2/15.09.23 - Kriterien.md",
