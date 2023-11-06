@@ -248,6 +248,7 @@ Auge
 Anordnung
 Adressen
 ARP
+Assurance
 Welche
 Wählen
 Wissen
@@ -446,6 +447,7 @@ stattdessen
 schwer
 strukturierte
 steuert
+system
 richtig
 respektvoller
 rGeoTrust
@@ -1103,6 +1105,7 @@ PAN
 Personal
 Protokolle
 Ports
+Project
 von
 vielfältig
 verfasst
@@ -1269,6 +1272,7 @@ Dienste
 Data
 Datenverbindungsschicht
 Datenverkehr
+Digital
 Neben
 NZo
 Nl
@@ -1503,6 +1507,7 @@ angst
 autonome
 automatische
 auflöst
+assurance
 Java
 JRd
 JX
@@ -1664,6 +1669,7 @@ hochsensible
 hier
 hervorheben
 hegen
+hardware
 wichtige
 werden
 welche
@@ -1947,6 +1953,7 @@ Erweiterung
 Ebenen
 Einzelnen
 Ebene
+Engineering
 Fachkenntnisse
 Falle
 Filter
@@ -2102,6 +2109,7 @@ Tinte
 Takt
 Träumen
 TCP
+Technology
 Heutzutage
 Herausforderungen
 Hindernisse
@@ -2153,6 +2161,7 @@ Hat
 Höchstleistung
 Hauterkrankungen
 Hände
+Head
 teamfähig
 todo
 technisches
@@ -2209,6 +2218,7 @@ technologischen
 technologische
 text
 träumen
+technology
 erscheinen
 einem
 ein
@@ -2525,6 +2535,9 @@ personenbezogener
 persönlichen
 passend
 pace
+projects
+products
+platforms
 Code
 Chance
 Cd
@@ -2585,6 +2598,9 @@ Copyright
 Creative
 Common
 Computern
+CEO
+CTO
+CDO
 Man
 Mensch
 MQfQ
@@ -2666,6 +2682,7 @@ MAN
 Metropolitan
 Masche
 Modell
+Managers
 logisch
 lZD
 lfq
@@ -2984,6 +3001,7 @@ großes
 geografischen
 gemeinsamen
 geschlossenen
+goals
 Gleichzeitig
 GN
 Gp
@@ -3177,6 +3195,7 @@ Offenlegung
 Orientierung
 Organisation
 OSI
+Operations
 jE
 jZ
 jM
@@ -3219,6 +3238,7 @@ jeweils
 jeweilige
 jeweiligen
 jedes
+job
 Xg
 XU
 XR
@@ -3327,6 +3347,7 @@ country
 cool
 contact
 con
+clients
 qX
 qj
 qR
@@ -3426,6 +3447,7 @@ QJ
 QW
 Qualität
 Qualifikationen
+Quality
 xLb
 xZ
 xPR

@@ -20,3 +20,11 @@ S. 9 2a)
 5 Head of IT Operations
 6 Project Managers
 7 Quality Assurance Managers 
+
+1 job 2 goals
+3 system 4 system
+5 technology 6 clients
+7 software 8 projects
+9 quality assurance 10 products
+11 hardware 12 platforms
+
