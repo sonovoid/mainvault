@@ -157,14 +157,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "School/LF1/Notizen - LF1/25.09.23 - Schutzvorschriften Arbeitswelt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ca11ec006b34617",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/LF1/Notizen - LF1/06.11.23 - Sozialversicherungen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -230,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "School/LF1/Notizen - LF1/06.11.23 - Sozialversicherungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "School/LF1/Notizen - LF1/06.11.23 - Sozialversicherungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "School/LF1/Notizen - LF1/06.11.23 - Sozialversicherungen.md"
               }
             }
           },
@@ -319,10 +331,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f6501b1409ae71e7",
+  "active": "5ca11ec006b34617",
   "lastOpenFiles": [
-    "School/EnKo/Notizen - EnKo/08.09.23 - EnKo.md",
+    "School/LF1/Notizen - LF1/25.09.23 - Schutzvorschriften Arbeitswelt.md",
+    "School/LF1/Notizen - LF1/06.11.23 - Sozialversicherungen.md",
     "Untitled.md",
+    "School/EnKo/Notizen - EnKo/08.09.23 - EnKo.md",
     "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
     "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
     "IMG-20231103-WA0007.jpg",
@@ -343,7 +357,6 @@
     "School/LF4/Notizen - LF4/25.09.23 - LF4.md",
     "School/DeKo/Notizen - DeKo/06.10.23 - Poetry Slam Text.md",
     "School/DeKo/Notizen - DeKo/22.09.23 - Poetry Slam.md",
-    "School/LF1/Notizen - LF1/25.09.23 - Schutzvorschriften Arbeitswelt.md",
     "School/LF1/Notizen - LF1/18.09.23 - Arbeitsleistung.md",
     "School/LF1/Notizen - LF1/04.09.23 - LF1 - Berufsausbildungsvertrag.md",
     "Feedback.md",
@@ -356,7 +369,6 @@
     "School/LF5/HA - LF5/HA - LF5 - Overview.md",
     "School/DeKo/Notizen - DeKo/08.09.2023 - Müll.md",
     "4 Klimawandel.pdf",
-    "Overview.md",
     "Legal status 2.pdf",
     "mcdonaldsenglish.png",
     "Legal Status 1.pdf",
