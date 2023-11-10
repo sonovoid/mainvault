@@ -1449,6 +1449,7 @@ Kreide
 Keine
 Kriege
 Kampf
+Kabelgebunden
 auch
 andere
 aus
