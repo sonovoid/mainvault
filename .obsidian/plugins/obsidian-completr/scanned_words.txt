@@ -102,6 +102,7 @@ Bereiche
 Bus
 Bluetooth
 Basics
+Bedingungen
 Aufgabe
 Aussagen
 Aufgabenbereiche
@@ -253,6 +254,7 @@ Arbeitnehmeranteil
 Arbeitslosenversicherung
 Arbeitgeber
 Angst
+Abhören
 Welche
 Wählen
 Wissen
@@ -458,6 +460,7 @@ system
 schaffen
 schön
 streiten
+sicherheit
 richtig
 respektvoller
 rGeoTrust
@@ -519,6 +522,9 @@ reduzieren
 routen
 regieren
 rein
+regelt
+rechtmäßig
+rechtlicher
 falsch
 fundierten
 fachlichen
@@ -581,6 +587,7 @@ feder
 frieden
 freundschaft
 fließen
+festlegt
 Softwareentwickler
 Software
 Softwareentwicklern
@@ -822,6 +829,7 @@ bezeichnet
 befasst
 bildet
 bestimmter
+besonderer
 nur
 noch
 nicht
@@ -1032,6 +1040,8 @@ dunkelheit
 direkt
 drahtlose
 dienen
+deutsches
+diensten
 Programmieren
 Python
 Programmiersprachen
@@ -1289,6 +1299,7 @@ Data
 Datenverbindungsschicht
 Datenverkehr
 Digital
+Dienstleister
 Neben
 NZo
 Nl
@@ -1530,6 +1541,8 @@ autonome
 automatische
 auflöst
 assurance
+anderem
+abläuft
 Java
 JRd
 JX
@@ -1905,6 +1918,7 @@ Verbindungsnabe
 Verkabelung
 Verteilern
 Verwaltung
+Verbraucherinteressen
 Entwicklerdokumentationen
 Entscheidung
 Es
@@ -2048,6 +2062,7 @@ Frieden
 Freude
 Feder
 Freundschaft
+Frequenznutzungsregelungen
 Testen
 Tellerrand
 Teammitgliedern
@@ -2135,6 +2150,8 @@ Takt
 Träumen
 TCP
 Technology
+Telekommunikationsdiensteanbietern
+Telekommunikationsbranche
 Heutzutage
 Herausforderungen
 Hindernisse
@@ -3640,6 +3657,7 @@ Regionen
 Reichweite
 Ring
 Rentenversicherung
+Rahmen
 ändern
 ältere
 Öffnen
