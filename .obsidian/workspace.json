@@ -193,14 +193,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/LF1/Notizen - LF1/06.11.23 - Sozialversicherungen.md",
+                "file": "School/LF5/Notizen - LF5/18.09.23 - Erde Mond.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0ebe7747be07338",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/LF5/HA - LF5/HW 13.11.23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -266,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/LF1/Notizen - LF1/06.11.23 - Sozialversicherungen.md",
+                "file": "School/LF5/HA - LF5/HW 13.11.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/LF1/Notizen - LF1/06.11.23 - Sozialversicherungen.md",
+                "file": "School/LF5/HA - LF5/HW 13.11.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/LF1/Notizen - LF1/06.11.23 - Sozialversicherungen.md"
+                "file": "School/LF5/HA - LF5/HW 13.11.23.md"
               }
             }
           },
@@ -355,33 +367,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dafb014f87fefc34",
+  "active": "edbfeeb5d889d086",
   "lastOpenFiles": [
+    "School/LF5/HA - LF5/HW 11.09.23.md",
+    "School/LF5/HA - LF5/HW 04.09.23.md",
+    "School/LF5/HA - LF5/HW 13.11.23.md",
     "School/EnKo/Notizen - EnKo/10.11.23 - EnKo.md",
+    "School/LF1/Notizen - LF1/06.11.23 - Sozialversicherungen.md",
+    "School/LF5/Notizen - LF5/18.09.23 - Erde Mond.md",
+    "Overview.md",
+    "EnKo.pdf",
+    "4 Klimawandel.pdf",
+    "School/EnKo/Notizen - EnKo/10.11.23 - EnKo - Answers.md",
+    "IMG-20231113-WA0007.jpg",
+    "IMG-20231113-WA0003.jpg",
+    "IMG-20231113-WA0004.jpg",
+    "IMG-20231113-WA0006.jpg",
+    "IMG-20231113-WA0005 1.jpg",
+    "IMG-20231113-WA0005.jpg",
     "Arbeitsblatt company.pdf",
     "School/EnKo/Notizen - EnKo/08.09.23 - EnKo.md",
     "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
     "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
     "School/LF4/Notizen - LF4/25.09.23 - LF4.md",
     "School/DeKo/Notizen - DeKo/06.10.23 - Poetry Slam Text.md",
-    "School/LF5/HA - LF5/HW 11.09.23.md",
-    "School/LF5/HA - LF5/HW 04.09.23.md",
     "School/LF5/Notizen - LF5/04.09.23 - LF5 - PHP.md",
     "06.11.23 - Negative Zahlen Binär.md",
-    "School/LF5/Notizen - LF5/18.09.23 - Erde Mond.md",
     "IMG_20231106_103844.jpg",
     "IMG_20231106_103819.jpg",
     "IMG_20231106_094612.jpg",
     "IMG_20231106_094604.jpg",
-    "School/LF1/Notizen - LF1/06.11.23 - Sozialversicherungen.md",
     "School/LF1/Notizen - LF1/25.09.23 - Schutzvorschriften Arbeitswelt.md",
-    "Untitled.md",
-    "IMG-20231103-WA0007.jpg",
-    "IMG-20231103-WA0005.jpg",
-    "IMG_20231103_074009.jpg",
-    "IMG_20231103_073950.jpg",
-    "IMG_20231103_073937.jpg",
-    "IMG_20231103_074035.jpg",
     "School/LF4/Notizen - LF4/04.09.23 - LF4 - IT-Sicherheitsrichtlinie.md",
     "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md",
     "School/LF4/Notizen - LF4/18.09.2023 Sicherheitsvorfälle.md",
@@ -392,13 +408,10 @@
     "Stundenplan.md",
     "School/DeKo/Notizen - DeKo/22.09.23 - Poetry Slam.md",
     "School/LF1/Notizen - LF1/18.09.23 - Arbeitsleistung.md",
-    "School/LF1/Notizen - LF1/04.09.23 - LF1 - Berufsausbildungsvertrag.md",
     "Unautorisierter Zutritt.pdf",
     "fragebogen_checkliste_ergonomischer_arbeitsplatz.pdf",
-    "4 Klimawandel.pdf",
     "Legal status 2.pdf",
     "Legal Status 1.pdf",
-    "EnKo.pdf",
     "Dokumentation Unterweisungen.pdf",
     "Glossar.pdf",
     "1_Auftrag_Anforderungsermittlung 1.pdf",
