@@ -229,14 +229,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/LF2/Notizen - LF2/24.11.23 - Deckblatt Pflichtenheft.md",
+                "file": "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d2fb26e5c027b2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "24.11.23 - Aufgaben.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -302,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/LF2/Notizen - LF2/24.11.23 - Deckblatt Pflichtenheft.md",
+                "file": "24.11.23 - Aufgaben.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/LF2/Notizen - LF2/24.11.23 - Deckblatt Pflichtenheft.md",
+                "file": "24.11.23 - Aufgaben.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/LF2/Notizen - LF2/24.11.23 - Deckblatt Pflichtenheft.md"
+                "file": "24.11.23 - Aufgaben.md"
               }
             }
           },
@@ -391,15 +403,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0172f60bc48016d8",
+  "active": "6d2fb26e5c027b2c",
   "lastOpenFiles": [
-    "School/LF2/Notizen - LF2/17.11.23 - Pflichtenheft.md",
+    "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
+    "24.11.23 - Aufgaben.md",
     "School/LF2/Notizen - LF2/24.11.23 - Deckblatt Pflichtenheft.md",
+    "School/LF2/Notizen - LF2/17.11.23 - Pflichtenheft.md",
     "School/EnKo/Notizen - EnKo/10.11.23 - EnKo.md",
     "Overview.md",
     "School/DeKo/Notizen - DeKo/06.10.23 - Poetry Slam Text.md",
     "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
-    "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
     "School/LF4/Notizen - LF4/25.09.23 - LF4.md",
     "School/LF2/Notizen - LF2/15.09.23 - Kriterien.md",
     "School/LF5/HA - LF5/HW 11.09.23.md",
@@ -431,7 +444,6 @@
     "School/LF2/HA - LF2/HA - LF2 - Overview.md",
     "School/LF2/Notizen - LF2/08.09.23 - Fragenkatalog.md",
     "School/LF2/Notizen - LF2/08.09.23 - LF2.md",
-    "Stundenplan.md",
     "Unautorisierter Zutritt.pdf",
     "fragebogen_checkliste_ergonomischer_arbeitsplatz.pdf",
     "Legal status 2.pdf",
