@@ -158,6 +158,7 @@ BuV
 BJ
 BFc
 Bcf
+Budget
 Aufgabe
 Aussagen
 Aufgabenbereiche
@@ -359,6 +360,8 @@ AVx
 Ao
 Aj
 AYY
+Abnahmekriterien
+Auftraggeber
 Welche
 Wählen
 Wissen
@@ -1107,6 +1110,7 @@ SZD
 SGt
 SXk
 SNPTI
+Stakeholder
 beschäftigen
 benötigen
 besitzen
@@ -1768,6 +1772,7 @@ Pr
 PdgN
 Pobm
 PSz
+Projektbeschreibung
 von
 vielfältig
 verfasst
@@ -2055,6 +2060,7 @@ DAH
 DX
 DM
 DWWo
+Datum
 Neben
 NZo
 Nl
@@ -3135,6 +3141,8 @@ VEStQ
 VCk
 VWP
 Vjh
+Version
+Verfasser
 Entwicklerdokumentationen
 Entscheidung
 Es
@@ -6457,6 +6465,7 @@ ZtQR
 Zb
 Zxv
 ZGq
+Zeitrahmen
 Rih
 Root
 Regel
@@ -6585,6 +6594,7 @@ RWY
 RXdKr
 RF
 RjRVR
+Risikoanalyse
 ändern
 ältere
 Öffnen
