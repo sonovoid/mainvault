@@ -159,6 +159,8 @@ BJ
 BFc
 Bcf
 Budget
+Breakfast
+Break
 Aufgabe
 Aussagen
 Aufgabenbereiche
@@ -514,6 +516,10 @@ Wou
 WYW
 WqZ
 Wp
+What
+When
+Why
+Weather
 sind
 sich
 sehr
@@ -680,6 +686,12 @@ sqqF
 sw
 sYy
 sQH
+someone
+shift
+silence
+social
+suitable
+stuff
 richtig
 respektvoller
 rGeoTrust
@@ -802,6 +814,7 @@ rsP
 rlp
 rvt
 rHn
+required
 falsch
 fundierten
 fachlichen
@@ -917,6 +930,11 @@ fmm
 fHV
 fglN
 foJ
+focused
+finishing
+focus
+feel
+food
 Softwareentwickler
 Software
 Softwareentwicklern
@@ -1111,6 +1129,11 @@ SGt
 SXk
 SNPTI
 Stakeholder
+Situations
+Smoking
+Social
+Suitable
+Stuff
 beschäftigen
 benötigen
 besitzen
@@ -1272,6 +1295,10 @@ bRy
 bMzH
 bDM
 bdL
+busy
+breaks
+build
+boundary
 nur
 noch
 nicht
@@ -1376,6 +1403,9 @@ nqiq
 nI
 nqq
 nLr
+news
+none
+nsfw
 mit
 mehreren
 müssen
@@ -1489,6 +1519,7 @@ mEgjz
 mUT
 mSuF
 mRak
+meetings
 dem
 drei
 due
@@ -1629,6 +1660,8 @@ dfye
 di
 dTzm
 dmw
+doesn
+don
 Programmieren
 Python
 Programmiersprachen
@@ -1774,6 +1807,7 @@ Pobm
 PSz
 Projektbeschreibung
 Projektleitung
+Practice
 von
 vielfältig
 verfasst
@@ -2062,6 +2096,8 @@ DX
 DM
 DWWo
 Datum
+During
+Don
 Neben
 NZo
 Nl
@@ -2183,6 +2219,7 @@ NTg
 NjL
 Ni
 ND
+Networking
 Kenntnissen
 Kompetenzen
 Kenntnisse
@@ -2450,6 +2487,10 @@ aib
 afI
 aL
 aMH
+after
+attention
+along
+about
 Java
 JRd
 JX
@@ -2668,6 +2709,7 @@ us
 ukJ
 uwr
 uM
+unsuitable
 heutzutage
 hilft
 hierbei
@@ -2889,6 +2931,7 @@ wmb
 wgj
 wvP
 wf
+where
 in
 im
 individuell
@@ -2997,6 +3040,9 @@ iQU
 iwx
 idHci
 ihZ
+important
+interaction
+improves
 Vorteil
 Vmo
 VzPe
@@ -3413,6 +3459,7 @@ FrI
 Fwq
 FXg
 FSL
+Family
 Testen
 Tellerrand
 Teammitgliedern
@@ -3561,6 +3608,7 @@ TzP
 TJ
 Tj
 TcW
+Topics
 Heutzutage
 Herausforderungen
 Hindernisse
@@ -3684,6 +3732,7 @@ HUM
 HnQ
 HeD
 HJZF
+How
 teamfähig
 todo
 technisches
@@ -3794,6 +3843,9 @@ tQM
 tRm
 tzE
 tN
+time
+times
+talk
 erscheinen
 einem
 ein
@@ -3945,6 +3997,10 @@ eRB
 eLW
 ezXtB
 ePq
+example
+etc
+employee
+environment
 kurz
 können
 kommunizieren
@@ -4200,6 +4256,8 @@ Iqf
 ILI
 IbTb
 Iwrw
+Interests
+Inappropriate
 Überlegungen
 Überarbeitung
 Überstunden
@@ -4307,6 +4365,9 @@ omn
 oEC
 oQR
 orz
+or
+other
+out
 pending
 pho
 permitted
@@ -4421,6 +4482,8 @@ pc
 pNUL
 pbg
 paDS
+passing
+politics
 Code
 Chance
 Cd
@@ -4552,6 +4615,7 @@ COj
 CZeo
 CFc
 CmB
+Current
 Man
 Mensch
 MQfQ
@@ -4694,6 +4758,7 @@ Mel
 MDk
 MVL
 MAV
+Meetings
 logisch
 lZD
 lfq
@@ -4805,6 +4870,9 @@ lNsl
 lQH
 ldy
 lmY
+look
+left
+lonely
 über
 üblicherweise
 überprüft
@@ -4945,6 +5013,8 @@ LBFV
 LGs
 LWqm
 LmV
+Lunch
+Learn
 zu
 zusammen
 zxn
@@ -5220,6 +5290,7 @@ gNR
 gwi
 gua
 gIq
+get
 Gleichzeitig
 GN
 Gp
@@ -5361,6 +5432,7 @@ GZ
 GkG
 GWx
 GXa
+Get
 Umgang
 Umfeld
 US
@@ -5487,6 +5559,7 @@ UECj
 UE
 UrU
 UO
+Unsuitable
 ObjStm
 Obwohl
 Ob
@@ -5591,6 +5664,7 @@ OpA
 OIU
 OMe
 OfhywS
+Outside
 jE
 jZ
 jM
@@ -5877,6 +5951,7 @@ yz
 yAa
 yIL
 yvf
+your
 ceK
 cX
 co
@@ -5969,6 +6044,11 @@ cG
 cw
 crM
 cz
+casual
+colloquial
+coworkers
+connections
+crosses
 qX
 qj
 qR
@@ -6596,6 +6676,7 @@ RXdKr
 RF
 RjRVR
 Risikoanalyse
+Reasons
 ändern
 ältere
 Öffnen
