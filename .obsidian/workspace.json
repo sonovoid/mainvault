@@ -241,6 +241,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "School/EnKo/Notizen - EnKo/10.11.23 - EnKo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5d5e4644c17e360",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "24.11.23 - Aufgaben.md",
                 "mode": "source",
                 "source": false
@@ -248,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -403,13 +415,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d2fb26e5c027b2c",
+  "active": "edbfeeb5d889d086",
   "lastOpenFiles": [
-    "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
+    "School/EnKo/Notizen - EnKo/24.11.23 - Small Talk.md",
+    "School/EnKo/Notizen - EnKo/10.11.23 - EnKo.md",
     "24.11.23 - Aufgaben.md",
+    "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
     "School/LF2/Notizen - LF2/24.11.23 - Deckblatt Pflichtenheft.md",
     "School/LF2/Notizen - LF2/17.11.23 - Pflichtenheft.md",
-    "School/EnKo/Notizen - EnKo/10.11.23 - EnKo.md",
     "Overview.md",
     "School/DeKo/Notizen - DeKo/06.10.23 - Poetry Slam Text.md",
     "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
@@ -443,7 +456,6 @@
     "School/LF4/Notizen - LF4/18.09.2023 Sicherheitsvorfälle.md",
     "School/LF2/HA - LF2/HA - LF2 - Overview.md",
     "School/LF2/Notizen - LF2/08.09.23 - Fragenkatalog.md",
-    "School/LF2/Notizen - LF2/08.09.23 - LF2.md",
     "Unautorisierter Zutritt.pdf",
     "fragebogen_checkliste_ergonomischer_arbeitsplatz.pdf",
     "Legal status 2.pdf",
