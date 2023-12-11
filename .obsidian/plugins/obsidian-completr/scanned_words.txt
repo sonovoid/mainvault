@@ -163,6 +163,9 @@ Breakfast
 Break
 Beispiele
 Berufsbezeichnung
+Byte
+Bits
+Bit
 Aufgabe
 Aussagen
 Aufgabenbereiche
@@ -1415,6 +1418,7 @@ nLr
 news
 none
 nsfw
+normal
 mit
 mehreren
 müssen
@@ -1967,6 +1971,7 @@ vok
 vKg
 vLJ
 vaZ
+viel
 Die
 Debuggen
 Da
@@ -2359,6 +2364,7 @@ KUiRY
 Km
 KfMz
 KDh
+KiB
 auch
 andere
 aus
@@ -3632,6 +3638,7 @@ TJ
 Tj
 TcW
 Topics
+TiB
 Heutzutage
 Herausforderungen
 Hindernisse
@@ -4789,6 +4796,7 @@ Meetings
 Messwerte
 Merkmale
 Meinungen
+MiB
 logisch
 lZD
 lfq
@@ -5467,6 +5475,8 @@ GXa
 Get
 Gewicht
 Geschmack
+Gb
+GiB
 Umgang
 Umfeld
 US
