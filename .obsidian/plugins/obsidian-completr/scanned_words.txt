@@ -161,6 +161,8 @@ Bcf
 Budget
 Breakfast
 Break
+Beispiele
+Berufsbezeichnung
 Aufgabe
 Aussagen
 Aufgabenbereiche
@@ -364,6 +366,9 @@ Aj
 AYY
 Abnahmekriterien
 Auftraggeber
+Analyse
+Auswertungen
+Alter
 Welche
 Wählen
 Wissen
@@ -692,6 +697,7 @@ silence
 social
 suitable
 stuff
+statistische
 richtig
 respektvoller
 rGeoTrust
@@ -1134,6 +1140,7 @@ Smoking
 Social
 Suitable
 Stuff
+Schuljahre
 beschäftigen
 benötigen
 besitzen
@@ -1299,6 +1306,8 @@ busy
 breaks
 build
 boundary
+basieren
+beschreibende
 nur
 noch
 nicht
@@ -1520,6 +1529,7 @@ mUT
 mSuF
 mRak
 meetings
+mathematischen
 dem
 drei
 due
@@ -1662,6 +1672,8 @@ dTzm
 dmw
 doesn
 don
+dafür
+darstellen
 Programmieren
 Python
 Programmiersprachen
@@ -1808,6 +1820,8 @@ PSz
 Projektbeschreibung
 Projektleitung
 Practice
+Phänomens
+Person
 von
 vielfältig
 verfasst
@@ -2491,6 +2505,8 @@ after
 attention
 along
 about
+ausgedrückt
+abgeschlossenen
 Java
 JRd
 JX
@@ -2710,6 +2726,7 @@ ukJ
 uwr
 uM
 unsuitable
+umfassendere
 heutzutage
 hilft
 hierbei
@@ -2814,6 +2831,7 @@ hApq
 hFT
 hsm
 hwzhR
+herfür
 wichtige
 werden
 welche
@@ -3190,6 +3208,7 @@ VWP
 Vjh
 Version
 Verfasser
+Verständnis
 Entwicklerdokumentationen
 Entscheidung
 Es
@@ -3331,6 +3350,9 @@ EVu
 Eps
 EYT
 Ecu
+Eigenschaften
+Erhebung
+Einblicke
 Fachkenntnisse
 Falle
 Filter
@@ -3460,6 +3482,7 @@ Fwq
 FXg
 FSL
 Family
+Farben
 Testen
 Tellerrand
 Teammitgliedern
@@ -3733,6 +3756,7 @@ HnQ
 HeD
 HJZF
 How
+Hobbys
 teamfähig
 todo
 technisches
@@ -3846,6 +3870,7 @@ tN
 time
 times
 talk
+tiefere
 erscheinen
 einem
 ein
@@ -4122,6 +4147,7 @@ kQX
 kGLL
 ktN
 ksKNs
+könnten
 Ihre
 In
 IY
@@ -4368,6 +4394,7 @@ orz
 or
 other
 out
+objektive
 pending
 pho
 permitted
@@ -4759,6 +4786,9 @@ MDk
 MVL
 MAV
 Meetings
+Messwerte
+Merkmale
+Meinungen
 logisch
 lZD
 lfq
@@ -4873,6 +4903,7 @@ lmY
 look
 left
 lonely
+liefern
 über
 üblicherweise
 überprüft
@@ -5141,6 +5172,7 @@ zJs
 zUBj
 zIf
 zHi
+zusätzlichen
 geht
 gutes
 gh
@@ -5433,6 +5465,8 @@ GkG
 GWx
 GXa
 Get
+Gewicht
+Geschmack
 Umgang
 Umfeld
 US
@@ -5665,6 +5699,7 @@ OIU
 OMe
 OfhywS
 Outside
+Operationen
 jE
 jZ
 jM
@@ -6139,6 +6174,9 @@ qBrv
 qis
 qAwsrY
 qQ
+quantitativer
+qualitativer
+qualitative
 Yj
 YU
 You
@@ -6339,6 +6377,8 @@ Qld
 QAr
 Qy
 QbI
+Quantitative
+Qualitative
 xLb
 xZ
 xPR
@@ -6547,6 +6587,8 @@ Zb
 Zxv
 ZGq
 Zeitrahmen
+Zahlen
+Zahl
 Rih
 Root
 Regel
