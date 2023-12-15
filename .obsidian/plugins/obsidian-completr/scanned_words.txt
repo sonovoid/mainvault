@@ -166,6 +166,9 @@ Berufsbezeichnung
 Byte
 Bits
 Bit
+Bild
+Breite
+Berechnen
 Aufgabe
 Aussagen
 Aufgabenbereiche
@@ -372,6 +375,7 @@ Auftraggeber
 Analyse
 Auswertungen
 Alter
+Auflösung
 Welche
 Wählen
 Wissen
@@ -944,6 +948,7 @@ finishing
 focus
 feel
 food
+folgenden
 Softwareentwickler
 Software
 Softwareentwicklern
@@ -1144,6 +1149,7 @@ Social
 Suitable
 Stuff
 Schuljahre
+Speicherbedarf
 beschäftigen
 benötigen
 besitzen
@@ -1311,6 +1317,7 @@ build
 boundary
 basieren
 beschreibende
+berechnet
 nur
 noch
 nicht
@@ -1826,6 +1833,7 @@ Projektleitung
 Practice
 Phänomens
 Person
+Pixel
 von
 vielfältig
 verfasst
@@ -2117,6 +2125,7 @@ DWWo
 Datum
 During
 Don
+Deep
 Neben
 NZo
 Nl
@@ -2365,6 +2374,7 @@ Km
 KfMz
 KDh
 KiB
+Kanäle
 auch
 andere
 aus
@@ -3489,6 +3499,9 @@ FXg
 FSL
 Family
 Farben
+Farbmodell
+Farbtiefe
+Farbkanal
 Testen
 Tellerrand
 Teammitgliedern
@@ -4291,6 +4304,7 @@ IbTb
 Iwrw
 Interests
 Inappropriate
+Inch
 Überlegungen
 Überarbeitung
 Überstunden
@@ -4518,6 +4532,8 @@ pbg
 paDS
 passing
 politics
+ppi
+per
 Code
 Chance
 Cd
@@ -4650,6 +4666,7 @@ CZeo
 CFc
 CmB
 Current
+Color
 Man
 Mensch
 MQfQ
@@ -5477,6 +5494,7 @@ Gewicht
 Geschmack
 Gb
 GiB
+Gegeben
 Umgang
 Umfeld
 US
@@ -6729,6 +6747,8 @@ RF
 RjRVR
 Risikoanalyse
 Reasons
+Rastergrafikbilder
+RGB
 ändern
 ältere
 Öffnen
