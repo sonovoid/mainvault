@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/EnKo/Notizen - EnKo/01.12.23 - Small Talk.md",
+                "file": "School/LF1/Notizen - LF1/06.11.23 - Sozialversicherungen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e19b319eaecb956a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/LF1/Notizen - LF1/18.12.23 - Private Zusatzversicherungen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/EnKo/Notizen - EnKo/01.12.23 - Small Talk.md",
+                "file": "School/LF1/Notizen - LF1/18.12.23 - Private Zusatzversicherungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/EnKo/Notizen - EnKo/01.12.23 - Small Talk.md",
+                "file": "School/LF1/Notizen - LF1/18.12.23 - Private Zusatzversicherungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/EnKo/Notizen - EnKo/01.12.23 - Small Talk.md"
+                "file": "School/LF1/Notizen - LF1/18.12.23 - Private Zusatzversicherungen.md"
               }
             }
           },
@@ -174,8 +187,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d8bdc545b3788095",
+  "active": "edbfeeb5d889d086",
   "lastOpenFiles": [
+    "School/LF1/Notizen - LF1/06.11.23 - Sozialversicherungen.md",
+    "School/LF1/Notizen - LF1/18.12.23 - Private Zusatzversicherungen.md",
+    "School/EnKo/Notizen - EnKo/01.12.23 - Small Talk.md",
     "School/LF2/Notizen - LF2/15.12.23 - Gruppenpuzzle.md",
     "School/LF2/Notizen - LF2/24.11.23 - Deckblatt Pflichtenheft.md",
     "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
@@ -190,7 +206,6 @@
     "WhatsApp Image 2023-12-11 at 10.32.57.jpeg",
     "WhatsApp Image 2023-12-11 at 10.32.57 (1).jpeg",
     "WhatsApp Image 2023-12-11 at 10.32.57 (2).jpeg",
-    "School/EnKo/Notizen - EnKo/01.12.23 - Small Talk.md",
     "Small talk task 2.pdf",
     "School/LF3/HA - LF3/HA - 24.11.23 - Aufgaben.md",
     "School/LF3/HA - LF3/HA - LF3 - Overview.md",
@@ -211,8 +226,6 @@
     "Overview.md",
     "School/LF2/Notizen - LF2/15.09.23 - Kriterien.md",
     "School/LF5/HA - LF5/HW 11.09.23.md",
-    "School/LF5/HA - LF5/HW 04.09.23.md",
-    "School/LF1/Notizen - LF1/06.11.23 - Sozialversicherungen.md",
     "EnKo.pdf",
     "4 Klimawandel.pdf",
     "IMG-20231113-WA0007.jpg",
