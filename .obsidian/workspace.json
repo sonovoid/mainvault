@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md",
+                "file": "School/LF5/Notizen - LF5/11.12.23 - ibibyte.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md",
+                "file": "School/LF5/Notizen - LF5/11.12.23 - ibibyte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md",
+                "file": "School/LF5/Notizen - LF5/11.12.23 - ibibyte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md"
+                "file": "School/LF5/Notizen - LF5/11.12.23 - ibibyte.md"
               }
             }
           },
@@ -189,6 +189,7 @@
   },
   "active": "e19b319eaecb956a",
   "lastOpenFiles": [
+    "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md",
     "School/LF1/Notizen - LF1/18.12.23 - Private Zusatzversicherungen.md",
     "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
     "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
@@ -225,7 +226,6 @@
     "School/LF2/Notizen - LF2/17.11.23 - Pflichtenheft.md",
     "Overview.md",
     "School/LF2/Notizen - LF2/15.09.23 - Kriterien.md",
-    "School/LF5/HA - LF5/HW 11.09.23.md",
     "EnKo.pdf",
     "4 Klimawandel.pdf",
     "IMG-20231113-WA0007.jpg",
