@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5b241cde2d53f401",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08.01.24 - Rechtsfähigkeit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/LF1/Notizen - LF1/18.12.23 - Private Zusatzversicherungen.md",
+                "file": "08.01.24 - Rechtsfähigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/LF1/Notizen - LF1/18.12.23 - Private Zusatzversicherungen.md",
+                "file": "08.01.24 - Rechtsfähigkeit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/LF1/Notizen - LF1/18.12.23 - Private Zusatzversicherungen.md"
+                "file": "08.01.24 - Rechtsfähigkeit.md"
               }
             }
           },
@@ -187,11 +199,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e19b319eaecb956a",
+  "active": "5b241cde2d53f401",
   "lastOpenFiles": [
+    "WhatsApp Image 2024-01-08 at 08.22.01.jpeg",
+    "WhatsApp Image 2024-01-08 at 08.22.01 (1).jpeg",
+    "WhatsApp Image 2024-01-08 at 08.22.01 (2).jpeg",
+    "WhatsApp Image 2024-01-08 at 08.22.01 (3).jpeg",
+    "WhatsApp Image 2024-01-08 at 08.22.01 (4).jpeg",
+    "School/LF1/Notizen - LF1/18.12.23 - Private Zusatzversicherungen.md",
+    "08.01.24 - Rechtsfähigkeit.md",
     "School/LF5/Notizen - LF5/11.12.23 - ibibyte.md",
     "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md",
-    "School/LF1/Notizen - LF1/18.12.23 - Private Zusatzversicherungen.md",
     "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
     "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
     "School/LF3/Notizen - LF3/01.12.23 - Rechnen.md",
@@ -224,14 +242,8 @@
     "2023-11-24.md",
     "School/EnKo/Notizen - EnKo/10.11.23 - EnKo.md",
     "School/LF2/Notizen - LF2/17.11.23 - Pflichtenheft.md",
-    "Overview.md",
-    "School/LF2/Notizen - LF2/15.09.23 - Kriterien.md",
     "EnKo.pdf",
     "4 Klimawandel.pdf",
-    "IMG-20231113-WA0007.jpg",
-    "IMG-20231113-WA0003.jpg",
-    "IMG-20231113-WA0004.jpg",
-    "IMG-20231113-WA0006.jpg",
     "Arbeitsblatt company.pdf",
     "Unautorisierter Zutritt.pdf",
     "fragebogen_checkliste_ergonomischer_arbeitsplatz.pdf",
