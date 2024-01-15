@@ -5495,6 +5495,7 @@ Geschmack
 Gb
 GiB
 Gegeben
+Geschäftsfähigkeit
 Umgang
 Umfeld
 US
@@ -6749,6 +6750,7 @@ Risikoanalyse
 Reasons
 Rastergrafikbilder
 RGB
+Rechtsfähigkeit
 ändern
 ältere
 Öffnen
