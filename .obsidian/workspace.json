@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4afc6e07ddd2f9ee",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -176,7 +186,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -199,7 +211,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b241cde2d53f401",
+  "active": "4afc6e07ddd2f9ee",
   "lastOpenFiles": [
     "WhatsApp Image 2024-01-08 at 08.22.01.jpeg",
     "WhatsApp Image 2024-01-08 at 08.22.01 (1).jpeg",
