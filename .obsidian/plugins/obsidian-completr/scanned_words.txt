@@ -376,6 +376,7 @@ Analyse
 Auswertungen
 Alter
 Auflösung
+Afterwards
 Welche
 Wählen
 Wissen
@@ -705,6 +706,7 @@ social
 suitable
 stuff
 statistische
+screw
 richtig
 respektvoller
 rGeoTrust
@@ -949,6 +951,7 @@ focus
 feel
 food
 folgenden
+flick
 Softwareentwickler
 Software
 Softwareentwicklern
@@ -1150,6 +1153,7 @@ Suitable
 Stuff
 Schuljahre
 Speicherbedarf
+Second
 beschäftigen
 benötigen
 besitzen
@@ -1318,6 +1322,7 @@ boundary
 basieren
 beschreibende
 berechnet
+back
 nur
 noch
 nicht
@@ -1685,6 +1690,8 @@ doesn
 don
 dafür
 darstellen
+dismantle
+done
 Programmieren
 Python
 Programmiersprachen
@@ -2743,6 +2750,7 @@ uwr
 uM
 unsuitable
 umfassendere
+unscrew
 heutzutage
 hilft
 hierbei
@@ -2848,6 +2856,7 @@ hFT
 hsm
 hwzhR
 herfür
+holder
 wichtige
 werden
 welche
@@ -2966,6 +2975,8 @@ wgj
 wvP
 wf
 where
+will
+when
 in
 im
 individuell
@@ -3502,6 +3513,8 @@ Farben
 Farbmodell
 Farbtiefe
 Farbkanal
+Furthermore
+Finally
 Testen
 Tellerrand
 Teammitgliedern
@@ -3652,6 +3665,7 @@ Tj
 TcW
 Topics
 TiB
+Then
 Heutzutage
 Herausforderungen
 Hindernisse
@@ -3777,6 +3791,7 @@ HeD
 HJZF
 How
 Hobbys
+HDMI
 teamfähig
 todo
 technisches
@@ -4046,6 +4061,7 @@ example
 etc
 employee
 environment
+extract
 kurz
 können
 kommunizieren
@@ -4534,6 +4550,9 @@ passing
 politics
 ppi
 per
+pull
+push
+put
 Code
 Chance
 Cd
@@ -4667,6 +4686,7 @@ CFc
 CmB
 Current
 Color
+Cover
 Man
 Mensch
 MQfQ
@@ -4929,6 +4949,7 @@ look
 left
 lonely
 liefern
+lever
 über
 üblicherweise
 überprüft
@@ -5348,6 +5369,7 @@ gwi
 gua
 gIq
 get
+graphics
 Gleichzeitig
 GN
 Gp
@@ -5496,6 +5518,7 @@ Gb
 GiB
 Gegeben
 Geschäftsfähigkeit
+Graphics
 Umgang
 Umfeld
 US
@@ -6113,6 +6136,13 @@ colloquial
 coworkers
 connections
 crosses
+card
+carefully
+click
+correctly
+cover
+connect
+cable
 qX
 qj
 qR
