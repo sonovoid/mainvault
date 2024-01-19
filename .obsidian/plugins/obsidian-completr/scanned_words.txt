@@ -169,6 +169,7 @@ Bit
 Bild
 Breite
 Berechnen
+Before
 Aufgabe
 Aussagen
 Aufgabenbereiche
@@ -533,6 +534,7 @@ What
 When
 Why
 Weather
+Wait
 sind
 sich
 sehr
@@ -707,6 +709,7 @@ suitable
 stuff
 statistische
 screw
+start
 richtig
 respektvoller
 rGeoTrust
@@ -1546,6 +1549,7 @@ mSuF
 mRak
 meetings
 mathematischen
+minutes
 dem
 drei
 due
@@ -2751,6 +2755,7 @@ uM
 unsuitable
 umfassendere
 unscrew
+unplug
 heutzutage
 hilft
 hierbei
@@ -3666,6 +3671,7 @@ TcW
 Topics
 TiB
 Then
+Turn
 Heutzutage
 Herausforderungen
 Hindernisse
@@ -4432,6 +4438,7 @@ or
 other
 out
 objektive
+off
 pending
 pho
 permitted
@@ -4553,6 +4560,7 @@ per
 pull
 push
 put
+power
 Code
 Chance
 Cd
