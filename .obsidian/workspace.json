@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "922785b48b893f66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09.02.24 - DSGVO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/LF4/Notizen - LF4/11.12.23 - RAID.md",
+                "file": "09.02.24 - DSGVO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/LF4/Notizen - LF4/11.12.23 - RAID.md",
+                "file": "09.02.24 - DSGVO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/LF4/Notizen - LF4/11.12.23 - RAID.md"
+                "file": "09.02.24 - DSGVO.md"
               }
             }
           },
@@ -261,8 +273,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9cba17cad4c52a86",
+  "active": "922785b48b893f66",
   "lastOpenFiles": [
+    "School/LF4/Notizen - LF4/11.12.23 - RAID.md",
+    "09.02.24 - DSGVO.md",
     "School/DeKo/Notizen - DeKo/09.02.24 - Protokolle.md",
     "ABs Prookollieren.pdf",
     "School/DeKo/Notizen - DeKo/01.12.23 - Grammatik.md",
@@ -276,7 +290,6 @@
     "School/EnKo/Notizen - EnKo/Philipp Klingert.md",
     "School/LF5/Notizen - LF5/15.01.24 - Hausaufgaben.md",
     "School/LF5/HA - LF5/HW 13.11.23.md",
-    "School/LF4/Notizen - LF4/11.12.23 - RAID.md",
     "LF5.pdf",
     "School/LF5/Notizen - LF5/11.12.23 - ibibyte.md",
     "School/LF1/Notizen - LF1/06.11.23 - Sozialversicherungen.md",
