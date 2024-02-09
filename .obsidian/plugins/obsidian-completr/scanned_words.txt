@@ -174,6 +174,7 @@ Beispielen
 Beschreibt
 Bedarf
 Bitte
+Betroffenen
 Aufgabe
 Aussagen
 Aufgabenbereiche
@@ -385,6 +386,9 @@ Afterwards
 Aktionsschritte
 Anwesenheitsdokumentation
 Anregungen
+Appel
+Antworttext
+Antwort
 Welche
 Wählen
 Wissen
@@ -739,6 +743,9 @@ stattgefunden
 solltet
 sicherstellen
 stehe
+schützenswert
+statische
+schützt
 richtig
 respektvoller
 rGeoTrust
@@ -1198,6 +1205,7 @@ Sachen
 Sitzung
 Schließt
 Stellt
+Sätze
 beschäftigen
 benötigen
 besitzen
@@ -1382,6 +1390,8 @@ betonte
 besprochenen
 bestätigen
 bekommt
+beziehen
+bbs
 nur
 noch
 nicht
@@ -1493,6 +1503,8 @@ normal
 net
 nenner
 nahr
+natürliche
+natürlicher
 mit
 mehreren
 müssen
@@ -1772,6 +1784,7 @@ deutlich
 dauern
 durchgesetzt
 dokumentiert
+direkte
 Programmieren
 Python
 Programmiersprachen
@@ -1928,6 +1941,8 @@ Präsentationen
 Protokoll
 Protokollführers
 Protokolls
+Personenbezogene
+Privatanschrift
 von
 vielfältig
 verfasst
@@ -2077,6 +2092,8 @@ viel
 vermietete
 vermieteten
 versus
+vereine
+vorschriften
 Die
 Debuggen
 Da
@@ -2232,6 +2249,10 @@ Diskussion
 Damit
 Dokument
 Durch
+Datenverarbeitung
+Datenschutzverletzung
+Detail
+Datenschutzrecht
 Neben
 NZo
 Nl
@@ -2355,6 +2376,7 @@ Ni
 ND
 Networking
 Nutzungsrecht
+Nummernschild
 Kenntnissen
 Kompetenzen
 Kenntnisse
@@ -3101,6 +3123,7 @@ when
 wurde
 würde
 weitere
+wob
 in
 im
 individuell
@@ -3213,6 +3236,8 @@ important
 interaction
 improves
 ich
+identifizierte
+identifizierbare
 Vorteil
 Vmo
 VzPe
@@ -3374,6 +3399,7 @@ Verantwortlichen
 Vorsitzenden
 Vollständigkeit
 Verteilung
+Vorname
 Entwicklerdokumentationen
 Entscheidung
 Es
@@ -3527,6 +3553,8 @@ Ergebnisprotokoll
 Erstellung
 Ergebnisprotokollen
 Ergebnisse
+Einwilligung
+Entnommen
 Fachkenntnisse
 Falle
 Filter
@@ -3665,6 +3693,7 @@ Finally
 Fristen
 Fügt
 Fragen
+Franziska
 Testen
 Tellerrand
 Teammitgliedern
@@ -3820,6 +3849,8 @@ Turn
 Teammitglieder
 Teilnehmer
 Treffens
+Telefonnummer
+Teampartner
 Heutzutage
 Herausforderungen
 Hindernisse
@@ -4228,6 +4259,8 @@ euch
 einige
 erstellt
 effektiv
+eventuell
+enthält
 kurz
 können
 kommunizieren
@@ -4360,6 +4393,7 @@ konsistent
 kurze
 konsistente
 kommuniziert
+klingert
 Ihre
 In
 IY
@@ -4508,6 +4542,7 @@ Ihnen
 Überprüfen
 Überlassung
 Übertragung
+Über
 organize
 oft
 oder
@@ -4741,6 +4776,11 @@ power
 personen
 priorität
 präzise
+personenbezogen
+personenbeziehbare
+personenbezogenen
+personenbezogene
+philipp
 Code
 Chance
 Cd
@@ -5753,6 +5793,7 @@ Gebäuden
 Grundstücke
 Gebt
 Grüßen
+Grundrechte
 Umgang
 Umfeld
 US
@@ -5883,6 +5924,7 @@ Unsuitable
 Unterschied
 Unterschrift
 Unterschriften
+Umwege
 ObjStm
 Obwohl
 Ob
@@ -5989,6 +6031,7 @@ OMe
 OfhywS
 Outside
 Operationen
+Organisationen
 jE
 jZ
 jM
@@ -6095,6 +6138,7 @@ jQX
 jOv
 jBj
 josef
+juristische
 Xg
 XU
 XR
@@ -6676,6 +6720,7 @@ Qy
 QbI
 Quantitative
 Qualitative
+Quelle
 xLb
 xZ
 xPR
