@@ -3400,6 +3400,7 @@ Vorsitzenden
 Vollständigkeit
 Verteilung
 Vorname
+VLANs
 Entwicklerdokumentationen
 Entscheidung
 Es
@@ -4534,6 +4535,7 @@ Inch
 Instandhaltung
 Immobilie
 Ihnen
+Informieren
 Überlegungen
 Überarbeitung
 Überstunden
@@ -5195,6 +5197,7 @@ lang
 üb
 üJ
 überprüfen
+übernehmen
 Lage
 Lösung
 Lernsituation

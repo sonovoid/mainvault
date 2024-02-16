@@ -109,14 +109,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/DeKo/Notizen - DeKo/09.02.24 - Protokolle.md",
+                "file": "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58376855c58d0c1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/LF3/Notizen - LF3/16.02.24 - VLAN.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -166,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5,
-    "collapsed": true
+    "width": 225.5
   },
   "right": {
     "id": "80c809b1326bad8f",
@@ -183,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/LF1/Notizen - LF1/06.11.23 - Sozialversicherungen.md",
+                "file": "School/LF3/Notizen - LF3/16.02.24 - VLAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/LF1/Notizen - LF1/06.11.23 - Sozialversicherungen.md",
+                "file": "School/LF3/Notizen - LF3/16.02.24 - VLAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/LF1/Notizen - LF1/06.11.23 - Sozialversicherungen.md"
+                "file": "School/LF3/Notizen - LF3/16.02.24 - VLAN.md"
               }
             }
           },
@@ -274,18 +285,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "edbfeeb5d889d086",
+  "active": "58376855c58d0c1b",
   "lastOpenFiles": [
+    "School/LF4/HA - LF4/HA - LF4 - Overview.md",
+    "School/LF3/Notizen - LF3/16.02.24 - VLAN.md",
+    "School/LF1/Notizen - LF1/15.01.24 -.md",
+    "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
+    "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
+    "School/LF4/Notizen - LF4/18.09.2023 Sicherheitsvorfälle.md",
+    "School/LF4/Notizen - LF4/25.09.23 - LF4.md",
+    "School/LF4/Notizen - LF4/11.12.23 - RAID.md",
+    "School/EnKo/Notizen - EnKo/01.12.23 - Rechnen.md",
+    "School/LF1/Notizen - LF1/06.11.23 - Sozialversicherungen.md",
     "School/LF5/Notizen - LF5/15.01.24 - Hausaufgaben.md",
     "School/LF1/Notizen - LF1/05.02.24 - Vertragsarten.md",
     "09.02.24 - DSGVO.md",
-    "School/LF4/Notizen - LF4/11.12.23 - RAID.md",
     "School/DeKo/Notizen - DeKo/09.02.24 - Protokolle.md",
     "ABs Prookollieren.pdf",
     "School/DeKo/Notizen - DeKo/01.12.23 - Grammatik.md",
-    "15.01.24 -.md",
     "School/LF1/Notizen - LF1/18.12.23 - Private Zusatzversicherungen.md",
-    "School/LF3/Notizen - LF3/01.12.23 - Rechnen.md",
     "School/DeKo/Notizen - DeKo/06.10.23 - Poetry Slam Text.md",
     "School/EnKo/Notizen - EnKo/19.01.24 - Hardware.md",
     "School/EnKo/Notizen - EnKo/01.12.23 - Small Talk.md",
@@ -293,7 +311,6 @@
     "School/LF5/HA - LF5/HW 13.11.23.md",
     "LF5.pdf",
     "School/LF5/Notizen - LF5/11.12.23 - ibibyte.md",
-    "School/LF1/Notizen - LF1/06.11.23 - Sozialversicherungen.md",
     "WhatsApp Image 2024-01-08 at 08.22.01.jpeg",
     "WhatsApp Image 2024-01-08 at 08.22.01 (1).jpeg",
     "WhatsApp Image 2024-01-08 at 08.22.01 (2).jpeg",
@@ -301,19 +318,13 @@
     "WhatsApp Image 2024-01-08 at 08.22.01 (4).jpeg",
     "08.01.24 - Rechtsfähigkeit.md",
     "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md",
-    "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
-    "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
     "School/LF2/Notizen - LF2/15.12.23 - Gruppenpuzzle.md",
     "School/LF2/Notizen - LF2/24.11.23 - Deckblatt Pflichtenheft.md",
-    "School/LF4/Notizen - LF4/25.09.23 - LF4.md",
-    "School/EnKo/Notizen - EnKo/24.11.23 - Small Talk.md",
-    "School/LF5/HA - LF5/HA 11.12.23.md",
     "WhatsApp Image 2023-12-11 at 103223.32.57.jpeg",
     "WhatsApp Image 2023-12-11 at 10.32.57.jpeg",
     "WhatsApp Image 2023-12-11 at 10.32.57 (1).jpeg",
     "WhatsApp Image 2023-12-11 at 10.32.57 (2).jpeg",
     "Small talk task 2.pdf",
-    "School/LF3/HA - LF3/HA - 24.11.23 - Aufgaben.md",
     "Modus.pdf",
     "Zeichensetzung.pdf",
     "Getrennt- und Zusammenschreibung.pdf",
