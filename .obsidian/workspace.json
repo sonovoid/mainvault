@@ -121,14 +121,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/LF3/Notizen - LF3/16.02.24 - VLAN.md",
+                "file": "School/EnKo/Notizen - EnKo/19.01.24 - Hardware.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b9cdf4640466223",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/EnKo/Notizen - EnKo/16.02.24 -.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/LF3/Notizen - LF3/16.02.24 - VLAN.md",
+                "file": "School/EnKo/Notizen - EnKo/16.02.24 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/LF3/Notizen - LF3/16.02.24 - VLAN.md",
+                "file": "School/EnKo/Notizen - EnKo/16.02.24 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/LF3/Notizen - LF3/16.02.24 - VLAN.md"
+                "file": "School/EnKo/Notizen - EnKo/16.02.24 -.md"
               }
             }
           },
@@ -285,10 +297,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "58376855c58d0c1b",
+  "active": "edbfeeb5d889d086",
   "lastOpenFiles": [
-    "School/LF4/HA - LF4/HA - LF4 - Overview.md",
+    "School/EnKo/Notizen - EnKo/19.01.24 - Hardware.md",
+    "School/EnKo/Notizen - EnKo/16.02.24 -.md",
     "School/LF3/Notizen - LF3/16.02.24 - VLAN.md",
+    "School/LF4/HA - LF4/HA - LF4 - Overview.md",
     "School/LF1/Notizen - LF1/15.01.24 -.md",
     "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
     "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
@@ -305,7 +319,6 @@
     "School/DeKo/Notizen - DeKo/01.12.23 - Grammatik.md",
     "School/LF1/Notizen - LF1/18.12.23 - Private Zusatzversicherungen.md",
     "School/DeKo/Notizen - DeKo/06.10.23 - Poetry Slam Text.md",
-    "School/EnKo/Notizen - EnKo/19.01.24 - Hardware.md",
     "School/EnKo/Notizen - EnKo/01.12.23 - Small Talk.md",
     "School/EnKo/Notizen - EnKo/Philipp Klingert.md",
     "School/LF5/HA - LF5/HW 13.11.23.md",
@@ -319,7 +332,6 @@
     "08.01.24 - Rechtsfähigkeit.md",
     "School/LF4/Notizen - LF4/IT-Sicherheitsrichtlinie.md",
     "School/LF2/Notizen - LF2/15.12.23 - Gruppenpuzzle.md",
-    "School/LF2/Notizen - LF2/24.11.23 - Deckblatt Pflichtenheft.md",
     "WhatsApp Image 2023-12-11 at 103223.32.57.jpeg",
     "WhatsApp Image 2023-12-11 at 10.32.57.jpeg",
     "WhatsApp Image 2023-12-11 at 10.32.57 (1).jpeg",
