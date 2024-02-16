@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 225.5,
+    "collapsed": true
   },
   "right": {
     "id": "80c809b1326bad8f",
@@ -273,7 +274,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "922785b48b893f66",
+  "active": "edbfeeb5d889d086",
   "lastOpenFiles": [
     "School/LF5/Notizen - LF5/15.01.24 - Hausaufgaben.md",
     "School/LF1/Notizen - LF1/05.02.24 - Vertragsarten.md",
