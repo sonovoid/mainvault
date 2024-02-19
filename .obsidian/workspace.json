@@ -138,9 +138,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "742c33bf6c01e3d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/LF1/Notizen - LF1/19.02.24 - Haftung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/LF1/Notizen - LF1/05.02.24 - Vertragsarten.md",
+                "file": "School/LF1/Notizen - LF1/19.02.24 - Haftung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/LF1/Notizen - LF1/05.02.24 - Vertragsarten.md",
+                "file": "School/LF1/Notizen - LF1/19.02.24 - Haftung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/LF1/Notizen - LF1/05.02.24 - Vertragsarten.md"
+                "file": "School/LF1/Notizen - LF1/19.02.24 - Haftung.md"
               }
             }
           },
@@ -297,8 +309,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4b9cdf4640466223",
+  "active": "742c33bf6c01e3d3",
   "lastOpenFiles": [
+    "School/LF1/Notizen - LF1/05.02.24 - Vertragsarten.md",
+    "School/LF1/Notizen - LF1/19.02.24 - Haftung.md",
     "School/EnKo/Notizen - EnKo/16.02.24 -.md",
     "AB Writing emails (1).pdf",
     "School/EnKo/Notizen - EnKo/01.12.23 - Small Talk.md",
@@ -314,7 +328,6 @@
     "School/EnKo/Notizen - EnKo/01.12.23 - Rechnen.md",
     "School/LF1/Notizen - LF1/06.11.23 - Sozialversicherungen.md",
     "School/LF5/Notizen - LF5/15.01.24 - Hausaufgaben.md",
-    "School/LF1/Notizen - LF1/05.02.24 - Vertragsarten.md",
     "09.02.24 - DSGVO.md",
     "School/DeKo/Notizen - DeKo/09.02.24 - Protokolle.md",
     "ABs Prookollieren.pdf",
