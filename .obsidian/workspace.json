@@ -150,9 +150,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aa3d47bba47a4588",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -309,7 +319,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "742c33bf6c01e3d3",
+  "active": "aa3d47bba47a4588",
   "lastOpenFiles": [
     "IMG_20240219_080243891.jpg",
     "School/LF1/Notizen - LF1/05.02.24 - Vertragsarten.md",
