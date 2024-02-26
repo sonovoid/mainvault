@@ -155,9 +155,11 @@
             "id": "aa3d47bba47a4588",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "School/LF2/Notizen - LF2/24.11.23 - Deckblatt Pflichtenheft.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -228,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/LF1/Notizen - LF1/19.02.24 - Haftung.md",
+                "file": "School/LF2/Notizen - LF2/24.11.23 - Deckblatt Pflichtenheft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/LF1/Notizen - LF1/19.02.24 - Haftung.md",
+                "file": "School/LF2/Notizen - LF2/24.11.23 - Deckblatt Pflichtenheft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/LF1/Notizen - LF1/19.02.24 - Haftung.md"
+                "file": "School/LF2/Notizen - LF2/24.11.23 - Deckblatt Pflichtenheft.md"
               }
             }
           },
@@ -321,6 +323,7 @@
   },
   "active": "aa3d47bba47a4588",
   "lastOpenFiles": [
+    "School/LF2/Notizen - LF2/15.12.23 - Gruppenpuzzle.md",
     "IMG_20240219_080243891.jpg",
     "School/LF1/Notizen - LF1/05.02.24 - Vertragsarten.md",
     "School/LF1/Notizen - LF1/19.02.24 - Haftung.md",
@@ -364,7 +367,6 @@
     "Zeichensetzung.pdf",
     "Getrennt- und Zusammenschreibung.pdf",
     "Groß- und Kleinschreibung.pdf",
-    "IMG-20231124-WA0023.jpg",
     "EnKo.pdf",
     "4 Klimawandel.pdf",
     "Untitled 1.canvas",
