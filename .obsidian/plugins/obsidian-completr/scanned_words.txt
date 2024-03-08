@@ -565,6 +565,7 @@ Wichtig
 Weiterverfolgung
 Wednesday
 Weil
+Wehrle
 sind
 sich
 sehr
@@ -766,6 +767,7 @@ spezielle
 schießen
 seines
 strafrechtlicher
+sagen
 richtig
 respektvoller
 rGeoTrust
@@ -1033,6 +1035,9 @@ finds
 further
 from
 fahrlässig
+frage
+findet
+festhält
 Softwareentwickler
 Software
 Softwareentwicklern
@@ -1251,6 +1256,7 @@ Schwere
 Schmerzensgeld
 Sorgfalt
 Schadensersatzanspruch
+Schreiben
 beschäftigen
 benötigen
 besitzen
@@ -1447,6 +1453,11 @@ besorgt
 baut
 begeht
 bewusst
+beanstanden
+beschweren
+bemängeln
+bezweifeln
+behaupten
 nur
 noch
 nicht
@@ -1691,6 +1702,8 @@ müsse
 mehrerer
 meeting
 making
+missbilligen
+mitteilen
 dem
 drei
 due
@@ -1853,6 +1866,8 @@ days
 discuss
 durchzusetzen
 dadurch
+darlegen
+darüber
 Programmieren
 Python
 Programmiersprachen
@@ -2017,6 +2032,9 @@ Portnummern
 Please
 Produkthaftung
 Produkten
+Protokollführer
+Protokollant
+Protokolles
 von
 vielfältig
 verfasst
@@ -2178,6 +2196,8 @@ versäumt
 vorhersehbar
 vermeidbar
 verhinderbar
+verkünden
+verleiht
 Die
 Debuggen
 Da
@@ -2470,6 +2490,7 @@ Netzwerkhardware
 Netzwerkgeräten
 Nichterfüllung
 Natur
+Nuancen
 Kenntnissen
 Kompetenzen
 Kenntnisse
@@ -2767,6 +2788,11 @@ afternoon
 advance
 aufgrund
 außer
+ablehnen
+anmerken
+ausführen
+allein
+ankommt
 Java
 JRd
 JX
@@ -3120,6 +3146,7 @@ hatte
 haftet
 haftbar
 herbeiführt
+hervorragende
 wichtige
 werden
 welche
@@ -3250,6 +3277,10 @@ would
 willentlich
 weshalb
 weder
+wissen
+wollen
+weglässt
+weil
 in
 im
 individuell
@@ -3546,6 +3577,7 @@ Vater
 Verbot
 Vergehens
 Verkehr
+Vorgesetzten
 Entwicklerdokumentationen
 Entscheidung
 Es
@@ -3707,6 +3739,8 @@ Erfüllung
 Erkenntnis
 Einsicht
 Ereignisse
+Ermessensspielraum
+Eigenwerbung
 Fachkenntnisse
 Falle
 Filter
@@ -3851,6 +3885,7 @@ Fahrlässigkeit
 Fehlern
 Folgen
 Freiheitsstrafen
+Frage
 Testen
 Tellerrand
 Teammitgliedern
@@ -4274,6 +4309,7 @@ typischerweise
 too
 targets
 trifft
+tadeln
 erscheinen
 einem
 ein
@@ -4453,6 +4489,11 @@ entweder
 erforderliche
 erblindet
 erwartet
+etwas
+erläutern
+erklären
+erkundigen
+entscheidet
 kurz
 können
 kommunizieren
@@ -4589,6 +4630,9 @@ klingert
 konfiguriert
 kontrollieren
 konsolidieren
+kritisieren
+kritik
+kommentieren
 Ihre
 In
 IY
@@ -4989,6 +5033,7 @@ philipp
 physischen
 prolong
 potential
+positives
 Code
 Chance
 Cd
@@ -5284,6 +5329,7 @@ Monday
 Minderjährige
 Metallplättchen
 Munition
+Macht
 logisch
 lZD
 lfq
@@ -5407,6 +5453,7 @@ lets
 looking
 liegt
 lassen
+lasse
 über
 üblicherweise
 überprüft
@@ -5415,6 +5462,7 @@ lassen
 üJ
 überprüfen
 übernehmen
+üben
 Lage
 Lösung
 Lernsituation
@@ -5865,6 +5913,7 @@ gestellt
 give
 greifen
 gemacht
+gelungenes
 Gleichzeitig
 GN
 Gp
@@ -6028,6 +6077,7 @@ Gummiband
 Geschoss
 Gefährlichkeit
 Geldstrafen
+Glanz
 Umgang
 Umfeld
 US
@@ -7320,6 +7370,7 @@ Referenz
 Routern
 ändern
 ältere
+äußern
 Öffnen
 Örtliche
 ÄV
