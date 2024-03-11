@@ -414,6 +414,7 @@ Angebote
 Anleitung
 Abschnitt
 Absatz
+All
 Welche
 Wählen
 Wissen
@@ -2473,6 +2474,7 @@ Dennis
 Diesen
 Dann
 Dirks
+Drucker
 Neben
 NZo
 Nl
@@ -2607,6 +2609,8 @@ Nadine
 Nee
 Nun
 Nutzen
+Nadeldrucker
+Nadel
 Kenntnissen
 Kompetenzen
 Kenntnisse
@@ -2750,6 +2754,7 @@ Kolja
 Kekse
 Kekssorten
 Kaffeeangebot
+Kugelkopfdrucker
 auch
 andere
 aus
@@ -4241,6 +4246,10 @@ Tee
 Teilneh
 Tagesordnungspunkte
 Tagesordnungspunkten
+Tintenstrahldrucker
+Thermosublimationsdrucker
+Thermotransferdrucker
+Tragbarer
 Heutzutage
 Herausforderungen
 Hindernisse
@@ -5580,6 +5589,8 @@ Markieren
 Mitschrift
 Machen
 Maximal
+Matrixdrucker
+Multifunktionsdrucker
 logisch
 lZD
 lfq
@@ -5868,6 +5879,8 @@ Lukas
 Ländern
 Lieferanten
 Lust
+Laserdrucker
+LED
 zu
 zusammen
 zxn
