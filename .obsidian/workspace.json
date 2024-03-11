@@ -193,14 +193,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/EnKo/Notizen - EnKo/16.02.24 -.md",
+                "file": "School/LF2/Notizen - LF2/15.12.23 - Gruppenpuzzle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41e27b04f7153313",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13.03.24 - S. 175-179.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -266,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/EnKo/Notizen - EnKo/16.02.24 -.md",
+                "file": "13.03.24 - S. 175-179.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/EnKo/Notizen - EnKo/16.02.24 -.md",
+                "file": "13.03.24 - S. 175-179.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/EnKo/Notizen - EnKo/16.02.24 -.md"
+                "file": "13.03.24 - S. 175-179.md"
               }
             }
           },
@@ -357,11 +369,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "458e3ed708edebf5",
+  "active": "41e27b04f7153313",
   "lastOpenFiles": [
+    "IMG_20240311_094147958.jpg",
+    "IMG_20240311_094145991.jpg",
+    "IMG_20240311_094153925.jpg",
+    "IMG_20240311_094140689.jpg",
+    "IMG_20240311_094156408.jpg",
+    "School/LF2/Notizen - LF2/15.12.23 - Gruppenpuzzle.md",
+    "13.03.24 - S. 175-179.md",
+    "School/EnKo/Notizen - EnKo/16.02.24 -.md",
     "School/EnKo/Notizen - EnKo/19.01.24 - Hardware.md",
     "School/EnKo/HA - EnKo/HA - EnKo - Overview.md",
-    "School/EnKo/Notizen - EnKo/16.02.24 -.md",
     "08.03.24 - Ethernet Aufgaben.md",
     "IMG_20240308_112437702.jpg",
     "IMG_20240308_112446071.jpg",
@@ -384,20 +403,13 @@
     "Work/Code of Conduct/Dokumente/Ausbildungsnachweis - Weekly.md",
     "Work/Code of Conduct/Dokumente/Ausbildungsnachweis - Daily.md",
     "Work/Code of Conduct/Code of Conduct.md",
-    "School/LF2/Notizen - LF2/15.12.23 - Gruppenpuzzle.md",
     "School/LF1/Notizen - LF1/04.03.24 - Warenkennzeichnung.md",
     "School/LF1/Notizen - LF1/06.11.23 - Sozialversicherungen.md",
-    "School/LF1/Notizen - LF1/19.02.24 - Haftung.md",
-    "School/LF2/Notizen - LF2/24.11.23 - Deckblatt Pflichtenheft.md",
     "IMG_20240219_080243891.jpg",
     "AB Writing emails (1).pdf",
     "ABs Prookollieren.pdf",
     "LF5.pdf",
     "WhatsApp Image 2024-01-08 at 08.22.01.jpeg",
-    "WhatsApp Image 2024-01-08 at 08.22.01 (1).jpeg",
-    "WhatsApp Image 2024-01-08 at 08.22.01 (2).jpeg",
-    "WhatsApp Image 2024-01-08 at 08.22.01 (3).jpeg",
-    "WhatsApp Image 2024-01-08 at 08.22.01 (4).jpeg",
     "Small talk task 2.pdf",
     "Modus.pdf",
     "Zeichensetzung.pdf",
