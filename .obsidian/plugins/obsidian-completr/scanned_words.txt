@@ -182,6 +182,10 @@ Besprechung
 Betreuung
 Breuer
 Beobachter
+Beschwerden
+Bett
+Banken
+Briefe
 Aufgabe
 Aussagen
 Aufgabenbereiche
@@ -415,6 +419,8 @@ Anleitung
 Abschnitt
 Absatz
 All
+Arzt
+Anfragen
 Welche
 Wählen
 Wissen
@@ -804,6 +810,15 @@ stimmen
 saloppe
 schreiben
 selben
+seien
+solle
+seine
+scheitern
+stimmte
+schlug
+solchen
+sonst
+schließlich
 richtig
 respektvoller
 rGeoTrust
@@ -1081,6 +1096,11 @@ fangen
 finde
 früher
 fair
+fragt
+fehle
+finanzielle
+fragte
+fand
 Softwareentwickler
 Software
 Softwareentwicklern
@@ -1314,6 +1334,10 @@ Stifte
 Schokoladenkekse
 Streichen
 Singular
+Schmerz
+Schulfest
+Stadt
+Sorge
 beschäftigen
 benötigen
 besitzen
@@ -1528,6 +1552,11 @@ beans
 beauftragt
 bestimmte
 befinden
+bedauerte
+benötigten
+beantragt
+bitten
+bat
 nur
 noch
 nicht
@@ -1790,6 +1819,7 @@ mende
 mieren
 maximal
 message
+meinte
 dem
 drei
 due
@@ -1962,6 +1992,7 @@ denke
 denkst
 dir
 durcheinander
+dürfe
 Programmieren
 Python
 Programmiersprachen
@@ -2141,6 +2172,9 @@ Punkten
 Plural
 Präsens
 Protokolloverhead
+Patienten
+Patient
+Plakate
 von
 vielfältig
 verfasst
@@ -2309,6 +2343,9 @@ verpflichten
 vielleicht
 verantwortungsvolles
 verfassen
+vorsichtshalber
+völlig
+vorgehen
 Die
 Debuggen
 Da
@@ -2611,6 +2648,8 @@ Nun
 Nutzen
 Nadeldrucker
 Nadel
+Nina
+Notwendigkeit
 Kenntnissen
 Kompetenzen
 Kenntnisse
@@ -2942,6 +2981,13 @@ aufgefüllt
 aufgeräumt
 aufräumen
 alphabetischer
+aufträten
+aushalten
+aufstehen
+aufhängen
+auftreiben
+anspreche
+angewiesen
 Java
 JRd
 JX
@@ -3176,6 +3222,7 @@ unnötiges
 unerlaubte
 unbedingt
 umgangssprachliche
+unorganisiert
 heutzutage
 hilft
 hierbei
@@ -3303,6 +3350,7 @@ höheren
 hinterlassen
 herzurichten
 holt
+höfliche
 wichtige
 werden
 welche
@@ -3447,6 +3495,10 @@ wer
 wenig
 wiederholende
 wechseln
+wann
+wollten
+woraufhin
+wolle
 in
 im
 individuell
@@ -3924,6 +3976,9 @@ Euro
 Enthaltung
 Einsatzplan
 Erstellen
+Erkrankung
+Erlaubnissen
+Erlaubnis
 Fachkenntnisse
 Falle
 Filter
@@ -4075,6 +4130,8 @@ Farbliche
 Formulieren
 Formulierungen
 Frame
+Fördervereins
+Fußgängerzone
 Testen
 Tellerrand
 Teammitgliedern
@@ -4250,6 +4307,7 @@ Tintenstrahldrucker
 Thermosublimationsdrucker
 Thermotransferdrucker
 Tragbarer
+Tombola
 Heutzutage
 Herausforderungen
 Hindernisse
@@ -4393,6 +4451,7 @@ Handelns
 Hilfe
 Hitze
 Hosts
+Herr
 teamfähig
 todo
 technisches
@@ -4521,6 +4580,7 @@ teuer
 totales
 teilweise
 tation
+talentiert
 erscheinen
 einem
 ein
@@ -4719,6 +4779,10 @@ einführen
 erledigt
 eingeholt
 erste
+erwähnte
+erklärte
+effektiver
+entwerfen
 kurz
 können
 kommunizieren
@@ -4864,6 +4928,8 @@ kostet
 kosten
 krank
 kochen
+könne
+kümmern
 Ihre
 In
 IY
@@ -5137,6 +5203,7 @@ our
 only
 original
 obwohl
+ohnehin
 pending
 pho
 permitted
@@ -5591,6 +5658,9 @@ Machen
 Maximal
 Matrixdrucker
 Multifunktionsdrucker
+Medikamente
+Müller
+Mittel
 logisch
 lZD
 lfq
@@ -5716,6 +5786,8 @@ liegt
 lassen
 lasse
 lieber
+losziehen
+laufen
 über
 üblicherweise
 überprüft
@@ -5881,6 +5953,7 @@ Lieferanten
 Lust
 Laserdrucker
 LED
+Leuten
 zu
 zusammen
 zxn
@@ -6019,6 +6092,8 @@ zurückkommen
 zahlen
 zweit
 zusammenfassen
+ziemlich
+zweifelte
 geht
 gutes
 gh
@@ -6203,6 +6278,12 @@ gebe
 geschmolzen
 günstigstes
 ggf
+gehabt
+gelegentlich
+gesund
+gesagt
+geschickter
+gab
 Gleichzeitig
 GN
 Gp
@@ -6371,6 +6452,7 @@ Gewinn
 Geld
 Gespräch
 Grammatik
+Geschäftsleute
 Umgang
 Umfeld
 US
@@ -6510,6 +6592,7 @@ Und
 Umdenken
 Umstellung
 Unordnung
+Unterstützung
 ObjStm
 Obwohl
 Ob
@@ -7683,6 +7766,7 @@ Rechtschreibung
 ändern
 ältere
 äußern
+äußerte
 Öffnen
 Örtliche
 ÄV
