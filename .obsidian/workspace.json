@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "15.03.24 - Konjunktiv.md",
+                "file": "School/EnKo/Notizen - EnKo/16.02.24 -.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a3366d17cfebf33e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "15.03.24 - Konjunktiv.md",
+                "file": "School/EnKo/Notizen - EnKo/16.02.24 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "15.03.24 - Konjunktiv.md",
+                "file": "School/EnKo/Notizen - EnKo/16.02.24 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "15.03.24 - Konjunktiv.md"
+                "file": "School/EnKo/Notizen - EnKo/16.02.24 -.md"
               }
             }
           },
@@ -176,11 +187,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "745e12ae001a3ec1",
+  "active": "a3366d17cfebf33e",
   "lastOpenFiles": [
+    "15.03.24 - Konjunktiv.md",
     "Konjunktiv I _ indirekte Rede.pdf",
     "School/DeKo/Notizen - DeKo/09.02.24 - Protokolle.md",
-    "15.03.24 - Konjunktiv.md",
     "School/LF5/HA - LF5/HA 11.12.23.md",
     "13.03.24 - S. 175-179.md",
     "IMG_20240311_094147958.jpg",
@@ -223,7 +234,6 @@
     "Getrennt- und Zusammenschreibung.pdf",
     "Groß- und Kleinschreibung.pdf",
     "EnKo.pdf",
-    "4 Klimawandel.pdf",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
