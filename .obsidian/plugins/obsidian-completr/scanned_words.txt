@@ -819,6 +819,11 @@ schlug
 solchen
 sonst
 schließlich
+statistics
+steady
+sharply
+small
+steadily
 richtig
 respektvoller
 rGeoTrust
@@ -1101,6 +1106,9 @@ fehle
 finanzielle
 fragte
 fand
+frequency
+features
+figures
 Softwareentwickler
 Software
 Softwareentwicklern
@@ -1557,6 +1565,7 @@ benötigten
 beantragt
 bitten
 bat
+between
 nur
 noch
 nicht
@@ -1993,6 +2002,9 @@ denkst
 dir
 durcheinander
 dürfe
+difficult
+downward
+decreased
 Programmieren
 Python
 Programmiersprachen
@@ -2346,6 +2358,7 @@ verfassen
 vorsichtshalber
 völlig
 vorgehen
+value
 Die
 Debuggen
 Da
@@ -3223,6 +3236,7 @@ unerlaubte
 unbedingt
 umgangssprachliche
 unorganisiert
+upward
 heutzutage
 hilft
 hierbei
@@ -3351,6 +3365,7 @@ hinterlassen
 herzurichten
 holt
 höfliche
+had
 wichtige
 werden
 welche
@@ -3619,6 +3634,9 @@ indem
 infor
 indirekter
 identifikationsmarkierung
+instructions
+installations
+increased
 Vorteil
 Vmo
 VzPe
@@ -3979,6 +3997,7 @@ Erstellen
 Erkrankung
 Erlaubnissen
 Erlaubnis
+Emails
 Fachkenntnisse
 Falle
 Filter
@@ -4308,6 +4327,7 @@ Thermosublimationsdrucker
 Thermotransferdrucker
 Tragbarer
 Tombola
+The
 Heutzutage
 Herausforderungen
 Hindernisse
@@ -4930,6 +4950,7 @@ krank
 kochen
 könne
 kümmern
+klausur
 Ihre
 In
 IY
@@ -6284,6 +6305,7 @@ gesund
 gesagt
 geschickter
 gab
+graphical
 Gleichzeitig
 GN
 Gp
@@ -7104,6 +7126,7 @@ cable
 call
 costs
 changes
+cake
 qX
 qj
 qR
