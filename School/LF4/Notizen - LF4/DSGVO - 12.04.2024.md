@@ -92,4 +92,7 @@ gemäß Artikel §32 DSGVO
 
 Quellen: [https://ratgeber.immowelt.de/a/mieterselbstauskunft-wann-mieter-luegen-duerfen.html](https://ratgeber.immowelt.de/a/mieterselbstauskunft-wann-mieter-luegen-duerfen.html)  
 [https://www.schoener-wohnen.de/architektur/immobilien/38455-rtkl-selbstauskunft-fuer-mieter-was-rechtlich-erlaubt-ist](https://www.schoener-wohnen.de/architektur/immobilien/38455-rtkl-selbstauskunft-fuer-mieter-was-rechtlich-erlaubt-ist)  
-[https://dsgvo-gesetz.de/art-6-dsgvo/](https://dsgvo-gesetz.de/art-6-dsgvo/)-
+[https://dsgvo-gesetz.de/art-6-dsgvo/](https://dsgvo-gesetz.de/art-6-dsgvo/)-#
+
+Nennen Sie die zwei Dimensionen eines Schadens:
+Schwere des M
