@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/LF2/Notizen - LF2/08.04.24 - Themen Klausur + Netzplan.md",
+                "file": "School/LF4/Notizen - LF4/11.12.23 - RAID.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e3b8dfd2ab5f662",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/LF4/Notizen - LF4/DSGVO - 12.04.2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/EnKo/Notizen - EnKo/16.02.24 -.md",
+                "file": "School/LF4/Notizen - LF4/DSGVO - 12.04.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/EnKo/Notizen - EnKo/16.02.24 -.md",
+                "file": "School/LF4/Notizen - LF4/DSGVO - 12.04.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/EnKo/Notizen - EnKo/16.02.24 -.md"
+                "file": "School/LF4/Notizen - LF4/DSGVO - 12.04.2024.md"
               }
             }
           },
@@ -201,14 +213,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "edbfeeb5d889d086",
+  "active": "7e3b8dfd2ab5f662",
   "lastOpenFiles": [
+    "School/LF4/Notizen - LF4/11.12.23 - RAID.md",
+    "School/LF4/Notizen - LF4/DSGVO - 12.04.2024.md",
+    "School/LF3/Notizen - LF3/16.02.24 - VLAN.md",
+    "School/EnKo/Notizen - EnKo/16.02.24 -.md",
     "School/LF2/Notizen - LF2/15.12.23 - Gruppenpuzzle.md",
     "School/LF2/Notizen - LF2/08.04.24 - Themen Klausur + Netzplan.md",
     "School/EnKo/Notizen - EnKo/05.04.24 -.md",
     "AB Describing graphs and charts.pdf",
     "School/DeKo/Notizen - DeKo/15.03.24 - Konjunktiv.md",
-    "School/EnKo/Notizen - EnKo/16.02.24 -.md",
     "Konjunktiv I _ indirekte Rede.pdf",
     "School/DeKo/Notizen - DeKo/09.02.24 - Protokolle.md",
     "School/LF5/HA - LF5/HA 11.12.23.md",
@@ -225,8 +240,6 @@
     "IMG_20240308_112446071.jpg",
     "IMG_20240308_112434726.jpg",
     "IMG_20240308_112449699.jpg",
-    "School/LF3/Notizen - LF3/16.02.24 - VLAN.md",
-    "School/LF4/Notizen - LF4/11.12.23 - RAID.md",
     "Untitled.md",
     "School/LF5/Notizen - LF5/15.01.24 - Hausaufgaben.md",
     "Overview.md",
@@ -239,7 +252,6 @@
     "Work/Code of Conduct/Dokumente/Unterweisungen.md",
     "Work/Code of Conduct/Dokumente/Ausbildungsnachweis - Weekly.md",
     "Work/Code of Conduct/Dokumente/Ausbildungsnachweis - Daily.md",
-    "Work/Code of Conduct/Code of Conduct.md",
     "IMG_20240219_080243891.jpg",
     "AB Writing emails (1).pdf",
     "ABs Prookollieren.pdf",
