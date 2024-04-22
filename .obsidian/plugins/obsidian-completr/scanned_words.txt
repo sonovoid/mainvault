@@ -191,6 +191,8 @@ Bank
 Behinderungen
 Beschreibung
 Berücksichtigung
+Bedürfnissen
+Bildung
 Aufgabe
 Aussagen
 Aufgabenbereiche
@@ -615,6 +617,9 @@ Wohnungsberechtigungsschein
 Wohnorten
 Wohnungsauskunft
 Wohnsituation
+Werbebotschaften
+Wettbewerb
+Wettbewerbsvorteile
 sind
 sich
 sehr
@@ -990,6 +995,7 @@ rechnen
 rum
 recht
 reicht
+relevanten
 falsch
 fundierten
 fachlichen
@@ -1138,6 +1144,9 @@ features
 figures
 früheren
 finanziellen
+fairen
+fördert
+fundierte
 Softwareentwickler
 Software
 Softwareentwicklern
@@ -1382,6 +1391,7 @@ Schweigen
 Sexualität
 Schwangerschaft
 Schadens
+Sicherheitsstandards
 beschäftigen
 benötigen
 besitzen
@@ -1607,6 +1617,8 @@ befragt
 betroffene
 believed
 being
+betrügerischen
+benachteiligenden
 nur
 noch
 nicht
@@ -1874,6 +1886,7 @@ meinte
 manchmal
 met
 make
+möchten
 dem
 drei
 due
@@ -2240,6 +2253,10 @@ Patienten
 Patient
 Plakate
 Personalausweis
+Produktbeschreibungen
+Präferenzen
+Produktsicherheit
+Praktiken
 von
 vielfältig
 verfasst
@@ -2412,6 +2429,7 @@ vorsichtshalber
 völlig
 vorgehen
 value
+verständlich
 Die
 Debuggen
 Da
@@ -2583,6 +2601,7 @@ Datenkategorien
 Drittstaatentransfer
 Datenschutzfolgenabschätzung
 Dimensionen
+Dienstleistungen
 Neben
 NZo
 Nl
@@ -2873,6 +2892,9 @@ Kredite
 Kind
 Kontodaten
 Krediten
+Kennzeichnungen
+Klauseln
+Kompetenz
 auch
 andere
 aus
@@ -3076,6 +3098,8 @@ analoge
 areended
 all
 accessories
+anwenden
+angemessene
 Java
 JRd
 JX
@@ -3312,6 +3336,9 @@ unbedingt
 umgangssprachliche
 unorganisiert
 upward
+unmittelbare
+unfairen
+unfair
 heutzutage
 hilft
 hierbei
@@ -3721,6 +3748,9 @@ increased
 ihn
 introduced
 items
+informierte
+ihren
+irreführenden
 Vorteil
 Vmo
 VzPe
@@ -3915,6 +3945,14 @@ Vertragsabschluss
 Vorstrafen
 VVT
 Vorvermieters
+Verbraucher
+Vielfalt
+Vertragliche
+Verbrauchern
+Verträgen
+Vereinbarungen
+Verträge
+Vertragsverletzungen
 Entwicklerdokumentationen
 Entscheidung
 Es
@@ -4254,6 +4292,9 @@ Folge
 Familienplanung
 Freizeitbeschäftigungen
 Familienstand
+Fairer
+Finanzielle
+Förderung
 Testen
 Tellerrand
 Teammitgliedern
@@ -4435,6 +4476,8 @@ Teammitglied
 Tatbestand
 Täuschung
 Thirdly
+Tests
+Transaktionen
 Heutzutage
 Herausforderungen
 Hindernisse
@@ -4718,6 +4761,8 @@ tation
 talentiert
 treten
 technischen
+treffen
+täuschen
 erscheinen
 einem
 ein
@@ -4926,6 +4971,7 @@ ethnische
 erfragen
 einhalten
 employed
+erlangen
 kurz
 können
 kommunizieren
@@ -5074,6 +5120,8 @@ kochen
 könne
 kümmern
 klausur
+kaufen
+klare
 Ihre
 In
 IY
@@ -5222,6 +5270,8 @@ Imperfekt
 Ihr
 Interessenten
 Insolvenzverfahren
+Informierte
+Innovation
 Überlegungen
 Überarbeitung
 Überstunden
@@ -5822,6 +5872,8 @@ Mietinteressenten
 Mieterselbstauskünften
 Mieterselbstauskünfte
 Most
+Markt
+Möglichkeiten
 logisch
 lZD
 lfq
@@ -5955,6 +6007,7 @@ lit
 like
 leather
 lastly
+lernen
 über
 üblicherweise
 überprüft
@@ -6632,6 +6685,8 @@ Gespräch
 Grammatik
 Geschäftsleute
 Gewerkschaften
+Gefahr
+Geldanlagen
 Umgang
 Umfeld
 US
@@ -7805,6 +7860,7 @@ Zeichensetzung
 Zahlungshistorie
 Zugehörigkeit
 Zugriffsberechtigte
+Zertifizierungen
 Rih
 Root
 Regel
@@ -7953,6 +8009,7 @@ Räumungstitel
 Rechtsschutzversicherung
 Rechtsgrundlage
 Regelfristen
+Regularien
 ändern
 ältere
 äußern
