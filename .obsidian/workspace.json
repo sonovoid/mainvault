@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/LF1/Notizen - LF1/22.04.24 - Präsi Text Verbraucherschutzt.md",
+                "file": "School/EnKo/Notizen - EnKo/05.04.24 -.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54ed422216b8bdf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "26.04.24 - Identity theft presentation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/LF1/Notizen - LF1/22.04.24 - Präsi Text Verbraucherschutzt.md",
+                "file": "26.04.24 - Identity theft presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/LF1/Notizen - LF1/22.04.24 - Präsi Text Verbraucherschutzt.md",
+                "file": "26.04.24 - Identity theft presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/LF1/Notizen - LF1/22.04.24 - Präsi Text Verbraucherschutzt.md"
+                "file": "26.04.24 - Identity theft presentation.md"
               }
             }
           },
@@ -213,13 +225,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e3b8dfd2ab5f662",
+  "active": "54ed422216b8bdf2",
   "lastOpenFiles": [
+    "School/EnKo/Notizen - EnKo/05.04.24 -.md",
+    "26.04.24 - Identity theft presentation.md",
+    "School/LF1/Notizen - LF1/22.04.24 - Präsi Text Verbraucherschutzt.md",
     "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
     "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
     "School/LF3/Notizen - LF3/16.02.24 - VLAN.md",
-    "School/LF1/Notizen - LF1/22.04.24 - Präsi Text Verbraucherschutzt.md",
-    "School/EnKo/Notizen - EnKo/05.04.24 -.md",
     "School/LF4/Notizen - LF4/DSGVO - 12.04.2024.md",
     "School/LF4/Notizen - LF4/11.12.23 - RAID.md",
     "School/EnKo/Notizen - EnKo/16.02.24 -.md",
@@ -251,7 +264,6 @@
     "Work/Code of Conduct/Anleitungen/MS Teams.md",
     "Work/Code of Conduct/Anleitungen/Mail Signatur.md",
     "Work/Code of Conduct/Anleitungen/Outlook.md",
-    "Work/Code of Conduct/Anleitungen/Aufrufen des Ausbildungsguides auf dem Teams Kanal.md",
     "IMG_20240219_080243891.jpg",
     "AB Writing emails (1).pdf",
     "ABs Prookollieren.pdf",
