@@ -856,6 +856,7 @@ struggle
 shoes
 sale
 shoe
+sec
 richtig
 respektvoller
 rGeoTrust
@@ -1392,6 +1393,7 @@ Sexualität
 Schwangerschaft
 Schadens
 Sicherheitsstandards
+Slides
 beschäftigen
 benötigen
 besitzen
