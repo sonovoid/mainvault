@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/DeKo/Notizen - DeKo/15.03.24 - Konjunktiv.md",
+                "file": "School/LF3/Notizen - LF3/16.02.24 - VLAN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c08fcbd0c221001",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03.05.24 - Klausurvorbereitung IPv6.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/DeKo/Notizen - DeKo/15.03.24 - Konjunktiv.md",
+                "file": "03.05.24 - Klausurvorbereitung IPv6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/DeKo/Notizen - DeKo/15.03.24 - Konjunktiv.md",
+                "file": "03.05.24 - Klausurvorbereitung IPv6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/DeKo/Notizen - DeKo/15.03.24 - Konjunktiv.md"
+                "file": "03.05.24 - Klausurvorbereitung IPv6.md"
               }
             }
           },
@@ -225,8 +237,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "54ed422216b8bdf2",
+  "active": "4c08fcbd0c221001",
   "lastOpenFiles": [
+    "School/LF3/Notizen - LF3/16.02.24 - VLAN.md",
+    "03.05.24 - Klausurvorbereitung IPv6.md",
+    "School/DeKo/Notizen - DeKo/15.03.24 - Konjunktiv.md",
     "School/LF5/HA - LF5/WhatsApp Image 2024-04-29 at 09.28.10.jpeg",
     "School/LF5/HA - LF5/HA 11.12.23.md",
     "School/LF2/Notizen - LF2/08.04.24 - Themen Klausur + Netzplan.md",
@@ -235,13 +250,11 @@
     "School/LF1/Notizen - LF1/22.04.24 - Präsi Text Verbraucherschutzt.md",
     "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
     "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
-    "School/LF3/Notizen - LF3/16.02.24 - VLAN.md",
     "School/LF4/Notizen - LF4/DSGVO - 12.04.2024.md",
     "School/LF4/Notizen - LF4/11.12.23 - RAID.md",
     "School/EnKo/Notizen - EnKo/16.02.24 -.md",
     "School/LF2/Notizen - LF2/15.12.23 - Gruppenpuzzle.md",
     "AB Describing graphs and charts.pdf",
-    "School/DeKo/Notizen - DeKo/15.03.24 - Konjunktiv.md",
     "Konjunktiv I _ indirekte Rede.pdf",
     "School/DeKo/Notizen - DeKo/09.02.24 - Protokolle.md",
     "13.03.24 - S. 175-179.md",
