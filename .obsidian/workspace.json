@@ -59,9 +59,11 @@
             "id": "54ed422216b8bdf2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "School/LF5/HA - LF5/WhatsApp Image 2024-04-29 at 09.28.10.jpeg"
+                "file": "School/DeKo/Notizen - DeKo/15.03.24 - Konjunktiv.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/LF5/HA - LF5/WhatsApp Image 2024-04-29 at 09.28.10.jpeg",
+                "file": "School/DeKo/Notizen - DeKo/15.03.24 - Konjunktiv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/LF5/HA - LF5/WhatsApp Image 2024-04-29 at 09.28.10.jpeg",
+                "file": "School/DeKo/Notizen - DeKo/15.03.24 - Konjunktiv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/LF5/HA - LF5/WhatsApp Image 2024-04-29 at 09.28.10.jpeg"
+                "file": "School/DeKo/Notizen - DeKo/15.03.24 - Konjunktiv.md"
               }
             }
           },
@@ -225,8 +227,8 @@
   },
   "active": "54ed422216b8bdf2",
   "lastOpenFiles": [
-    "School/LF5/HA - LF5/HA 11.12.23.md",
     "School/LF5/HA - LF5/WhatsApp Image 2024-04-29 at 09.28.10.jpeg",
+    "School/LF5/HA - LF5/HA 11.12.23.md",
     "School/LF2/Notizen - LF2/08.04.24 - Themen Klausur + Netzplan.md",
     "26.04.24 - Identity theft presentation.md",
     "School/EnKo/Notizen - EnKo/05.04.24 -.md",
