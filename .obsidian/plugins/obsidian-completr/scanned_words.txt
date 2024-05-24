@@ -443,6 +443,7 @@ Artikel
 After
 And
 Angebotsvergleich
+Anfang
 Welche
 Wählen
 Wissen
@@ -1007,6 +1008,7 @@ recht
 reicht
 relevanten
 rRq
+relevant
 falsch
 fundierten
 fachlichen
@@ -2103,6 +2105,7 @@ didnt
 desc
 df
 dEw
+dargestellt
 Programmieren
 Python
 Programmiersprachen
@@ -2294,6 +2297,7 @@ PROFILE
 Pxp
 Pu
 PQSs
+Paketen
 von
 vielfältig
 verfasst
@@ -2645,6 +2649,7 @@ DWpg
 DOp
 DOpg
 Dzj
+Doppelpunkte
 Neben
 NZo
 Nl
@@ -2791,6 +2796,8 @@ Netzplan
 NiNYCA
 NHc
 NKL
+Nullen
+NAT
 Kenntnissen
 Kompetenzen
 Kenntnisse
@@ -2948,6 +2955,7 @@ KJe
 KN
 KI
 KFeb
+Kette
 auch
 andere
 aus
@@ -3157,6 +3165,7 @@ acsp
 aFDW
 aZ
 aXD
+aufeinanderfolgende
 Java
 JRd
 JX
@@ -3269,6 +3278,7 @@ John
 Jetzt
 JW
 JZyJ
+Jede
 und
 until
 um
@@ -3537,6 +3547,7 @@ hKZ
 hrR
 heY
 hQF
+hexadezimale
 wichtige
 werden
 welche
@@ -3691,6 +3702,7 @@ were
 went
 worked
 wIA
+weggelassen
 in
 im
 individuell
@@ -3822,6 +3834,7 @@ ihren
 irreführenden
 iBü
 imW
+ipv
 Vorteil
 Vmo
 VzPe
@@ -4214,6 +4227,8 @@ Empfängerkategorien
 Energieeffizienz
 EcZ
 EVb
+Ende
+Einsatz
 Fachkenntnisse
 Falle
 Filter
@@ -4378,6 +4393,7 @@ Förderung
 FCC
 Ffd
 FOP
+Fragmentierung
 Testen
 Tellerrand
 Teammitgliedern
@@ -4562,6 +4578,7 @@ Thirdly
 Tests
 Transaktionen
 TVp
+Tabelle
 Heutzutage
 Herausforderungen
 Hindernisse
@@ -4850,6 +4867,7 @@ treten
 technischen
 treffen
 täuschen
+tcp
 erscheinen
 einem
 ein
@@ -5063,6 +5081,7 @@ eTN
 ej
 esQ
 eJH
+ersetzt
 kurz
 können
 kommunizieren
@@ -5368,6 +5387,7 @@ ICC
 IZH
 IjkH
 IVzH
+Ingesamt
 Überlegungen
 Überarbeitung
 Überstunden
@@ -5978,6 +5998,7 @@ Markt
 Möglichkeiten
 Mängelrüge
 MJCw
+Mehrere
 logisch
 lZD
 lfq
@@ -6626,6 +6647,7 @@ got
 general
 gYJ
 gNiW
+getrennt
 Gleichzeitig
 GN
 Gp
@@ -7165,6 +7187,7 @@ juristische
 jährigen
 jemand
 jetzt
+jedoch
 Xg
 XU
 XR
