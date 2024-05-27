@@ -8,90 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "745e12ae001a3ec1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/EnKo/Notizen - EnKo/16.02.24 -.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f86d293e1d2d85f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/LF2/Notizen - LF2/15.12.23 - Gruppenpuzzle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43b295670e60dd5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/LF4/Notizen - LF4/11.12.23 - RAID.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e3b8dfd2ab5f662",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/EnKo/Notizen - EnKo/05.04.24 -.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54ed422216b8bdf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/LF3/Notizen - LF3/16.02.24 - VLAN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c08fcbd0c221001",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/LF2/Notizen - LF2/08.04.24 - Themen Klausur + Netzplan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bbafd0ff1faa23d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/LF5/Notizen - LF5/15.01.24 - Hausaufgaben.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e0545665cf6b2810",
             "type": "leaf",
             "state": {
@@ -103,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 225.5,
+    "collapsed": true
   },
   "right": {
     "id": "80c809b1326bad8f",
@@ -261,7 +177,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e0545665cf6b2810",
+  "active": "edbfeeb5d889d086",
   "lastOpenFiles": [
     "struktogrammloesung.png",
     "Pasted image 20240527090207.png",
