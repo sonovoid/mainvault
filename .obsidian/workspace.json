@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "27.05.24 - Struktogramme.md",
+                "file": "School/LF1/Notizen - LF1/22.04.24 - Präsi Text Verbraucherschutzt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c93aae6cafd866a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/LF1/Notizen - LF1/03.06.24 - EU.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "27.05.24 - Struktogramme.md",
+                "file": "School/LF1/Notizen - LF1/03.06.24 - EU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "27.05.24 - Struktogramme.md",
+                "file": "School/LF1/Notizen - LF1/03.06.24 - EU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "27.05.24 - Struktogramme.md"
+                "file": "School/LF1/Notizen - LF1/03.06.24 - EU.md"
               }
             }
           },
@@ -176,13 +189,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "edbfeeb5d889d086",
+  "active": "5c93aae6cafd866a",
   "lastOpenFiles": [
+    "School/LF1/Notizen - LF1/22.04.24 - Präsi Text Verbraucherschutzt.md",
+    "School/LF1/Notizen - LF1/03.06.24 - EU.md",
+    "School/LF1/Notizen - LF1/19.02.24 - Haftung.md",
+    "27.05.24 - Struktogramme.md",
     "struktogrammloesung.png",
     "Pasted image 20240527090207.png",
     "Pasted image 20240527085033.png",
     "School/LF5/Notizen - LF5/15.01.24 - Hausaufgaben.md",
-    "27.05.24 - Struktogramme.md",
     "School/LF5/HA - LF5/HA 11.12.23.md",
     "School/LF5/HA - LF5/WhatsApp Image 2024-04-29 at 09.28.10.jpeg",
     "27.05.24 - Netzplan.md",
@@ -198,7 +214,6 @@
     "School/DeKo/Notizen - DeKo/15.03.24 - Konjunktiv.md",
     "26.04.24 - Identity theft presentation.md",
     "School/EnKo/Notizen - EnKo/05.04.24 -.md",
-    "School/LF1/Notizen - LF1/22.04.24 - Präsi Text Verbraucherschutzt.md",
     "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
     "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
     "School/LF4/Notizen - LF4/DSGVO - 12.04.2024.md",
@@ -209,13 +224,11 @@
     "Konjunktiv I _ indirekte Rede.pdf",
     "School/DeKo/Notizen - DeKo/09.02.24 - Protokolle.md",
     "13.03.24 - S. 175-179.md",
-    "IMG_20240311_094147958.jpg",
     "School/EnKo/Notizen - EnKo/19.01.24 - Hardware.md",
     "School/EnKo/HA - EnKo/HA - EnKo - Overview.md",
     "08.03.24 - Ethernet Aufgaben.md",
     "Untitled.md",
     "Overview.md",
-    "Work/Code of Conduct/Anleitungen/Abwesenheitsnotiz.md",
     "AB Writing emails (1).pdf",
     "ABs Prookollieren.pdf",
     "LF5.pdf",
