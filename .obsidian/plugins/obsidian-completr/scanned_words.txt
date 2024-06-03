@@ -197,6 +197,7 @@ BR
 BKJb
 BRI
 BIe
+Baujahr
 Aufgabe
 Aussagen
 Aufgabenbereiche
@@ -628,6 +629,7 @@ Wettbewerb
 Wettbewerbsvorteile
 Wxm
 Wxv
+Wohnfläche
 sind
 sich
 sehr
@@ -1009,6 +1011,7 @@ reicht
 relevanten
 rRq
 relevant
+restwertBerechnen
 falsch
 fundierten
 fachlichen
@@ -1412,6 +1415,7 @@ Slides
 SYuH
 SbJ
 Syl
+Schadenshöhe
 beschäftigen
 benötigen
 besitzen
@@ -2798,6 +2802,7 @@ NHc
 NKL
 Nullen
 NAT
+Neupreis
 Kenntnissen
 Kompetenzen
 Kenntnisse
@@ -2956,6 +2961,7 @@ KN
 KI
 KFeb
 Kette
+KFZ
 auch
 andere
 aus
@@ -3166,6 +3172,7 @@ aFDW
 aZ
 aXD
 aufeinanderfolgende
+auszahlen
 Java
 JRd
 JX
@@ -4579,6 +4586,7 @@ Tests
 Transaktionen
 TVp
 Tabelle
+Typschlüssel
 Heutzutage
 Herausforderungen
 Hindernisse
@@ -4734,6 +4742,7 @@ Haustieren
 HTY
 HXg
 HAiP
+Hersteller
 teamfähig
 todo
 technisches
@@ -6302,6 +6311,8 @@ Leuten
 Löschung
 LeGcZ
 LfR
+Laufleistung
+Lagebewertung
 zu
 zusammen
 zxn
@@ -6648,6 +6659,7 @@ general
 gYJ
 gNiW
 getrennt
+getLagebewertung
 Gleichzeitig
 GN
 Gp
@@ -7486,6 +7498,7 @@ changes
 cake
 come
 care
+class
 qX
 qj
 qR
