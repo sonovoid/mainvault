@@ -19,3 +19,10 @@ Other ways, which also have been mentioned by other groups are:
 Data Breaches: Where hackers illegally access and steal personal data from companies and organizations, exposing it to identity thieves.
 or
 Malware Attacks: Where malicious software can be used to infiltrate systems and collect sensitive data without the user's knowledge
+7. Common Identity Theft Techniques
+Furthermore, as I've already mentioned, one may use Physical Theft, where the criminal steals for example a wallet, documents or devices containing personal information to exploit it for their own gain.
+Skimming Devices, you might have heard about this one, where thieves install small hidden devices on for example ATM machines or payment terminals to capture card information and PINs, usually with a camera to capture the PIN input.
+8.Impact of Identity Theft
+Identity theft may have devastating consequences, both financially and personally. Victims may face stolen funds damaged credit score and the troublesome task of restoring their identity and reputation.
+The physical toll can be immense, leading to feelings of violation, stress and a loss of trust in various digital systems.
+9.
