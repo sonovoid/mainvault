@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,13 +182,11 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,7 +199,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e0545665cf6b2810",
+  "active": "6e936f077c9b127b",
   "lastOpenFiles": [
     "School/EnKo/Notizen - EnKo/05.04.24 -.md",
     "School/LF1/Notizen - LF1/22.04.24 - Präsi Text Verbraucherschutzt.md",
