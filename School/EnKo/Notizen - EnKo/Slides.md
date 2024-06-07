@@ -6,7 +6,7 @@ I will start out by talking about Identity Theft as a whole, theft techniques, c
 Then Lasse will tell you about access controls, education and awareness
 3. Identity Theft
 In our current age, identity theft is a growing concern in the IT environment, posing serious risks to organizations and individuals.
-This stealty threat can jeopardize sensitive data, undermine system security and lead to devastating financial and reputational consequences.
+This stealthy threat can jeopardize sensitive data, undermine system security and lead to devastating financial and reputational consequences.
 4. Understanding Identity Theft
 Identity Theft occurs when someone steals your personal information to commit fraud or other crimes.
 This can lead to unauthorized access to, for example, your financial accounts and significant personal and financial trouble.
@@ -30,6 +30,8 @@ First of all, Data Encryptions:
 You can protect yourself against identity theft by implementing robust encryption protocols to protect sensitive data, making sure that even if leaked or breached, that the information stays unreadable to people that aren't supposed to see it.
 Access controls:
 Enforcing strict access policies, granting only absolutely necessary access permissions to employees based on their role and task, limiting the exposure of sensitive data.
-1.Protecting Sensitive Information
+10. Protecting Sensitive Information
 Moreover you may use secure storage,
-like a cloud based storage solution with multiple authentication layers to prevent unauthorized access to mitigate the risk of physic
+like a cloud based storage solution with multiple authentication layers to prevent unauthorized access to mitigate the risk of physical theft or data loss.
+Regular backups,
+Maintaining backups of critical data ensures that a business may continue to use critical information in the event of a data brach or incident, which also caused data loss.
