@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/LF1/Notizen - LF1/03.06.24 - EU.md",
+                "file": "School/EnKo/Notizen - EnKo/05.04.24 -.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e936f077c9b127b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slides.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/LF1/Notizen - LF1/03.06.24 - EU.md",
+                "file": "Slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/LF1/Notizen - LF1/03.06.24 - EU.md",
+                "file": "Slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/LF1/Notizen - LF1/03.06.24 - EU.md"
+                "file": "Slides.md"
               }
             }
           },
@@ -189,11 +201,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5c93aae6cafd866a",
+  "active": "6e936f077c9b127b",
   "lastOpenFiles": [
+    "School/EnKo/Notizen - EnKo/05.04.24 -.md",
+    "Slides.md",
+    "School/LF1/Notizen - LF1/03.06.24 - EU.md",
     "Webquest_Parlament_schuelerab.pdf",
     "School/LF1/Notizen - LF1/22.04.24 - Präsi Text Verbraucherschutzt.md",
-    "School/LF1/Notizen - LF1/03.06.24 - EU.md",
     "School/LF1/Notizen - LF1/19.02.24 - Haftung.md",
     "27.05.24 - Struktogramme.md",
     "struktogrammloesung.png",
@@ -214,7 +228,6 @@
     "School/LF3/Notizen - LF3/16.02.24 - VLAN.md",
     "School/DeKo/Notizen - DeKo/15.03.24 - Konjunktiv.md",
     "26.04.24 - Identity theft presentation.md",
-    "School/EnKo/Notizen - EnKo/05.04.24 -.md",
     "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
     "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
     "School/LF4/Notizen - LF4/DSGVO - 12.04.2024.md",
@@ -236,7 +249,6 @@
     "Modus.pdf",
     "Zeichensetzung.pdf",
     "Getrennt- und Zusammenschreibung.pdf",
-    "Groß- und Kleinschreibung.pdf",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
