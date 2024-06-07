@@ -35,3 +35,4 @@ Moreover you may use secure storage,
 like a cloud based storage solution with multiple authentication layers to prevent unauthorized access to mitigate the risk of physical theft or data loss.
 Regular backups,
 Maintaining backups of critical data ensures that a business may continue to use critical information in the event of a data brach or incident, which also caused data loss.
+
