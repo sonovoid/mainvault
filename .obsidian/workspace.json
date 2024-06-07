@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 225.5,
+    "collapsed": true
   },
   "right": {
     "id": "80c809b1326bad8f",
@@ -186,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,7 +201,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e936f077c9b127b",
+  "active": "edbfeeb5d889d086",
   "lastOpenFiles": [
     "School/EnKo/Notizen - EnKo/05.04.24 -.md",
     "School/LF1/Notizen - LF1/22.04.24 - Präsi Text Verbraucherschutzt.md",
