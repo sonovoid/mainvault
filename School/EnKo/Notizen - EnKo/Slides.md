@@ -22,7 +22,14 @@ Malware Attacks: Where malicious software can be used to infiltrate systems and 
 7. Common Identity Theft Techniques
 Furthermore, as I've already mentioned, one may use Physical Theft, where the criminal steals for example a wallet, documents or devices containing personal information to exploit it for their own gain.
 Skimming Devices, you might have heard about this one, where thieves install small hidden devices on for example ATM machines or payment terminals to capture card information and PINs, usually with a camera to capture the PIN input.
-8.Impact of Identity Theft
+8. Impact of Identity Theft
 Identity theft may have devastating consequences, both financially and personally. Victims may face stolen funds damaged credit score and the troublesome task of restoring their identity and reputation.
 The physical toll can be immense, leading to feelings of violation, stress and a loss of trust in various digital systems.
-9.
+9. Protecting Sensitive Information
+First of all, Data Encryptions:
+You can protect yourself against identity theft by implementing robust encryption protocols to protect sensitive data, making sure that even if leaked or breached, that the information stays unreadable to people that aren't supposed to see it.
+Access controls:
+Enforcing strict access policies, granting only absolutely necessary access permissions to employees based on their role and task, limiting the exposure of sensitive data.
+1.Protecting Sensitive Information
+Moreover you may use secure storage,
+like a cloud based storage solution with multiple authentication layers to prevent unauthorized access to mitigate the risk of physic
