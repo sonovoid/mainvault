@@ -6,3 +6,5 @@ I will start out by talking about Identity Theft as a whole, theft techniques, c
 Then Lasse will tell you about access controls, education and awareness
 3. Identity Theft
 Identity Theft occurs when someone steals your personal information to commit fraud or other crimes.
+Thieves might use various tactics, including phishing scams, data breaches or physical theft of documents to obtain your sensitive information.
+4.Understanding Identity Theft
