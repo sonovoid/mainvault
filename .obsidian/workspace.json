@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/LF1/Notizen - LF1/22.04.24 - Präsi Text Verbraucherschutzt.md",
+                "file": "School/EnKo/Notizen - EnKo/Slides.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slides.md",
+                "file": "School/EnKo/Notizen - EnKo/Slides.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slides.md",
+                "file": "School/EnKo/Notizen - EnKo/Slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slides.md",
+                "file": "School/EnKo/Notizen - EnKo/Slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slides.md"
+                "file": "School/EnKo/Notizen - EnKo/Slides.md"
               }
             }
           },
@@ -201,13 +200,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e936f077c9b127b",
+  "active": "e0545665cf6b2810",
   "lastOpenFiles": [
     "School/EnKo/Notizen - EnKo/05.04.24 -.md",
-    "Slides.md",
+    "School/LF1/Notizen - LF1/22.04.24 - Präsi Text Verbraucherschutzt.md",
+    "School/EnKo/Notizen - EnKo/Slides.md",
     "School/LF1/Notizen - LF1/03.06.24 - EU.md",
     "Webquest_Parlament_schuelerab.pdf",
-    "School/LF1/Notizen - LF1/22.04.24 - Präsi Text Verbraucherschutzt.md",
     "School/LF1/Notizen - LF1/19.02.24 - Haftung.md",
     "27.05.24 - Struktogramme.md",
     "struktogrammloesung.png",

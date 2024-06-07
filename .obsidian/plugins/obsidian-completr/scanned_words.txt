@@ -3180,6 +3180,8 @@ aXD
 aufeinanderfolgende
 auszahlen
 already
+access
+awareness
 Java
 JRd
 JX
@@ -3717,6 +3719,7 @@ went
 worked
 wIA
 weggelassen
+whole
 in
 im
 individuell
@@ -4596,6 +4599,7 @@ Tabelle
 Typschlüssel
 Today
 Theft
+Table
 Heutzutage
 Herausforderungen
 Hindernisse
@@ -4887,6 +4891,10 @@ treffen
 täuschen
 tcp
 today
+talking
+theft
+techniques
+tell
 erscheinen
 einem
 ein
@@ -5102,6 +5110,7 @@ esQ
 eJH
 ersetzt
 exposed
+education
 kurz
 können
 kommunizieren
@@ -5678,6 +5687,7 @@ pyZ
 pXi
 pxi
 poL
+protection
 Code
 Chance
 Cd
@@ -5815,6 +5825,7 @@ Cover
 Cent
 Chaos
 CFRyu
+Content
 Man
 Mensch
 MQfQ
@@ -7512,6 +7523,8 @@ cake
 come
 care
 class
+consequences
+controls
 qX
 qj
 qR
