@@ -6,9 +6,9 @@ I will start out by talking about Identity Theft as a whole, theft techniques an
 Then Lasse will tell you about access controls, the importance of education and awareness in preventing identity theft.
 3. Identity Theft
 In our current age, identity theft is a growing concern in the IT environment, posing serious risks to organizations and individuals.
-This stealthy threat can jeopardize sensitive data, undermine system security and lead to devastating financial and reputational consequences.
+This stealthy threat can jeopardize sensitive data, undermine system security and lead to devastating financial and reputational consequences. Understanding this threat is the first step in combating it.
 4. Understanding Identity Theft
-Identity Theft occurs when someone steals your personal information to commit fraud or other crimes.
+Identity Theft occurs when someone illegally steals your personal information to commit fraud or other crimes.
 This can lead to unauthorized access to, for example, your financial accounts and significant personal and financial trouble.
 Thieves may use various tactics, including phishing scams, data breaches and physical theft of documents to obtain your sensitive information.
 5. Common Identity Theft Techniques
