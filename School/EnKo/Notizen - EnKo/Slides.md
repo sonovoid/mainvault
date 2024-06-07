@@ -1,9 +1,9 @@
-1. Welcome
-Today me and Lasse are going to talk about Identity Theft.
-Many of you might have been exposed to it already, but today, we're going to break it down for you. 
+1. Welcome everyone.
+Today me and Lasse are going to talk about the important topic of Identity Theft.
+Many of you might have been exposed to it already or encountered it personally, but today, we're going to break it down for you, so you understand its impact and how to protect against it. 
 2. Table of Content
-I will start out by talking about Identity Theft as a whole, theft techniques, consequences and protection.
-Then Lasse will tell you about access controls, education and awareness
+I will start out by talking about Identity Theft as a whole, theft techniques and its consequences and how you can protect yourself.
+Then Lasse will tell you about access controls, the importance of education and awareness in preventing identity theft.
 3. Identity Theft
 In our current age, identity theft is a growing concern in the IT environment, posing serious risks to organizations and individuals.
 This stealthy threat can jeopardize sensitive data, undermine system security and lead to devastating financial and reputational consequences.
