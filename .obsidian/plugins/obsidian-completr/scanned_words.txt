@@ -897,6 +897,7 @@ strict
 secure
 storage
 solution
+step
 richtig
 respektvoller
 rGeoTrust
@@ -1210,6 +1211,7 @@ financially
 face
 funds
 feelings
+first
 Softwareentwickler
 Software
 Softwareentwicklern
@@ -3514,6 +3516,7 @@ used
 user
 usually
 unreadable
+understand
 heutzutage
 hilft
 hierbei
@@ -3652,6 +3655,7 @@ hexadezimale
 hackers
 heard
 hidden
+how
 wichtige
 werden
 welche
@@ -3957,6 +3961,9 @@ input
 immense
 implementing
 incident
+its
+impact
+importance
 Vorteil
 Vmo
 VzPe
@@ -5017,6 +5024,7 @@ troublesome
 task
 toll
 trust
+topic
 erscheinen
 einem
 ein
@@ -5241,6 +5249,8 @@ even
 exposure
 ensures
 event
+everyone
+encountered
 kurz
 können
 kommunizieren
@@ -5837,6 +5847,7 @@ people
 policies
 permissions
 prevent
+preventing
 Code
 Chance
 Cd
@@ -7711,6 +7722,7 @@ cloud
 critical
 continue
 caused
+combating
 qX
 qj
 qR
