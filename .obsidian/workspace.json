@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3435439e01488633",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -201,7 +211,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "edbfeeb5d889d086",
+  "active": "3435439e01488633",
   "lastOpenFiles": [
     "School/EnKo/Notizen - EnKo/05.04.24 -.md",
     "School/LF1/Notizen - LF1/22.04.24 - Präsi Text Verbraucherschutzt.md",
