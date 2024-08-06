@@ -47,9 +47,11 @@
             "id": "3435439e01488633",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.3"
+                "file": "School/EnKo/Notizen - EnKo/05.04.24 -.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5,
-    "collapsed": true
+    "width": 225.5
   },
   "right": {
     "id": "80c809b1326bad8f",
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/EnKo/Notizen - EnKo/Slides.md",
+                "file": "School/EnKo/Notizen - EnKo/05.04.24 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/EnKo/Notizen - EnKo/Slides.md",
+                "file": "School/EnKo/Notizen - EnKo/05.04.24 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/EnKo/Notizen - EnKo/Slides.md"
+                "file": "School/EnKo/Notizen - EnKo/05.04.24 -.md"
               }
             }
           },
@@ -211,8 +212,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3435439e01488633",
+  "active": "edbfeeb5d889d086",
   "lastOpenFiles": [
+    "School/DePo",
+    "School/EnKo/Notizen - EnKo/16.02.24 -.md",
+    "School/EnKo/Notizen - EnKo/19.01.24 - Hardware.md",
+    "School/EnKo/Notizen - EnKo/24.11.23 - Small Talk.md",
     "School/EnKo/Notizen - EnKo/05.04.24 -.md",
     "School/LF1/Notizen - LF1/22.04.24 - Präsi Text Verbraucherschutzt.md",
     "School/EnKo/Notizen - EnKo/Slides.md",
@@ -242,16 +247,12 @@
     "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
     "School/LF4/Notizen - LF4/DSGVO - 12.04.2024.md",
     "School/LF4/Notizen - LF4/11.12.23 - RAID.md",
-    "School/EnKo/Notizen - EnKo/16.02.24 -.md",
     "School/LF2/Notizen - LF2/15.12.23 - Gruppenpuzzle.md",
     "AB Describing graphs and charts.pdf",
     "Konjunktiv I _ indirekte Rede.pdf",
     "School/DeKo/Notizen - DeKo/09.02.24 - Protokolle.md",
     "13.03.24 - S. 175-179.md",
-    "School/EnKo/Notizen - EnKo/19.01.24 - Hardware.md",
     "School/EnKo/HA - EnKo/HA - EnKo - Overview.md",
-    "08.03.24 - Ethernet Aufgaben.md",
-    "Untitled.md",
     "AB Writing emails (1).pdf",
     "ABs Prookollieren.pdf",
     "LF5.pdf",
