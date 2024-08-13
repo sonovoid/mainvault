@@ -199,6 +199,18 @@ BRI
 BIe
 Baujahr
 Breaches
+Barzahlung
+Banknoten
+Bargeld
+Bargeldlose
+Bezahlung
+Bankkarten
+Banking
+Bankkunde
+Bar
+Barscheck
+Betrag
+Bankkonto
 Aufgabe
 Aussagen
 Aufgabenbereiche
@@ -449,6 +461,9 @@ Anfang
 Attacks
 ATM
 Access
+Austausch
+Apple
+Auskunft
 Welche
 Wählen
 Wissen
@@ -636,6 +651,8 @@ Wxv
 Wohnfläche
 Welcome
 Where
+Ware
+Warum
 sind
 sich
 sehr
@@ -898,6 +915,9 @@ secure
 storage
 solution
 step
+spielen
+schwerer
+speziellen
 richtig
 respektvoller
 rGeoTrust
@@ -1050,6 +1070,7 @@ reputation
 robust
 role
 risk
+relativ
 falsch
 fundierten
 fachlichen
@@ -1212,6 +1233,7 @@ face
 funds
 feelings
 first
+faul
 Softwareentwickler
 Software
 Softwareentwicklern
@@ -1463,6 +1485,9 @@ SbJ
 Syl
 Schadenshöhe
 Skimming
+Sonja
+Sparkassen
+Sollten
 beschäftigen
 benötigen
 besitzen
@@ -1701,6 +1726,10 @@ breached
 based
 backups
 brach
+barzahlung
+bargeldlose
+bequemer
+bar
 nur
 noch
 nicht
@@ -1828,6 +1857,8 @@ nhb
 nFF
 nE
 necessary
+nachdem
+nachzuweisen
 mit
 mehreren
 müssen
@@ -1989,6 +2020,8 @@ malicious
 machines
 multiple
 mitigate
+mitteln
+minderjährig
 dem
 drei
 due
@@ -2181,6 +2214,11 @@ devastating
 documents
 devices
 digital
+direkten
+dementsprechend
+dasselbe
+downloaden
+dieses
 Programmieren
 Python
 Programmiersprachen
@@ -2378,6 +2416,11 @@ Physical
 PINs
 PIN
 Protecting
+Postdienstleister
+Popularität
+Pay
+PayPal
+Perso
 von
 vielfältig
 verfasst
@@ -2555,6 +2598,11 @@ various
 valid
 victims
 violation
+verschieden
+verschiedener
+vergleichen
+vorlegen
+verlangt
 Die
 Debuggen
 Da
@@ -2735,6 +2783,7 @@ DOpg
 Dzj
 Doppelpunkte
 Devices
+Debit
 Neben
 NZo
 Nl
@@ -2884,6 +2933,9 @@ NKL
 Nullen
 NAT
 Neupreis
+Nachnahmen
+NFC
+Neukundenbonus
 Kenntnissen
 Kompetenzen
 Kenntnisse
@@ -3043,6 +3095,11 @@ KI
 KFeb
 Kette
 KFZ
+Käufer
+Kreditkarten
+Kontoauszüge
+Kontoführungsgebühren
+Kosten
 auch
 andere
 aus
@@ -3263,6 +3320,11 @@ against
 aren
 absolutely
 authentication
+aufbringen
+ausdrucken
+ausgedruckt
+ausstellenden
+ausgezahlt
 Java
 JRd
 JX
@@ -3656,6 +3718,10 @@ hackers
 heard
 hidden
 how
+halbbarezahlung
+halbbare
+hallbare
+hilfreich
 wichtige
 werden
 welche
@@ -3817,6 +3883,7 @@ ways
 which
 without
 wallet
+welcher
 in
 im
 individuell
@@ -3964,6 +4031,7 @@ incident
 its
 impact
 importance
+involviert
 Vorteil
 Vmo
 VzPe
@@ -4173,6 +4241,9 @@ VOSU
 VM
 VNx
 Victims
+Verkäufer
+Verrechnungsscheck
+Verfahren
 Entwicklerdokumentationen
 Entscheidung
 Es
@@ -4361,6 +4432,10 @@ Ende
 Einsatz
 Encryptions
 Enforcing
+Erfolgt
+Einrichtung
+Erziehungsberechtigten
+Empfängers
 Fachkenntnisse
 Falle
 Filter
@@ -4718,6 +4793,8 @@ Table
 This
 Thieves
 Techniques
+Tausch
+Taten
 Heutzutage
 Herausforderungen
 Hindernisse
@@ -5025,6 +5102,7 @@ task
 toll
 trust
 topic
+tun
 erscheinen
 einem
 ein
@@ -5251,6 +5329,10 @@ ensures
 event
 everyone
 encountered
+eröffnen
+eingelöst
+eingezahlt
+einlösen
 kurz
 können
 kommunizieren
@@ -5403,6 +5485,7 @@ kaufen
 klare
 kPL
 knowledge
+kontaktlosen
 Ihre
 In
 IY
@@ -5560,6 +5643,7 @@ IVzH
 Ingesamt
 Its
 Impact
+Identität
 Überlegungen
 Überarbeitung
 Überstunden
@@ -5571,6 +5655,7 @@ Impact
 Über
 Überlegen
 Überschriften
+Übergabe
 organize
 oft
 oder
@@ -5848,6 +5933,8 @@ policies
 permissions
 prevent
 preventing
+physischer
+physisches
 Code
 Chance
 Cd
@@ -5986,6 +6073,8 @@ Cent
 Chaos
 CFRyu
 Content
+Checks
+Check
 Man
 Mensch
 MQfQ
@@ -6194,6 +6283,7 @@ Many
 Malware
 Moreover
 Maintaining
+Münzen
 logisch
 lZD
 lfq
@@ -6348,6 +6438,7 @@ layers
 übrigens
 übergeben
 überflüssige
+übergibt
 Lage
 Lösung
 Lernsituation
@@ -6652,6 +6743,7 @@ zukünftigen
 zzA
 zhH
 zoP
+zugesandt
 geht
 gutes
 gh
@@ -6859,6 +6951,9 @@ growing
 groups
 gain
 granting
+geringere
+gewinnt
+getroffen
 Gleichzeitig
 GN
 Gp
@@ -7033,6 +7128,11 @@ Gefahr
 Geldanlagen
 Gxlm
 GMl
+Girokarten
+Google
+Girokonto
+Girokontos
+Geburtsurkunde
 Umgang
 Umfeld
 US
@@ -7290,6 +7390,7 @@ OEM
 OyD
 OHDk
 Other
+Opfer
 jE
 jZ
 jM
@@ -7403,6 +7504,7 @@ jetzt
 jedoch
 jeopardize
 just
+jeden
 Xg
 XU
 XR
@@ -8251,6 +8353,11 @@ Zugehörigkeit
 Zugriffsberechtigte
 Zertifizierungen
 ZHp
+Zahlungsmitteln
+Zahlungsarten
+Zahlt
+Zahlungen
+Zustimmung
 Rih
 Root
 Regel
@@ -8404,6 +8511,9 @@ RfW
 RbPKI
 RdY
 Regular
+Rolle
+Reisepass
+Riskant
 ändern
 ältere
 äußern
@@ -8419,3 +8529,4 @@ Regular
 öT
 öO
 öffnet
+öffnen
