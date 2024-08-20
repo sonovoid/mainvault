@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3410bf13e5d2922a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/DePo/13.08.24 - S.126.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ca1f3b11cd9788e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/LF7/13.08.24 - Elektrostatik.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "749dc37a577372f8",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
