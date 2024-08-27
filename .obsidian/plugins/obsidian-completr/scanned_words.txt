@@ -225,6 +225,9 @@ Benutzerbewertungen
 Benzin
 Bildungs
 Beschreiben
+Behauptung
+Bedrohung
+Begründung
 Aufgabe
 Aussagen
 Aufgabenbereiche
@@ -494,6 +497,9 @@ Angebot
 Auch
 Anstieg
 Arbeitskräfte
+Argument
+Autor
+Arguments
 Welche
 Wählen
 Wissen
@@ -695,6 +701,7 @@ Wohlstands
 Wirtschaft
 Warenkorb
 Wachstum
+Wetterbedingungen
 sind
 sich
 sehr
@@ -969,6 +976,8 @@ selbe
 sink
 schneller
 steigen
+seiner
+stiegen
 richtig
 respektvoller
 rGeoTrust
@@ -1126,6 +1135,7 @@ richtigen
 regelmäßige
 reduzierte
 repräsentiert
+rüberzubringen
 falsch
 fundierten
 fachlichen
@@ -1292,6 +1302,8 @@ faul
 flash
 festlegen
 finanziert
+folgen
+führten
 Softwareentwickler
 Software
 Softwareentwicklern
@@ -1565,6 +1577,8 @@ Schritten
 Steigerung
 Schuldner
 Sparer
+Solche
+Sterblichkeitsrate
 beschäftigen
 benötigen
 besitzen
@@ -1812,6 +1826,7 @@ benutzerfreundliches
 beheben
 beispielweise
 betroffen
+bestehenden
 nur
 noch
 nicht
@@ -2308,6 +2323,8 @@ deren
 durchführen
 durchschnittlichen
 durchschnittliche
+dar
+deutlichen
 Programmieren
 Python
 Programmiersprachen
@@ -2530,6 +2547,7 @@ Planungssicherheit
 Preisniveaus
 Preisen
 Produktion
+Punkt
 von
 vielfältig
 verfasst
@@ -2714,6 +2732,8 @@ vorlegen
 verlangt
 verstehen
 verlieren
+vergangenen
+verzeichnete
 Die
 Debuggen
 Da
@@ -3237,6 +3257,7 @@ Konsumausgaben
 Kleidung
 Kaufkraftverlust
 Kapazität
+Krankenhauseinweisungen
 auch
 andere
 aus
@@ -3471,6 +3492,7 @@ abhängig
 aller
 allgemein
 ausweitet
+aufzugreifen
 Java
 JRd
 JX
@@ -3585,6 +3607,7 @@ JW
 JZyJ
 Jede
 JavaScript
+Jahrhundert
 und
 until
 um
@@ -3872,6 +3895,9 @@ hallbare
 hilfreich
 hiervon
 höher
+häufigere
+hitzebedingte
+hitzebedingten
 wichtige
 werden
 welche
@@ -4188,6 +4214,9 @@ importance
 involviert
 iOS
 inflationär
+indirekte
+intensivere
+intensivste
 Vorteil
 Vmo
 VzPe
@@ -4412,6 +4441,7 @@ Verbraucherpreisindex
 Vermeidung
 Verlaufe
 Verhältnis
+Verbreitung
 Entwicklerdokumentationen
 Entscheidung
 Es
@@ -4614,6 +4644,8 @@ Einen
 Entwicklungsprozess
 Einflussfaktoren
 Ersparnisse
+Europa
+Erkrankungen
 Fachkenntnisse
 Falle
 Filter
@@ -4796,6 +4828,7 @@ Fit
 Funktionale
 Feedback
 Freizeitaktivitäten
+Faden
 Testen
 Tellerrand
 Teammitgliedern
@@ -4997,6 +5030,9 @@ Testing
 Testplattformen
 TestFlight
 Transportkosten
+Typen
+Todesfälle
+Temperaturen
 Heutzutage
 Herausforderungen
 Hindernisse
@@ -5158,6 +5194,9 @@ Hosting
 Hieran
 Haushalte
 Haushalten
+Hierbei
+Hörer
+Hitzewellen
 teamfähig
 todo
 technisches
@@ -5549,6 +5588,10 @@ erfolgreiche
 erhöhte
 erkennen
 entwertetem
+einzuordnen
+einfache
+extremeren
+erhöhten
 kurz
 können
 kommunizieren
@@ -6309,6 +6352,7 @@ Check
 Cross
 Cloud
 Console
+Celsius
 Man
 Mensch
 MQfQ
@@ -6527,6 +6571,7 @@ Media
 Maß
 Mieten
 Menge
+Malariagebieten
 logisch
 lZD
 lfq
@@ -6847,6 +6892,7 @@ Let
 Launch
 Lebensmittel
 Lebenshaltung
+Leser
 zu
 zusammen
 zxn
@@ -7206,6 +7252,7 @@ getroffen
 getestet
 geringen
 gewährt
+größte
 Gleichzeitig
 GN
 Gp
@@ -7399,6 +7446,9 @@ Gegenteil
 Gläubiger
 Güterangebot
 Gesamtnachfrage
+Geschichte
+Grad
+Gesundheitsproblemen
 Umgang
 Umfeld
 US
@@ -8801,11 +8851,13 @@ Relational
 Regelmäßige
 Rohstoffe
 Rückzahlungen
+Risiko
 ändern
 ältere
 äußern
 äußerte
 ähnlichen
+älteren
 Öffnen
 Örtliche
 ÄV
