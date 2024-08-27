@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20.08.24 - Was benötigt man fürs Projekt.md",
+                "file": "School/DePo/20.08.24 - Geldwert.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e792f893364ee580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "27.08.24 -.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20.08.24 - Was benötigt man fürs Projekt.md",
+                "file": "27.08.24 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20.08.24 - Was benötigt man fürs Projekt.md",
+                "file": "27.08.24 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20.08.24 - Was benötigt man fürs Projekt.md"
+                "file": "27.08.24 -.md"
               }
             }
           },
@@ -188,13 +200,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "362ad393089c4376",
+  "active": "e792f893364ee580",
   "lastOpenFiles": [
-    "School/LF Seider/13.08.24 - CISCO Konsole.md",
+    "School/DePo/20.08.24 - Geldwert.md",
+    "27.08.24 -.md",
+    "School/DeKo/Notizen - DeKo/15.03.24 - Konjunktiv.md",
     "20.08.24 - Was benötigt man fürs Projekt.md",
+    "School/LF Seider/13.08.24 - CISCO Konsole.md",
     "School/DePo/13.08.24 - S.126.md",
     "WhatsApp Image 2024-08-20 at 07.34.39 (1).pdf",
-    "School/DePo/20.08.24 - Geldwert.md",
     "2.9.2-lab---basic-switch-and-end-device-configuration_de-DE.pdf",
     "2.3.8-lab---navigate-the-ios-by-using-tera-term-for-console-connectivity_de-DE.pdf",
     "School/LF7/13.08.24 - Elektrostatik.md",
@@ -230,12 +244,10 @@
     "School/LF2/Notizen - LF2/08.04.24 - Themen Klausur + Netzplan.md",
     "03.05.24 - Klausurvorbereitung IPv6.md",
     "School/LF3/Notizen - LF3/16.02.24 - VLAN.md",
-    "School/DeKo/Notizen - DeKo/15.03.24 - Konjunktiv.md",
     "26.04.24 - Identity theft presentation.md",
     "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
     "School/LF3/Notizen - LF3/15.09.23 - LF3 - CISCO.md",
     "School/LF4/Notizen - LF4/DSGVO - 12.04.2024.md",
-    "School/LF4/Notizen - LF4/11.12.23 - RAID.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
