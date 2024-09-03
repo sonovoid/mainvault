@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/LF8-ML/27.08.24 - SCRUM.md",
+                "file": "School/DePo/20.08.24 - Geldwert.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7b7236fe2567575",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03.09.24 - Außenwert des Geldes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/LF8-ML/27.08.24 - SCRUM.md",
+                "file": "03.09.24 - Außenwert des Geldes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/LF8-ML/27.08.24 - SCRUM.md",
+                "file": "03.09.24 - Außenwert des Geldes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/LF8-ML/27.08.24 - SCRUM.md"
+                "file": "03.09.24 - Außenwert des Geldes.md"
               }
             }
           },
@@ -212,16 +224,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd0fe286e49b5279",
+  "active": "d7b7236fe2567575",
   "lastOpenFiles": [
-    "LS1_Handlungssituation.pdf",
+    "School/DePo/20.08.24 - Geldwert.md",
+    "03.09.24 - Außenwert des Geldes.md",
     "School/DePo/27.08.24 - Argumentieren.md",
-    "School/LF8-ML/LS1_Handlungssituation.pdf",
     "School/LF8-ML/27.08.24 - SCRUM.md",
+    "LS1_Handlungssituation.pdf",
+    "School/LF8-ML/LS1_Handlungssituation.pdf",
     "School/LF8-ML",
     "dLgadOhmzh.png",
     "ArgumentationI.pdf",
-    "School/DePo/20.08.24 - Geldwert.md",
     "School/DeKo/Notizen - DeKo/15.03.24 - Konjunktiv.md",
     "20.08.24 - Was benötigt man fürs Projekt.md",
     "School/LF Seider/13.08.24 - CISCO Konsole.md",
@@ -233,7 +246,6 @@
     "School/LF Seider",
     "02 Elektrostatik_lösung.pdf",
     "02 Elektrostatik.pdf",
-    "School/LF7",
     "IMG-20240813-WA0009.jpg",
     "School/EnKo/Notizen - EnKo/Slides.md",
     "School/EnKo/Notizen - EnKo/16.02.24 -.md",
