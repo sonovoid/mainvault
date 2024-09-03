@@ -235,6 +235,7 @@ Bold
 BCDGEE
 BJK
 Bcqv
+Bis
 Aufgabe
 Aussagen
 Aufgabenbereiche
@@ -517,6 +518,8 @@ Aqu
 AQW
 AXu
 AP
+Aktueller
+Anwesenheit
 Welche
 Wählen
 Wissen
@@ -1620,6 +1623,7 @@ Sterblichkeitsrate
 StemV
 SyiSB
 Seq
+Stundenplan
 beschäftigen
 benötigen
 besitzen
@@ -4175,6 +4179,7 @@ wYRjr
 wMt
 wro
 wyn
+wodurch
 in
 im
 individuell
@@ -4562,6 +4567,7 @@ ViewerPreferences
 VyrU
 VCQHM
 Vdf
+Vertretungspläne
 Entwicklerdokumentationen
 Entscheidung
 Es
@@ -4770,6 +4776,7 @@ Et
 Ek
 EcQ
 EaI
+Echtzeit
 Fachkenntnisse
 Falle
 Filter
@@ -5337,6 +5344,7 @@ Hqk
 HZ
 HUL
 HXs
+Handlungsergebnis
 teamfähig
 todo
 technisches
@@ -6897,6 +6905,7 @@ limiting
 layers
 lanbasek
 langfristige
+lösen
 über
 üblicherweise
 überprüft
@@ -7083,6 +7092,7 @@ LLA
 Lk
 Lef
 Lenz
+Lehrern
 zu
 zusammen
 zxn
@@ -7453,6 +7463,7 @@ gcJaJf
 gd
 gL
 gMK
+gelöst
 Gleichzeitig
 GN
 Gp
@@ -7805,6 +7816,7 @@ UsH
 Ub
 UJS
 ULY
+Umsetzen
 ObjStm
 Obwohl
 Ob
@@ -8952,6 +8964,7 @@ Zuxk
 Zkv
 ZjM
 ZRs
+Zentrales
 Rih
 Root
 Regel
@@ -9122,6 +9135,7 @@ RrL
 Rf
 RsOoj
 RDF
+Raumönderungen
 ändern
 ältere
 äußern
