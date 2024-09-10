@@ -73,14 +73,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10.09.24 -.md",
+                "file": "School/LF7/13.08.24 - Elektrostatik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa3c8a740e2f0d05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10.09.24 - Pulsierende LED.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/LF Seider/13.08.24 - CISCO Konsole.md",
+                "file": "10.09.24 - Pulsierende LED.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/LF Seider/13.08.24 - CISCO Konsole.md",
+                "file": "10.09.24 - Pulsierende LED.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/LF Seider/13.08.24 - CISCO Konsole.md"
+                "file": "10.09.24 - Pulsierende LED.md"
               }
             }
           },
@@ -236,8 +248,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "edbfeeb5d889d086",
+  "active": "aa3c8a740e2f0d05",
   "lastOpenFiles": [
+    "School/LF7/13.08.24 - Elektrostatik.md",
+    "10.09.24 - Pulsierende LED.md",
+    "School/LF Seider/13.08.24 - CISCO Konsole.md",
     "ArgumentationIII (1).pdf",
     "School/DePo/03.09.24 - Außenwert des Geldes.md",
     "10.09.24 -.md",
@@ -251,15 +266,12 @@
     "ArgumentationI.pdf",
     "School/DeKo/Notizen - DeKo/15.03.24 - Konjunktiv.md",
     "20.08.24 - Was benötigt man fürs Projekt.md",
-    "School/LF Seider/13.08.24 - CISCO Konsole.md",
     "School/DePo/13.08.24 - S.126.md",
     "WhatsApp Image 2024-08-20 at 07.34.39 (1).pdf",
     "2.9.2-lab---basic-switch-and-end-device-configuration_de-DE.pdf",
     "2.3.8-lab---navigate-the-ios-by-using-tera-term-for-console-connectivity_de-DE.pdf",
-    "School/LF7/13.08.24 - Elektrostatik.md",
     "School/LF Seider",
     "02 Elektrostatik_lösung.pdf",
-    "02 Elektrostatik.pdf",
     "IMG-20240813-WA0009.jpg",
     "School/EnKo/Notizen - EnKo/Slides.md",
     "School/EnKo/Notizen - EnKo/16.02.24 -.md",
