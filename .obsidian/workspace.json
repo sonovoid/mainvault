@@ -130,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 225.5,
+    "collapsed": true
   },
   "right": {
     "id": "80c809b1326bad8f",
@@ -236,7 +237,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8afded59eb8eca8f",
+  "active": "edbfeeb5d889d086",
   "lastOpenFiles": [
     "ArgumentationIII (1).pdf",
     "School/DePo/03.09.24 - Außenwert des Geldes.md",
