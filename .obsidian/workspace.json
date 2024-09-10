@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.09.24 - Außenwert des Geldes.md",
+                "file": "School/DePo/03.09.24 - Außenwert des Geldes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8afded59eb8eca8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10.09.24 -.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03.09.24 - Außenwert des Geldes.md",
+                "file": "10.09.24 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03.09.24 - Außenwert des Geldes.md",
+                "file": "10.09.24 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.09.24 - Außenwert des Geldes.md"
+                "file": "10.09.24 -.md"
               }
             }
           },
@@ -224,10 +236,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d7b7236fe2567575",
+  "active": "8afded59eb8eca8f",
   "lastOpenFiles": [
+    "ArgumentationIII (1).pdf",
+    "School/DePo/03.09.24 - Außenwert des Geldes.md",
+    "10.09.24 -.md",
     "School/DePo/20.08.24 - Geldwert.md",
-    "03.09.24 - Außenwert des Geldes.md",
     "School/DePo/27.08.24 - Argumentieren.md",
     "School/LF8-ML/27.08.24 - SCRUM.md",
     "LS1_Handlungssituation.pdf",
@@ -270,8 +284,6 @@
     "School/LF2/Notizen - LF2/08.04.24 - Themen Klausur + Netzplan.md",
     "03.05.24 - Klausurvorbereitung IPv6.md",
     "School/LF3/Notizen - LF3/16.02.24 - VLAN.md",
-    "26.04.24 - Identity theft presentation.md",
-    "School/LF3/Notizen - LF3/08.09.23 - LF3 - Glossar Teil 1.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
