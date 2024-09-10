@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5,
-    "collapsed": true
+    "width": 225.5
   },
   "right": {
     "id": "80c809b1326bad8f",
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10.09.24 -.md",
+                "file": "School/LF Seider/13.08.24 - CISCO Konsole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10.09.24 -.md",
+                "file": "School/LF Seider/13.08.24 - CISCO Konsole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10.09.24 -.md"
+                "file": "School/LF Seider/13.08.24 - CISCO Konsole.md"
               }
             }
           },
